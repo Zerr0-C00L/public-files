@@ -1,0 +1,42 @@
+name: Fetch TMDB Series Lists
+
+on:
+  schedule:
+    # Run daily at 7 AM UTC (1 hour after movies)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      lists:
+        description: 'Lists to fetch (comma-separated: airing_today,on_the_air,popular,top_rated)'
+        required: false
+        default: 'airing_today,on_the_air,popular,top_rated'
+
+jobs:
+  fetch-series-lists:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          
+      - name: Create output directory
+        run: mkdir -p series_lists
+        
+      - name: Fetch TMDB Series Lists
+        env:
+          TMDB_API_KEY: ${{ secrets.SECRET_API_KEY }}
+          FETCH_SERIES_LISTS: ${{ github.event.inputs.lists || 'airing_today,on_the_air,popular,top_rated' }}
+        run: php php/fetch_series_lists.php
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add series_lists/
+          git diff --staged --quiet || git commit -m "Update TMDB series lists - $(date +'%Y-%m-%d %H:%M')"
+          git push
