@@ -15,7 +15,7 @@ $language = 'en-US';
 $region = 'US';
 
 // Quality filters - adjust these to control what gets included
-$minVoteCount = 100;          // Minimum number of votes (filters out obscure movies)
+$minVoteCount = 50;           // Minimum number of votes (filters out obscure movies)
 $minVoteAverage = 4.0;        // Minimum rating (filters out poorly rated movies)
 $minCollectionSize = 2;       // Minimum movies in a collection to include it
 $minYear = 1950;              // Skip very old movies
