@@ -15,10 +15,10 @@ $language = 'en-US';
 $region = 'US';
 
 // Quality filters - adjust these to control what gets included
-$minVoteCount = 50;           // Minimum number of votes (filters out obscure movies)
-$minVoteAverage = 5.0;        // Minimum rating (filters out poorly rated movies)
+$minVoteCount = 100;          // Minimum number of votes (filters out obscure movies)
+$minVoteAverage = 4.0;        // Minimum rating (filters out poorly rated movies)
 $minCollectionSize = 2;       // Minimum movies in a collection to include it
-$minYear = 1970;              // Skip very old movies
+$minYear = 1950;              // Skip very old movies
 $minPopularity = 5.0;         // Minimum popularity score (filters out unknown movies)
 
 echo "Starting TMDB Collections Fetch...\n";
