@@ -1,7 +1,7 @@
 <?php
 /**
  * Fetch TMDB Movie Lists
- * Fetches: Now Playing, Popular, Top Rated, Upcoming
+ * Fetches: Now Playing, Popular, Top Rated, Upcoming, Latest Releases
  * Run via GitHub Actions on schedule
  */
 
@@ -16,27 +16,47 @@ $language = 'en-US';
 $region = 'US';
 $maxPages = 25; // ~500 movies per list
 
+// Calculate date range for latest releases (last 6 weeks)
+$dateFrom = date('Y-m-d', strtotime('-6 weeks'));
+$dateTo = date('Y-m-d');
+
 // Movie list endpoints
 $lists = [
     'now_playing' => [
         'endpoint' => 'movie/now_playing',
         'name' => 'Now Playing',
-        'filename' => 'movies_now_playing.json'
+        'filename' => 'now_playing_movies.json',
+        'type' => 'standard'
     ],
     'popular' => [
         'endpoint' => 'movie/popular', 
         'name' => 'Popular',
-        'filename' => 'movies_popular.json'
+        'filename' => 'popular_movies.json',
+        'type' => 'standard'
     ],
     'top_rated' => [
         'endpoint' => 'movie/top_rated',
         'name' => 'Top Rated',
-        'filename' => 'movies_top_rated.json'
+        'filename' => 'top_rated_movies.json',
+        'type' => 'standard'
     ],
     'upcoming' => [
         'endpoint' => 'movie/upcoming',
         'name' => 'Upcoming',
-        'filename' => 'movies_upcoming.json'
+        'filename' => 'upcoming_movies.json',
+        'type' => 'standard'
+    ],
+    'latest_releases' => [
+        'endpoint' => 'discover/movie',
+        'name' => 'Latest Releases',
+        'filename' => 'latest_releases_movies.json',
+        'type' => 'discover',
+        'params' => [
+            'with_release_type' => '4|5|6',  // 4=Digital, 5=Physical, 6=TV
+            'release_date.gte' => $dateFrom,
+            'release_date.lte' => $dateTo,
+            'sort_by' => 'popularity.desc'
+        ]
     ]
 ];
 
@@ -46,7 +66,8 @@ $fetchLists = getenv('FETCH_LISTS') ? explode(',', getenv('FETCH_LISTS')) : arra
 echo "TMDB Movie Lists Fetcher\n";
 echo "========================\n";
 echo "API Key: " . substr($apiKey, 0, 8) . "...\n";
-echo "Lists to fetch: " . implode(', ', $fetchLists) . "\n\n";
+echo "Lists to fetch: " . implode(', ', $fetchLists) . "\n";
+echo "Latest releases date range: $dateFrom to $dateTo\n\n";
 
 $outputDir = dirname(__DIR__) . '/movie_lists';
 if (!is_dir($outputDir)) {
@@ -69,7 +90,15 @@ foreach ($fetchLists as $listKey) {
     $seenIds = [];
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&page={$page}";
+        // Build URL based on list type
+        if ($list['type'] === 'discover') {
+            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&page={$page}";
+            foreach ($list['params'] as $param => $value) {
+                $url .= "&" . urlencode($param) . "=" . urlencode($value);
+            }
+        } else {
+            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&page={$page}";
+        }
         
         $response = @file_get_contents($url);
         if ($response === false) {

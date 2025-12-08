@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       lists:
-        description: 'Lists to fetch (comma-separated: now_playing,popular,top_rated,upcoming)'
+        description: 'Lists to fetch (comma-separated: now_playing,popular,top_rated,upcoming,latest_releases)'
         required: false
-        default: 'now_playing,popular,top_rated,upcoming'
+        default: 'now_playing,popular,top_rated,upcoming,latest_releases'
 
 jobs:
   fetch-movie-lists:
@@ -30,7 +30,7 @@ jobs:
       - name: Fetch TMDB Movie Lists
         env:
           TMDB_API_KEY: ${{ secrets.SECRET_API_KEY }}
-          FETCH_LISTS: ${{ github.event.inputs.lists || 'now_playing,popular,top_rated,upcoming' }}
+          FETCH_LISTS: ${{ github.event.inputs.lists || 'now_playing,popular,top_rated,upcoming,latest_releases' }}
         run: php php/fetch_movie_lists.php
         
       - name: Commit and push changes

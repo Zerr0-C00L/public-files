@@ -7,6 +7,7 @@
  * - On The Air (airing in the next 7 days)
  * - Popular
  * - Top Rated
+ * - Latest Releases (Digital, Physical, TV premieres)
  * 
  * Environment Variables:
  * - TMDB_API_KEY: Your TMDB API key
@@ -18,8 +19,12 @@ if (!$apiKey) {
     die("Error: TMDB_API_KEY environment variable not set\n");
 }
 
+// Calculate date range for latest releases (last 6 weeks)
+$dateFrom = date('Y-m-d', strtotime('-6 weeks'));
+$dateTo = date('Y-m-d');
+
 // Lists to fetch (can be overridden by environment variable)
-$defaultLists = ['airing_today', 'on_the_air', 'popular', 'top_rated'];
+$defaultLists = ['airing_today', 'on_the_air', 'popular', 'top_rated', 'latest_releases'];
 $fetchLists = getenv('FETCH_SERIES_LISTS') ?: getenv('FETCH_LISTS');
 $listsToFetch = $fetchLists ? explode(',', $fetchLists) : $defaultLists;
 
@@ -57,12 +62,15 @@ function fetchFromTMDB($url, $apiKey) {
 /**
  * Fetch all pages of a list
  */
-function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25) {
+function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25, $extraParams = []) {
     $allResults = [];
     $page = 1;
     
     while ($page <= $maxPages) {
         $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US';
+        foreach ($extraParams as $param => $value) {
+            $url .= '&' . urlencode($param) . '=' . urlencode($value);
+        }
         $data = fetchFromTMDB($url, $apiKey);
         
         if (!$data || empty($data['results'])) {
@@ -109,18 +117,32 @@ $listEndpoints = [
     'airing_today' => '/tv/airing_today',
     'on_the_air' => '/tv/on_the_air',
     'popular' => '/tv/popular',
-    'top_rated' => '/tv/top_rated'
+    'top_rated' => '/tv/top_rated',
+    'latest_releases' => '/discover/tv'
 ];
 
 $listDescriptions = [
     'airing_today' => 'TV series airing today',
     'on_the_air' => 'TV series airing in the next 7 days',
     'popular' => 'Popular TV series',
-    'top_rated' => 'Top rated TV series'
+    'top_rated' => 'Top rated TV series',
+    'latest_releases' => 'Latest releases (Digital, Physical, Premiere)'
+];
+
+// Extra params for discover endpoint
+$discoverParams = [
+    'latest_releases' => [
+        'first_air_date.gte' => $dateFrom,
+        'first_air_date.lte' => $dateTo,
+        'sort_by' => 'first_air_date.desc',
+        'with_status' => '0|2|3',  // Returning Series, Planned, In Production, Ended
+        'with_type' => '0|1|2|3|4|5|6'  // All types
+    ]
 ];
 
 echo "=== TMDB TV Series List Fetcher ===\n";
-echo "Date: " . date('Y-m-d H:i:s') . "\n\n";
+echo "Date: " . date('Y-m-d H:i:s') . "\n";
+echo "Latest releases date range: $dateFrom to $dateTo\n\n";
 
 $summary = [];
 
@@ -135,7 +157,8 @@ foreach ($listsToFetch as $listName) {
     echo "Fetching: {$listDescriptions[$listName]}...\n";
     
     $endpoint = $listEndpoints[$listName];
-    $series = fetchAllPages($endpoint, $apiKey, $baseUrl);
+    $extraParams = $discoverParams[$listName] ?? [];
+    $series = fetchAllPages($endpoint, $apiKey, $baseUrl, 25, $extraParams);
     
     if (empty($series)) {
         echo "  Error: No series fetched for $listName\n";

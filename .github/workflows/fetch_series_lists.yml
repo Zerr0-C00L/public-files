@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       lists:
-        description: 'Lists to fetch (comma-separated: airing_today,on_the_air,popular,top_rated)'
+        description: 'Lists to fetch (comma-separated: airing_today,on_the_air,popular,top_rated,latest_releases)'
         required: false
-        default: 'airing_today,on_the_air,popular,top_rated'
+        default: 'airing_today,on_the_air,popular,top_rated,latest_releases'
 
 jobs:
   fetch-series-lists:
@@ -30,7 +30,7 @@ jobs:
       - name: Fetch TMDB Series Lists
         env:
           TMDB_API_KEY: ${{ secrets.SECRET_API_KEY }}
-          FETCH_SERIES_LISTS: ${{ github.event.inputs.lists || 'airing_today,on_the_air,popular,top_rated' }}
+          FETCH_SERIES_LISTS: ${{ github.event.inputs.lists || 'airing_today,on_the_air,popular,top_rated,latest_releases' }}
         run: php php/fetch_series_lists.php
         
       - name: Commit and push changes
