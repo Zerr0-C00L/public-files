@@ -70,6 +70,36 @@ function isEnglishName($name) {
     if (preg_match('/[\x{0980}-\x{09FF}]/u', $name)) return false; // Bengali
     if (preg_match('/[\x{0B80}-\x{0BFF}]/u', $name)) return false; // Tamil
     if (preg_match('/[\x{0C00}-\x{0C7F}]/u', $name)) return false; // Telugu
+    
+    // Skip collections with foreign language keywords in the name
+    $foreignKeywords = [
+        // Indian/Bollywood
+        'bollywood', 'tamil', 'telugu', 'hindi', 'malayalam', 'kannada', 'bengali', 'punjabi', 'marathi', 'bhojpuri',
+        'kollywood', 'tollywood', 'sandalwood', 'desi', 'indian cinema',
+        // Asian
+        'korean', 'k-drama', 'kdrama', 'chinese', 'mandarin', 'cantonese', 'japanese', 'anime', 'thai', 'vietnamese',
+        'filipino', 'pinoy', 'tagalog', 'indonesian', 'malaysian',
+        // European (non-English)
+        'french', 'francais', 'français', 'german', 'deutsch', 'spanish', 'español', 'espanol', 'italian', 'italiano',
+        'portuguese', 'português', 'russian', 'polish', 'polski', 'dutch', 'swedish', 'danish', 'norwegian', 'finnish',
+        'turkish', 'greek', 'romanian', 'hungarian', 'czech', 'serbian', 'croatian', 'bulgarian',
+        // Latin American
+        'mexican', 'mexicano', 'brazilian', 'brasileiro', 'latino', 'latina', 'telenovela',
+        // Middle Eastern
+        'arabic', 'persian', 'iranian', 'turkish', 'hebrew', 'israeli',
+        // African
+        'nigerian', 'nollywood', 'african',
+        // Generic foreign indicators
+        'dubbed', 'subtitled', 'foreign', 'international'
+    ];
+    
+    $nameLower = strtolower($name);
+    foreach ($foreignKeywords as $keyword) {
+        if (strpos($nameLower, $keyword) !== false) {
+            return false;
+        }
+    }
+    
     return true;
 }
 
