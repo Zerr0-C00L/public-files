@@ -202,9 +202,9 @@ foreach ($collectionIds as $collectionId => $collectionName) {
         continue;
     }
     
-    // QUALITY CHECK: Need at least 2 quality movies to include this collection
+    // QUALITY CHECK: Need at least 1 quality movie to include this collection
     // If collection qualifies, we'll include ALL movies from it (not just quality ones)
-    if ($qualityMovieCount < $minCollectionSize) {
+    if ($qualityMovieCount < 1) {
         continue;
     }
     
