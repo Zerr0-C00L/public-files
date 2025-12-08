@@ -56,6 +56,23 @@ $searchTerms = array_merge(
 
 $collectionIds = [];
 
+// Function to check if collection name looks English (no non-Latin characters)
+function isEnglishName($name) {
+    // Skip if contains non-Latin characters (Chinese, Japanese, Korean, Arabic, Hindi, etc.)
+    if (preg_match('/[\x{0400}-\x{04FF}]/u', $name)) return false; // Cyrillic (Russian)
+    if (preg_match('/[\x{0600}-\x{06FF}]/u', $name)) return false; // Arabic
+    if (preg_match('/[\x{0900}-\x{097F}]/u', $name)) return false; // Devanagari (Hindi)
+    if (preg_match('/[\x{4E00}-\x{9FFF}]/u', $name)) return false; // Chinese
+    if (preg_match('/[\x{3040}-\x{309F}]/u', $name)) return false; // Hiragana (Japanese)
+    if (preg_match('/[\x{30A0}-\x{30FF}]/u', $name)) return false; // Katakana (Japanese)
+    if (preg_match('/[\x{AC00}-\x{D7AF}]/u', $name)) return false; // Korean
+    if (preg_match('/[\x{0E00}-\x{0E7F}]/u', $name)) return false; // Thai
+    if (preg_match('/[\x{0980}-\x{09FF}]/u', $name)) return false; // Bengali
+    if (preg_match('/[\x{0B80}-\x{0BFF}]/u', $name)) return false; // Tamil
+    if (preg_match('/[\x{0C00}-\x{0C7F}]/u', $name)) return false; // Telugu
+    return true;
+}
+
 foreach ($searchTerms as $term) {
     echo "Searching collections: '$term'... ";
     $foundThisTerm = 0;
@@ -77,7 +94,14 @@ foreach ($searchTerms as $term) {
         
         foreach ($data['results'] as $collection) {
             if (isset($collection['id']) && !isset($collectionIds[$collection['id']])) {
-                $collectionIds[$collection['id']] = $collection['name'] ?? 'Unknown';
+                $name = $collection['name'] ?? 'Unknown';
+                
+                // FILTER: Skip non-English collection names during search
+                if (!isEnglishName($name)) {
+                    continue;
+                }
+                
+                $collectionIds[$collection['id']] = $name;
                 $foundThisTerm++;
             }
         }
