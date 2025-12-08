@@ -5,41 +5,58 @@
  * Saves to collections_playlist.json
  */
 
-$GLOBALS['DEBUG'] = false;
 set_time_limit(0);
 ini_set('memory_limit', '512M');
-
-if (!$GLOBALS['DEBUG']) {
-    error_reporting(0);
-}
+error_reporting(E_ALL);
 
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
 $language = 'en-US';
 
+echo "Starting TMDB Collections Fetch...\n";
+
+// Check if API key is set
+if (empty($apiKey)) {
+    echo "ERROR: SECRET_API_KEY environment variable is not set!\n";
+    echo "Please add TMDB API key to repository secrets.\n";
+    exit(1);
+}
+
+echo "API Key found (length: " . strlen($apiKey) . ")\n";
+echo "Strategy: Search for collections A-Z, then fetch all movies from each\n\n";
+
+// Test API connection first
+$testUrl = "https://api.themoviedb.org/3/configuration?api_key=$apiKey";
+$testResponse = @file_get_contents($testUrl);
+if ($testResponse === false) {
+    echo "ERROR: Failed to connect to TMDB API. Check your API key.\n";
+    exit(1);
+}
+echo "TMDB API connection successful!\n\n";
+
 $outputData = [];
 $addedMovieIds = [];
 $processedCollections = [];
 
-echo "Starting TMDB Collections Fetch...\n";
-echo "Strategy: Search for collections A-Z, then fetch all movies from each\n\n";
-
-// Search for collections using alphabet + numbers
+// Search for collections using alphabet + numbers + common words
 $searchTerms = array_merge(
     range('a', 'z'),
     range('0', '9'),
-    ['the ', 'star ', 'super ', 'dark ', 'night ', 'dead ', 'final ', 'last ']
+    ['the ', 'star ', 'super ', 'dark ', 'night ', 'dead ', 'final ', 'last ', 'man ', 'american ', 'mission ']
 );
 
 $collectionIds = [];
 
 foreach ($searchTerms as $term) {
-    echo "Searching collections starting with '$term'...\n";
+    echo "Searching collections: '$term'... ";
+    $foundThisTerm = 0;
     
     for ($page = 1; $page <= 100; $page++) {
         $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&query=" . urlencode($term) . "&page=$page";
         
-        $response = @file_get_contents($url);
+        $context = stream_context_create(['http' => ['timeout' => 10]]);
+        $response = @file_get_contents($url, false, $context);
+        
         if ($response === false) {
             usleep(100000);
             continue;
@@ -51,15 +68,18 @@ foreach ($searchTerms as $term) {
         foreach ($data['results'] as $collection) {
             if (isset($collection['id']) && !isset($collectionIds[$collection['id']])) {
                 $collectionIds[$collection['id']] = $collection['name'] ?? 'Unknown';
+                $foundThisTerm++;
             }
         }
         
         if ($page >= ($data['total_pages'] ?? 1)) break;
-        usleep(30000);
+        usleep(40000);
     }
+    
+    echo "found $foundThisTerm new\n";
 }
 
-echo "\nFound " . count($collectionIds) . " unique collections\n";
+echo "\n==> Found " . count($collectionIds) . " unique collections\n";
 echo "Now fetching all movies from each collection...\n\n";
 
 // Fetch all movies from each collection
@@ -70,7 +90,8 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     $collectionCount++;
     
     $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language";
-    $response = @file_get_contents($url);
+    $context = stream_context_create(['http' => ['timeout' => 10]]);
+    $response = @file_get_contents($url, false, $context);
     
     if ($response === false) {
         usleep(100000);
@@ -126,15 +147,15 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     
     // Progress every 100 collections
     if ($collectionCount % 100 == 0) {
-        echo "Progress: $collectionCount/$totalCollections collections, " . count($outputData) . " movies found\n";
+        echo "Progress: $collectionCount/$totalCollections collections, " . count($outputData) . " movies\n";
     }
     
-    usleep(30000); // Rate limiting
+    usleep(40000); // Rate limiting
 }
 
 echo "\n========================================\n";
-echo "Processed $collectionCount collections\n";
-echo "Found " . count($outputData) . " movies in " . count($processedCollections) . " collections with content\n";
+echo "Processed: $collectionCount collections\n";
+echo "Found: " . count($outputData) . " movies in " . count($processedCollections) . " collections\n";
 echo "========================================\n\n";
 
 // Sort by collection name, then by year
@@ -151,7 +172,8 @@ foreach ($outputData as $i => &$item) {
 
 // Save to JSON
 file_put_contents('collections_playlist.json', json_encode($outputData));
-echo "Saved to collections_playlist.json (" . round(filesize('collections_playlist.json') / 1024 / 1024, 2) . " MB)\n";
+$size = round(filesize('collections_playlist.json') / 1024, 2);
+echo "Saved: collections_playlist.json ($size KB, " . count($outputData) . " movies)\n";
 
 // Also save a list of collections found
 $collectionsList = [];
@@ -160,4 +182,6 @@ foreach ($processedCollections as $id => $name) {
 }
 usort($collectionsList, fn($a, $b) => strcmp($a['name'], $b['name']));
 file_put_contents('collections_list.json', json_encode($collectionsList, JSON_PRETTY_PRINT));
-echo "Saved collections list (" . count($collectionsList) . " collections)\n";
+echo "Saved: collections_list.json (" . count($collectionsList) . " collections)\n";
+
+echo "\nDone!\n";
