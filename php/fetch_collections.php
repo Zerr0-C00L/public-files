@@ -12,6 +12,7 @@ error_reporting(E_ALL);
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
 $language = 'en-US';
+$region = 'US';
 
 echo "Starting TMDB Collections Fetch...\n";
 
@@ -53,7 +54,7 @@ foreach ($searchTerms as $term) {
     
     for ($page = 1; $page <= 100; $page++) {
         // FIXED: Added include_adult=false to exclude adult collections
-        $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&include_adult=false&query=" . urlencode($term) . "&page=$page";
+        $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&region=$region&include_adult=false&query=" . urlencode($term) . "&page=$page";
         
         $context = stream_context_create(['http' => ['timeout' => 10]]);
         $response = @file_get_contents($url, false, $context);
@@ -91,7 +92,7 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     $collectionCount++;
     
     // FIXED: Added include_adult=false to exclude adult movies from collections
-    $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language&include_adult=false";
+    $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language&region=$region&include_adult=false";
     $context = stream_context_create(['http' => ['timeout' => 10]]);
     $response = @file_get_contents($url, false, $context);
     

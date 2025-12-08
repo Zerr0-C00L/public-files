@@ -36,6 +36,7 @@ if (!is_dir($outputDir)) {
 
 // TMDB API base URL
 $baseUrl = 'https://api.themoviedb.org/3';
+$region = 'US';
 
 /**
  * Fetch data from TMDB API
@@ -67,8 +68,9 @@ function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25, $extraParam
     $page = 1;
     
     while ($page <= $maxPages) {
-        // FIXED: Added include_adult=false to exclude adult content
-        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&include_adult=false';
+        // FIXED: Added include_adult=false and region to exclude adult content and filter by region
+        global $region;
+        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&region=' . $region . '&include_adult=false';
         foreach ($extraParams as $param => $value) {
             $url .= '&' . urlencode($param) . '=' . urlencode($value);
         }
