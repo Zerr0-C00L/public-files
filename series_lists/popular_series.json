@@ -1,8 +1,8 @@
 {
     "list_name": "popular",
     "description": "Popular TV series",
-    "total_count": 497,
-    "fetched_at": "2025-12-08T11:49:01+00:00",
+    "total_count": 495,
+    "fetched_at": "2025-12-08T12:32:06+00:00",
     "series": [
         {
             "id": 66732,
@@ -798,26 +798,6 @@
             "original_language": "tr"
         },
         {
-            "id": 271823,
-            "name": "Playing Gracie Darling",
-            "original_name": "Playing Gracie Darling",
-            "overview": "When Joni was 14, her best friend Gracie Darling disappeared during a séance. Some 27 years on, the local kids in a small town get their kicks with a game of 'Playing Gracie Darling' – but the seemingly innocent game turns sinister when another girl disappears. Joni, by then a child psychologist, returns to the town and partners with a police sergeant Jay to uncover the truth, while Gracie's sister Ruth faces a mother's worst nightmare when her own daughter vanishes under hauntingly similar circumstances.",
-            "first_air_date": "2025-08-14",
-            "poster_path": "\/7UWdkbSUd1d1GB28IyIKDbftzhM.jpg",
-            "backdrop_path": "\/suCtNSA0U8Gtb7JxMJ6IfhHJUwa.jpg",
-            "vote_average": 6.5,
-            "vote_count": 15,
-            "popularity": 63.8892,
-            "genre_ids": [
-                18,
-                9648
-            ],
-            "origin_country": [
-                "AU"
-            ],
-            "original_language": "en"
-        },
-        {
             "id": 278635,
             "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
             "original_name": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
@@ -987,7 +967,7 @@
             "first_air_date": "2005-09-13",
             "poster_path": "\/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
             "backdrop_path": "\/4AXxajuAz9tHAOe6h5zDg8z1X2s.jpg",
-            "vote_average": 8.206,
+            "vote_average": 8.2,
             "vote_count": 3354,
             "popularity": 57.2997,
             "genre_ids": [
@@ -1007,7 +987,7 @@
             "first_air_date": "2024-11-17",
             "poster_path": "\/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
             "backdrop_path": "\/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
-            "vote_average": 8.025,
+            "vote_average": 8.032,
             "vote_count": 315,
             "popularity": 56.9807,
             "genre_ids": [
@@ -1250,7 +1230,7 @@
             "first_air_date": "2005-03-24",
             "poster_path": "\/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
             "backdrop_path": "\/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-            "vote_average": 8.588,
+            "vote_average": 8.589,
             "vote_count": 4816,
             "popularity": 52.3296,
             "genre_ids": [
@@ -1258,26 +1238,6 @@
             ],
             "origin_country": [
                 "US"
-            ],
-            "original_language": "en"
-        },
-        {
-            "id": 60574,
-            "name": "Peaky Blinders",
-            "original_name": "Peaky Blinders",
-            "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-            "first_air_date": "2013-09-12",
-            "poster_path": "\/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
-            "backdrop_path": "\/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
-            "vote_average": 8.527,
-            "vote_count": 10651,
-            "popularity": 52.033,
-            "genre_ids": [
-                18,
-                80
-            ],
-            "origin_country": [
-                "GB"
             ],
             "original_language": "en"
         },
@@ -5686,6 +5646,28 @@
             "original_language": "en"
         },
         {
+            "id": 4482,
+            "name": "Bewitched",
+            "original_name": "Bewitched",
+            "overview": "Samantha Stephens is a seemingly normal suburban housewife who also happens to be a genuine witch, with all the requisite magical powers. Her husband Darrin insists that Samantha keep her witchcraft under wraps, but situations invariably require her to indulge her powers while keeping her bothersome mother Endora at bay.",
+            "first_air_date": "1964-09-17",
+            "poster_path": "\/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg",
+            "backdrop_path": "\/yMYSrL0YI5hgDnBlEBRlKRI1Hsw.jpg",
+            "vote_average": 7.864,
+            "vote_count": 707,
+            "popularity": 22.0444,
+            "genre_ids": [
+                10765,
+                35,
+                10751,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en"
+        },
+        {
             "id": 69050,
             "name": "Riverdale",
             "original_name": "Riverdale",
@@ -6493,7 +6475,7 @@
             "first_air_date": "1998-06-06",
             "poster_path": "\/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
             "backdrop_path": "\/mXtL24G2Awyl3lKFtreMHnH5qFC.jpg",
-            "vote_average": 7.398,
+            "vote_average": 7.4,
             "vote_count": 2097,
             "popularity": 20.3994,
             "genre_ids": [
@@ -7769,27 +7751,6 @@
             "original_language": "en"
         },
         {
-            "id": 1781,
-            "name": "Little House on the Prairie",
-            "original_name": "Little House on the Prairie",
-            "overview": "When the big woods of Wisconsin becomes a difficult spot for hunting, Charles Ingalls reluctantly decides to move his family, pioneering west. Their life on the farm in Walnut Grove, Minnesota, in the 1870s and 1880s is full of adventure, tragedy, and triumph. Based on the books of Laura Ingalls Wilder.",
-            "first_air_date": "1974-09-11",
-            "poster_path": "\/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
-            "backdrop_path": "\/iDOTvlYESX1sjHySOEkThskXIxA.jpg",
-            "vote_average": 7.928,
-            "vote_count": 943,
-            "popularity": 18.9141,
-            "genre_ids": [
-                37,
-                18,
-                10751
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en"
-        },
-        {
             "id": 8514,
             "name": "RuPaul's Drag Race",
             "original_name": "RuPaul's Drag Race",
@@ -8908,8 +8869,8 @@
             "first_air_date": "2007-09-24",
             "poster_path": "\/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
             "backdrop_path": "\/zP5SftyPx2VCdly369kTVVNIcT3.jpg",
-            "vote_average": 7.726,
-            "vote_count": 1133,
+            "vote_average": 7.728,
+            "vote_count": 1135,
             "popularity": 17.5373,
             "genre_ids": [
                 10759,

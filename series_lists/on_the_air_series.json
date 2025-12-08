@@ -1,8 +1,8 @@
 {
     "list_name": "on_the_air",
     "description": "TV series airing in the next 7 days",
-    "total_count": 486,
-    "fetched_at": "2025-12-08T11:48:58+00:00",
+    "total_count": 490,
+    "fetched_at": "2025-12-08T12:32:00+00:00",
     "series": [
         {
             "id": 200875,
@@ -7427,25 +7427,6 @@
             "original_language": "en"
         },
         {
-            "id": 8308,
-            "name": "Expeditie Robinson",
-            "original_name": "Expeditie Robinson",
-            "overview": "A reality survival program in which BN'ers do battle with each other and the elements.",
-            "first_air_date": "2000-10-01",
-            "poster_path": "\/AaDIUjd35r4bBeqb1hY025tgkn5.jpg",
-            "backdrop_path": "\/xPT0XWQY1JUmZps58c7bq3YlavH.jpg",
-            "vote_average": 7,
-            "vote_count": 9,
-            "popularity": 3.3964,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "NL"
-            ],
-            "original_language": "nl"
-        },
-        {
             "id": 296851,
             "name": "SI-VIS: The Sound of Heroes",
             "original_name": "SI-VIS: The Sound of Heroes",
@@ -7460,6 +7441,26 @@
                 16,
                 10759,
                 10765
+            ],
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja"
+        },
+        {
+            "id": 297605,
+            "name": "The Ghost Writer's Wife",
+            "original_name": "ばけばけ",
+            "overview": "In Meiji-era Matsue, a fallen samurai’s daughter and a lonely foreign teacher connect through ghost stories and an unlikely friendship.",
+            "first_air_date": "2025-09-29",
+            "poster_path": "\/nQpX2u0g4vgg6QqWxemz1lIc2k3.jpg",
+            "backdrop_path": "\/pt96AHMuCoTc2fyKNmpYwqRt2Ma.jpg",
+            "vote_average": 9.6,
+            "vote_count": 5,
+            "popularity": 3.3663,
+            "genre_ids": [
+                18,
+                10751
             ],
             "origin_country": [
                 "JP"
@@ -7687,6 +7688,25 @@
             "original_language": "ko"
         },
         {
+            "id": 252654,
+            "name": "Friendshit Forever",
+            "original_name": "เพื่อนสนิท พิษสหาย",
+            "overview": "An outcast and a wealthy student become fast friends, but the secrets they keep might prove more dangerous than either could have suspected.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/ofae0O9DCvDBGb5OX3of8bBRAaM.jpg",
+            "backdrop_path": "\/eFBx91b9XMgeWDUICODZAfbFNLO.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 3.1586,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "TH"
+            ],
+            "original_language": "th"
+        },
+        {
             "id": 209415,
             "name": "Sunday with Laura Kuenssberg",
             "original_name": "Sunday with Laura Kuenssberg",
@@ -7820,6 +7840,26 @@
                 "TH"
             ],
             "original_language": "th"
+        },
+        {
+            "id": 248361,
+            "name": "Beyond the Gates",
+            "original_name": "Beyond the Gates",
+            "overview": "A powerful and prestigious family reigns over a posh gated community with juicy secrets and scandals waiting to be uncovered.",
+            "first_air_date": "2025-02-24",
+            "poster_path": "\/ah7Flh6FSq8WWxMkzRlazSFp2AX.jpg",
+            "backdrop_path": "\/qkwz8uBrGgESbw8J6ujmtwSVs2w.jpg",
+            "vote_average": 6.5,
+            "vote_count": 13,
+            "popularity": 3.0756,
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en"
         },
         {
             "id": 80605,
@@ -8161,6 +8201,25 @@
             "original_language": "th"
         },
         {
+            "id": 299800,
+            "name": "Pray Speak What Has Happened",
+            "original_name": "もしもこの世が舞台なら、 楽屋はどこにあるのだろう",
+            "overview": "In 1984 Shibuya, four quirky young souls navigate life’s struggles while chasing joy in a city bursting with hope.",
+            "first_air_date": "2025-10-01",
+            "poster_path": "\/3edSipcyDrRDjOQOi9XqmGNBdAx.jpg",
+            "backdrop_path": "\/A8DwSdDdkjObbUZZt4RoMeB2SaK.jpg",
+            "vote_average": 9,
+            "vote_count": 3,
+            "popularity": 2.8332,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja"
+        },
+        {
             "id": 254039,
             "name": "Critical Role Abridged",
             "original_name": "Critical Role Abridged",
@@ -8255,25 +8314,6 @@
                 "GB"
             ],
             "original_language": "en"
-        },
-        {
-            "id": 131777,
-            "name": "Have Fun",
-            "original_name": "嗨放派",
-            "overview": "",
-            "first_air_date": "2021-08-21",
-            "poster_path": "\/wYUMn59dQH2caDhDeMhy4C7F3wQ.jpg",
-            "backdrop_path": "\/3xwtEZ3zJYnCWHtVOJwFuevjg0H.jpg",
-            "vote_average": 6,
-            "vote_count": 2,
-            "popularity": 2.7483,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "CN"
-            ],
-            "original_language": "zh"
         },
         {
             "id": 1054,
@@ -8431,6 +8471,26 @@
                 "JP"
             ],
             "original_language": "ja"
+        },
+        {
+            "id": 303257,
+            "name": "Golden Scenery of Tomorrow",
+            "original_name": "Golden Scenery of Tomorrow",
+            "overview": "Though very different, simple wallflower Via and the charming Arkin have been best friends since they were kids. But when that friendship turns into love, will it be strong enough to keep them together through Arkin’s fame that’s bound to lead them to very different roads?",
+            "first_air_date": "2025-10-18",
+            "poster_path": "\/boOpteg2jK5t0MGIZIKxkapneyO.jpg",
+            "backdrop_path": "\/4aDscRu9Vldu9O1v93GAVxyH5RM.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 2.679,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl"
         },
         {
             "id": 4638,
@@ -9689,6 +9749,21 @@
                 "ES"
             ],
             "original_language": "es"
+        },
+        {
+            "id": 114111,
+            "name": "In de voetsporen van",
+            "original_name": "In de voetsporen van",
+            "overview": "",
+            "first_air_date": "2019-04-26",
+            "poster_path": "\/ugIXE5QHFZGi3p3w5wzh9gI942z.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.2807,
+            "genre_ids": [],
+            "origin_country": [],
+            "original_language": "nl"
         },
         {
             "id": 247946,

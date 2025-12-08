@@ -2,7 +2,7 @@
     "list_name": "top_rated",
     "description": "Top rated TV series",
     "total_count": 500,
-    "fetched_at": "2025-12-08T11:49:05+00:00",
+    "fetched_at": "2025-12-08T12:32:12+00:00",
     "series": [
         {
             "id": 66732,
@@ -241,7 +241,7 @@
             "first_air_date": "1994-09-22",
             "poster_path": "\/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
             "backdrop_path": "\/wGI8MPfv23B80AF5Yrg1Ss2mVCp.jpg",
-            "vote_average": 8.424,
+            "vote_average": 8.4,
             "vote_count": 8709,
             "popularity": 69.316,
             "genre_ids": [
@@ -545,7 +545,7 @@
             "first_air_date": "2022-04-09",
             "poster_path": "\/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
             "backdrop_path": "\/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-            "vote_average": 8.521,
+            "vote_average": 8.5,
             "vote_count": 2128,
             "popularity": 49.0143,
             "genre_ids": [
@@ -1299,8 +1299,8 @@
             "first_air_date": "2025-03-30",
             "poster_path": "\/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
             "backdrop_path": "\/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-            "vote_average": 8.423,
-            "vote_count": 489,
+            "vote_average": 8.427,
+            "vote_count": 490,
             "popularity": 28.0028,
             "genre_ids": [
                 80,
@@ -1548,7 +1548,7 @@
             "poster_path": "\/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
             "backdrop_path": "\/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
             "vote_average": 8.517,
-            "vote_count": 6048,
+            "vote_count": 6049,
             "popularity": 23.6334,
             "genre_ids": [
                 80,
@@ -4129,7 +4129,7 @@
             "poster_path": "\/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
             "backdrop_path": "\/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
             "vote_average": 8.454,
-            "vote_count": 5183,
+            "vote_count": 5184,
             "popularity": 10.9304,
             "genre_ids": [
                 18

@@ -1,8 +1,8 @@
 {
     "list_name": "airing_today",
     "description": "TV series airing today",
-    "total_count": 323,
-    "fetched_at": "2025-12-08T11:48:54+00:00",
+    "total_count": 324,
+    "fetched_at": "2025-12-08T12:31:54+00:00",
     "series": [
         {
             "id": 302463,
@@ -602,25 +602,6 @@
             "original_language": "ja"
         },
         {
-            "id": 281005,
-            "name": "Surely Tomorrow",
-            "original_name": "경도를 기다리며",
-            "overview": "In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.",
-            "first_air_date": "2025-12-06",
-            "poster_path": "\/k9xPcIsxXbc1Xuf45K0FU8yM2m5.jpg",
-            "backdrop_path": "\/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 12.1501,
-            "genre_ids": [
-                35
-            ],
-            "origin_country": [
-                "KR"
-            ],
-            "original_language": "ko"
-        },
-        {
             "id": 107365,
             "name": "Bel-Air",
             "original_name": "Bel-Air",
@@ -740,26 +721,6 @@
             "original_language": "fr"
         },
         {
-            "id": 284744,
-            "name": "Pro Bono",
-            "original_name": "프로보노",
-            "overview": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
-            "first_air_date": "2025-12-06",
-            "poster_path": "\/dGFoZ6gIuifSF35zCyyS2cBdkWo.jpg",
-            "backdrop_path": "\/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
-            "vote_average": 6,
-            "vote_count": 1,
-            "popularity": 10.2494,
-            "genre_ids": [
-                35,
-                18
-            ],
-            "origin_country": [
-                "KR"
-            ],
-            "original_language": "ko"
-        },
-        {
             "id": 36361,
             "name": "Ulice",
             "original_name": "Ulice",
@@ -778,25 +739,6 @@
                 "CZ"
             ],
             "original_language": "cs"
-        },
-        {
-            "id": 303289,
-            "name": "Realm's Night Rain Dreamlike",
-            "original_name": "江湖夜雨终似梦",
-            "overview": "Once a feared outlaw leader, Jiang Hu seeks a quiet life after a tragic failure leads to a loyal general’s downfall. But a run-in with a ruthless enemy pulls him back into danger. Joined by an old ally and a rescued orphan girl, he sets out to uncover the truth and fight for justice in a corrupt martial world.",
-            "first_air_date": "2025-11-27",
-            "poster_path": "\/aM4OQEH93hGYR9GPVFrSJ5jvUhr.jpg",
-            "backdrop_path": "\/9cKsZpZ6QecWNNSIpbxWtQSTGnU.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 10.0797,
-            "genre_ids": [
-                18
-            ],
-            "origin_country": [
-                "CN"
-            ],
-            "original_language": "zh"
         },
         {
             "id": 38657,
@@ -879,6 +821,25 @@
             "original_language": "en"
         },
         {
+            "id": 249010,
+            "name": "Kelders van Geheime",
+            "original_name": "Kelders van Geheime",
+            "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter – and a glass of wine.",
+            "first_air_date": "2024-05-06",
+            "poster_path": "\/3qgJdhBQ4dDDdFJY7Yxt6SVVIy4.jpg",
+            "backdrop_path": "\/3z4zE7WvIyQYadqxDQ7MCpSRbOG.jpg",
+            "vote_average": 6,
+            "vote_count": 13,
+            "popularity": 8.7079,
+            "genre_ids": [
+                10766
+            ],
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af"
+        },
+        {
             "id": 19956,
             "name": "Pinoy Big Brother: Celebrity Edition",
             "original_name": "Pinoy Big Brother: Celebrity Edition",
@@ -898,105 +859,65 @@
             "original_language": "tl"
         },
         {
-            "id": 72896,
-            "name": "My Little Old Boy",
-            "original_name": "미운 우리 새끼",
-            "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
-            "first_air_date": "2016-08-26",
-            "poster_path": "\/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
-            "backdrop_path": "\/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
-            "vote_average": 6.667,
-            "vote_count": 9,
-            "popularity": 8.2214,
+            "id": 203769,
+            "name": "Pushpa Impossible",
+            "original_name": "Pushpa Impossible",
+            "overview": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai. The show is a peek into her day-to-day struggles, her small victories, her Juggad, her shortcomings, and her constant pursuit of living a good life while struggling as a full-time mother and part-time businesswoman. The show is an autobiography of a mother, who decides to go back to school and change her life by impacting many lives!",
+            "first_air_date": "2022-06-06",
+            "poster_path": "\/A0ZMTiipcHQONUgNUdkefD93Sc4.jpg",
+            "backdrop_path": "\/xvVmAU7DrObQfy7gq6NVTOEF3e1.jpg",
+            "vote_average": 7,
+            "vote_count": 1,
+            "popularity": 8.2322,
             "genre_ids": [
-                10764,
-                10767
-            ],
-            "origin_country": [
-                "KR"
-            ],
-            "original_language": "ko"
-        },
-        {
-            "id": 280048,
-            "name": "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator",
-            "original_name": "父は英雄、母は精霊、娘の私は転生者",
-            "overview": "Ellen, an 8-year-old girl and half-spirit, once lived as a scientist in modern-day Japan. Now she's been reincarnated into a new family: Rovel, her father and the kingdom's legendary hero, and Origin, her mother and the queen of spirits. On top of that, Ellen herself has the power to manipulate chemical elements! But are Ellen's powers enough to protect their family's happiness?",
-            "first_air_date": "2025-10-05",
-            "poster_path": "\/6JMQ3DJMudsCgErn21Bv0NchmE6.jpg",
-            "backdrop_path": "\/mehM4JgH1Cm2HqLZ1ctFhm7XYUv.jpg",
-            "vote_average": 8.8,
-            "vote_count": 5,
-            "popularity": 8.1856,
-            "genre_ids": [
-                16,
-                35,
-                10759,
-                10765
-            ],
-            "origin_country": [
-                "JP"
-            ],
-            "original_language": "ja"
-        },
-        {
-            "id": 197368,
-            "name": "Blue Orchestra",
-            "original_name": "青のオーケストラ",
-            "overview": "In the fall of his third and final year of middle school, Hajime Aono, a violin prodigy, stopped playing violin for his own personal reasons. But it was also that year when he got to know a girl who told him about a high school with a prestigious school orchestra. Suddenly, the gears in the clock of Aono's life began to turn again. This is the story of a youth drama that brings forth the harmony between music and the heart!",
-            "first_air_date": "2023-04-09",
-            "poster_path": "\/5FVHmNW0ARlYSa7R0BZCuEfo7ei.jpg",
-            "backdrop_path": "\/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
-            "vote_average": 6.533,
-            "vote_count": 16,
-            "popularity": 8.0823,
-            "genre_ids": [
-                16,
-                18
-            ],
-            "origin_country": [
-                "JP"
-            ],
-            "original_language": "ja"
-        },
-        {
-            "id": 66046,
-            "name": "Mystery Music Show: King of Mask Singer",
-            "original_name": "미스터리 음악쇼 복면가왕",
-            "overview": "Competitors are given elaborate masks to wear in order to conceal their identity, thus removing factors such as popularity, career and age that could lead to prejudiced voting. In the first round, a pair of competitors sing the same song, while in the second and third rounds they each sing a solo song. After the First Generation, the winner of the Third Round goes on to challenge the Mask King, and is either eliminated or replaces the previous Mask King through live voting. The identities of the singers are not revealed unless they have been eliminated.",
-            "first_air_date": "2015-04-05",
-            "poster_path": "\/vlnAfmirzYx1TSxXuaPhHjkPPmK.jpg",
-            "backdrop_path": "\/xDXaptzkHFHGyQ2QGZ3aGnEE1dK.jpg",
-            "vote_average": 5.6,
-            "vote_count": 11,
-            "popularity": 8.0672,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "KR"
-            ],
-            "original_language": "ko"
-        },
-        {
-            "id": 257530,
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "original_name": "Laughter Chefs Unlimited Entertainment",
-            "overview": "Colors presents an innovative blend of celebrity personalities, culinary skills, and comedy, all coming together for a delightful entertainment experience.",
-            "first_air_date": "2024-06-01",
-            "poster_path": "\/zu9yTo3VOY5k7b3PQT5RT74W4GU.jpg",
-            "backdrop_path": "\/7fet7gTYvajJd3z7GPZS6z1PyWD.jpg",
-            "vote_average": 5.5,
-            "vote_count": 2,
-            "popularity": 7.6865,
-            "genre_ids": [
-                35,
-                10751
+                10751,
+                18,
+                35
             ],
             "origin_country": [
                 "IN"
             ],
             "original_language": "hi"
+        },
+        {
+            "id": 5266,
+            "name": "University Challenge",
+            "original_name": "University Challenge",
+            "overview": "Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.",
+            "first_air_date": "1962-09-21",
+            "poster_path": "\/yDLoEEFW3D6XSyT8UynTghc1Dyw.jpg",
+            "backdrop_path": "\/rouizkkCFwqEzrgsjAiByx6Pd1S.jpg",
+            "vote_average": 6,
+            "vote_count": 11,
+            "popularity": 7.9817,
+            "genre_ids": [
+                10767,
+                10751
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en"
+        },
+        {
+            "id": 32580,
+            "name": "Radio Arvyla",
+            "original_name": "Ράδιο Αρβύλα",
+            "overview": "Radio Arvyla is a Greek live show hosted by ANT1 in Thessaloniki. It first aired on April 2008. It is hosted by Antonis Kanakis, Giannis Servetas, Stathis Panagiotopoulos and Christos Kiousis. It mainly criticizes the political life and what prevails in the modern social life through parodies, videos and jokes. It's a show that isn't afraid to show the truth and most of the time, it does that, with a humorous way.",
+            "first_air_date": "2008-04-14",
+            "poster_path": "\/u0NlPvjp1AmP6wzRassWnzSDcPq.jpg",
+            "backdrop_path": "\/4M6du5XGvbGSFRqstP7aS4l4N9L.jpg",
+            "vote_average": 4.6,
+            "vote_count": 5,
+            "popularity": 7.8123,
+            "genre_ids": [
+                35,
+                10763
+            ],
+            "origin_country": [
+                "GR"
+            ],
+            "original_language": "el"
         },
         {
             "id": 252322,
@@ -1018,6 +939,65 @@
             "original_language": "zh"
         },
         {
+            "id": 2621,
+            "name": "Mastermind",
+            "original_name": "Mastermind",
+            "overview": "Mastermind is a British quiz show, well known for its challenging questions, intimidating setting and air of seriousness.\n\nDevised by Bill Wright, the basic format of Mastermind has never changed — four and in later contests five contestants face two rounds, one on a specialised subject of the contestant's choice, the other a general knowledge round. Wright drew inspiration from his experiences of being interrogated by the Gestapo during World War II.\n\nThe atmosphere is helped by Mastermind's famously ominous theme music, \"Approaching Menace\" by the British composer Neil Richardson. The quiz programme originated and was recorded in Manchester at studios such as New Broadcasting House and Granada Studios, before permanently moving to MediaCityUK in 2011.",
+            "first_air_date": "1972-09-11",
+            "poster_path": "\/1CuyXvdlNGsNRaC62Q7Pp3hIIGt.jpg",
+            "backdrop_path": "\/hFxxFhK6ooj9FHDmB7fGqYbfKty.jpg",
+            "vote_average": 5.4,
+            "vote_count": 11,
+            "popularity": 7.5428,
+            "genre_ids": [
+                10767
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en"
+        },
+        {
+            "id": 112470,
+            "name": "Ici tout commence",
+            "original_name": "Ici tout commence",
+            "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+            "first_air_date": "2020-11-02",
+            "poster_path": "\/x9HeaagUAyyGl1fQ6exQcpELBxP.jpg",
+            "backdrop_path": "\/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+            "vote_average": 6.8,
+            "vote_count": 90,
+            "popularity": 7.4957,
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr"
+        },
+        {
+            "id": 242867,
+            "name": "Watson",
+            "original_name": "Watson",
+            "overview": "A year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. However, he soon finds that his old life is not done with him yet.",
+            "first_air_date": "2025-01-26",
+            "poster_path": "\/budWBUBPXWlsGWxRPdkWIsBlbqu.jpg",
+            "backdrop_path": "\/mVA8aPYRm3Fu0a0qf9CKF659kWx.jpg",
+            "vote_average": 4.959,
+            "vote_count": 49,
+            "popularity": 7.4393,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en"
+        },
+        {
             "id": 251941,
             "name": "St. Denis Medical",
             "original_name": "St. Denis Medical",
@@ -1037,41 +1017,19 @@
             "original_language": "en"
         },
         {
-            "id": 287278,
-            "name": "Mechanical Marie",
-            "original_name": "機械じかけのマリー",
-            "overview": "Former martial arts legend Marie has accepted a new job as a “mechanical maid”… except she’s 100% human, and Arthur, her new boss, despises humans. Luckily, Marie’s naturally expressionless face helps her keep up the robot act while secretly protecting Arthur from constant assassination attempts. But when Arthur falls in love with his “perfect” maid, things quickly spiral out of control!",
-            "first_air_date": "2025-10-05",
-            "poster_path": "\/vsH56qFI4GEjeIPcIFIBEF6aaT9.jpg",
-            "backdrop_path": "\/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
-            "vote_average": 9,
-            "vote_count": 2,
-            "popularity": 7.3452,
+            "id": 13008,
+            "name": "TMZ",
+            "original_name": "TMZ",
+            "overview": "Based on the popular gossip website, this entertainment newsmagazine delivers daily updates on Hollywood's rich, beautiful and screwed-up. The program often shows highlights of the day's staff meeting during which reporters pitch ideas for stories to air that day.",
+            "first_air_date": "2007-09-10",
+            "poster_path": "\/qotUEfomNK4r1ZVPVNAbXHon8Oh.jpg",
+            "backdrop_path": "\/fBe7YuZH03raDtrp2ooHtAICOJm.jpg",
+            "vote_average": 4.9,
+            "vote_count": 22,
+            "popularity": 7.332,
             "genre_ids": [
-                16,
-                35,
-                10765
-            ],
-            "origin_country": [
-                "JP"
-            ],
-            "original_language": "ja"
-        },
-        {
-            "id": 4448,
-            "name": "America's Funniest Home Videos",
-            "original_name": "America's Funniest Home Videos",
-            "overview": "America's Funniest Home Videos is the longest-running primetime entertainment show in ABC history. Each week AFV shines the spotlight on hilarious videos. Fans tune in to witness failures and fiascos and to submit their own mishaps for their chance at stardom.",
-            "first_air_date": "1989-11-26",
-            "poster_path": "\/3CER8AdYtynbFBLIGLXv3wscDzl.jpg",
-            "backdrop_path": "\/edH0CCAwswUNj8h6CyHJpX5JdIE.jpg",
-            "vote_average": 6.6,
-            "vote_count": 53,
-            "popularity": 7.1611,
-            "genre_ids": [
-                35,
-                10767,
-                10764
+                10763,
+                35
             ],
             "origin_country": [
                 "US"
@@ -1079,16 +1037,76 @@
             "original_language": "en"
         },
         {
-            "id": 197906,
-            "name": "Infinity and Beyond",
-            "original_name": "声生不息",
-            "overview": "",
-            "first_air_date": "2022-04-24",
-            "poster_path": "\/4GvV2cuf6RhYAloJixMVlvkPNZc.jpg",
-            "backdrop_path": "\/5GFKa22hVSXCIoaEXubrVebp08u.jpg",
-            "vote_average": 6.7,
-            "vote_count": 7,
-            "popularity": 7.0128,
+            "id": 274149,
+            "name": "Spy x Sect",
+            "original_name": "宗门里除了我都是卧底",
+            "overview": "In a captivating tale of sacrifice and rebirth, a brilliant hacker named Chen Ning dies to save humanity from a rogue AI, only to be reincarnated as the leader of a powerful sect in a realm of immortal cultivation. Chen Ning must maintain a low profile while handling new responsibilities and guarding against spies within his sect and the encroaching AI threat. Hidden beneath his cold exterior is a deep care for others, as he navigates a world of martial arts, mystical powers, and political intrigue. With the mysterious system agent Jiang Que at his side, Chen Ning unleashes his true potential and commands both allies and foes. As hidden truths of this mystical world reveal themselves, Chen Ning races against time, merging his hacking prowess with newfound mystical abilities, to thwart an impending apocalypse and save another world from destruction.",
+            "first_air_date": "2024-10-14",
+            "poster_path": "\/yBbaD4w3bEmYvYSwlYfCfFfb5Si.jpg",
+            "backdrop_path": "\/dumx8XgyaXarErdX1OUi8cwymu5.jpg",
+            "vote_average": 8,
+            "vote_count": 2,
+            "popularity": 7.2943,
+            "genre_ids": [
+                16,
+                10765,
+                18
+            ],
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh"
+        },
+        {
+            "id": 254166,
+            "name": "All Rise",
+            "original_name": "即刻上场",
+            "overview": "A group of law interns compete in a high-stakes \"top offer\" challenge, where the fierce competition forces them to navigate intense workplace dynamics. Along the way, each of them discovers an opportunity that could change their lives and ignite their passions.",
+            "first_air_date": "2025-11-29",
+            "poster_path": "\/8352ZTOO2AlvjN5hVB4g8ke6KVZ.jpg",
+            "backdrop_path": "\/xGiiGyhBWFNc3pqLCIrEAsnB3lc.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 7.0901,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh"
+        },
+        {
+            "id": 87478,
+            "name": "Isekai Quartet",
+            "original_name": "異世界かるてっと",
+            "overview": "A mysterious switch appeared one day. Upon pressing it, they were sent to a different alternative world!! There are also characters from other alternative worlds gathered together...!?",
+            "first_air_date": "2019-04-10",
+            "poster_path": "\/1qkHR7hYbYKEUQORG2WuWmXlT0S.jpg",
+            "backdrop_path": "\/nLDxVvCnQaRRqWjvER9j5bsrre9.jpg",
+            "vote_average": 6.8,
+            "vote_count": 58,
+            "popularity": 6.9615,
+            "genre_ids": [
+                35,
+                16
+            ],
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja"
+        },
+        {
+            "id": 137726,
+            "name": "Mao Xue Woof",
+            "original_name": "毛雪汪",
+            "overview": "Mao Xue Woof is a scene-based reality show variety show with the relationship of original friends as the starting point. The program takes friendship as the link, and takes \"Mao Xue Woof's Home\" as the main shooting scene, telling the real and interesting stories of Mao Bu, Li Xueqin and their friends who meet here every week, tearing apart the status quo of daily life in laughter, showing the rich youth life and spiritual world of young people and recording the real growth. The program is broadcast every week all the year round, bringing companionship and emotional health healing to the hard-working young people in the city.",
+            "first_air_date": "2021-11-01",
+            "poster_path": "\/kYBvEOxNhD3IfzapT6x1uPnTEFa.jpg",
+            "backdrop_path": "\/3UtKvTXlqLNHoADgkKxdj5QppPN.jpg",
+            "vote_average": 8.8,
+            "vote_count": 5,
+            "popularity": 6.7669,
             "genre_ids": [
                 10764
             ],
@@ -1098,47 +1116,23 @@
             "original_language": "zh"
         },
         {
-            "id": 275648,
-            "name": "No. 1 Sentai Gozyuger",
-            "original_name": "ナンバーワン戦隊ゴジュウジャー",
-            "overview": "In the distant past, a great battle known as the \"Universe War\" erupted between all Super Sentai robots and a colossal \"calamity.\" This war, later called the \"Universal Great War,\" was brought to an end by a giant deity named Tega Sword. This transcendent being, imbued with the power of all Super Sentai, fell into slumber after sustaining injuries.\n\nHoeru Tono, a young man drifting between part-time jobs, finds himself fired once again. Around the same time, the mysterious organization \"Bridan\" begins attacking Earth to awaken Tega Sword. Suddenly, Hoeru is enveloped in a strange space where he encounters Tega Sword. He learns that gathering special \"rings\" will grant him any wish. Without a specific wish in mind, Hoeru resolves to aim for the \"Number One\" and fights as Gozyu Wolf against Bridan. What wish will Hoeru eventually discover? And who are the other ring warriors?",
-            "first_air_date": "2025-02-16",
-            "poster_path": "\/lGP9hvZzKTY6seDKwTgA1ISjH97.jpg",
-            "backdrop_path": "\/djQVc69Ljq9mtEXtZ7T9rHcBFEA.jpg",
-            "vote_average": 6.667,
-            "vote_count": 6,
-            "popularity": 6.9455,
+            "id": 14750,
+            "name": "Na Wspólnej",
+            "original_name": "Na Wspólnej",
+            "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+            "first_air_date": "2003-01-27",
+            "poster_path": "\/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+            "backdrop_path": "\/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+            "vote_average": 4.1,
+            "vote_count": 10,
+            "popularity": 6.6555,
             "genre_ids": [
-                10765,
-                10759,
-                18,
-                10762
+                10766
             ],
             "origin_country": [
-                "JP"
+                "PL"
             ],
-            "original_language": "ja"
-        },
-        {
-            "id": 131033,
-            "name": "Krapopolis",
-            "original_name": "Krapopolis",
-            "overview": "In mythical ancient Greece, a flawed family of humans, gods and monsters tries to run one of the world’s first cities without killing each other.",
-            "first_air_date": "2023-09-24",
-            "poster_path": "\/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
-            "backdrop_path": "\/aZCm3DTjr7bfjrKSTdbsEi45k1c.jpg",
-            "vote_average": 7.189,
-            "vote_count": 37,
-            "popularity": 6.571,
-            "genre_ids": [
-                16,
-                35,
-                10765
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en"
+            "original_language": "pl"
         },
         {
             "id": 235493,
@@ -1156,6 +1150,26 @@
             ],
             "origin_country": [
                 "NL"
+            ],
+            "original_language": "nl"
+        },
+        {
+            "id": 55546,
+            "name": "De Slimste Mens ter Wereld",
+            "original_name": "De Slimste Mens ter Wereld",
+            "overview": "Do we still sing the praises of folly like Erasmus, or is it trendy again to be smart? And if so, who is the smartest? Who can talk about the medals won at the Olympic Games in London, but at the same time knows who Captain Haddock is? Who knows whether Lacan was a hair growth product or a psychoanalyst and can also program their own digital television? Who has déjà vu when leafing through the Encyclopedia Britannica and when reading the interviews with the new Miss Waregem Koerse?  Who, oh who, is the smartest person in Flanders, Belgium, Europe, and by extension, the world? That is determined by a fierce battle between three fellow human beings. Every day, someone is eliminated, someone who may not be the smartest, but who is perhaps cherished in their family circle because of their many other talents. The others advance and are joined by a new challenger every day.",
+            "first_air_date": "2003-09-01",
+            "poster_path": "\/7UdVk8oKB3TbBDGRlB0dSzVyf8F.jpg",
+            "backdrop_path": "\/ekn5C01gRQYwPC69LU7XlXk1EXA.jpg",
+            "vote_average": 7.7,
+            "vote_count": 11,
+            "popularity": 6.4872,
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "origin_country": [
+                "BE"
             ],
             "original_language": "nl"
         },
@@ -1178,6 +1192,44 @@
             ],
             "origin_country": [
                 "AU"
+            ],
+            "original_language": "en"
+        },
+        {
+            "id": 297589,
+            "name": "Salma",
+            "original_name": "سلمى",
+            "overview": "A young widow, determined to give her children a better life, must confront her haunting past and transform pain into strength as she searches for healing—and a second chance at love.",
+            "first_air_date": "2025-08-17",
+            "poster_path": "\/hMFbnkBNNDrhZJbijCzS12qIMrT.jpg",
+            "backdrop_path": "\/1xLNHyOvcVk9HtYFXrxYc7SaD84.jpg",
+            "vote_average": 7,
+            "vote_count": 1,
+            "popularity": 6.4033,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "LB"
+            ],
+            "original_language": "ar"
+        },
+        {
+            "id": 2051,
+            "name": "The Price Is Right",
+            "original_name": "The Price Is Right",
+            "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. ",
+            "first_air_date": "1972-09-04",
+            "poster_path": "\/7MSqORrf1RZsmLUTQ2XoEJEtzt5.jpg",
+            "backdrop_path": "\/p0umYdTa7csDT9SkZX8DD52Sy4a.jpg",
+            "vote_average": 6.3,
+            "vote_count": 90,
+            "popularity": 6.3299,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
             ],
             "original_language": "en"
         },
@@ -1224,25 +1276,26 @@
             "original_language": "tr"
         },
         {
-            "id": 278604,
-            "name": "GNOSIA",
-            "original_name": "グノーシア",
-            "overview": "When a shapeshifting enemy known as Gnosia infiltrates a lone spaceship, the crew has only one way to survive: identify the imposter each day and put them into cryo-sleep. But for Yuri, the day never ends. Trapped in a time loop, she relives the first day of the crisis over and over. To escape, Yuri must uncover the truth behind Gnosia and the time loop itself—before it’s too late.",
-            "first_air_date": "2025-10-12",
-            "poster_path": "\/ixYq5H7fGjsUbbgDckkgIY9hkbH.jpg",
-            "backdrop_path": "\/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
-            "vote_average": 8.8,
-            "vote_count": 4,
-            "popularity": 6.2303,
+            "id": 202998,
+            "name": "Star Wars: Young Jedi Adventures",
+            "original_name": "Star Wars: Young Jedi Adventures",
+            "overview": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
+            "first_air_date": "2023-05-04",
+            "poster_path": "\/hWydZFPESXxrFYNwwIzZwMKJN0g.jpg",
+            "backdrop_path": "\/7SJctp269UEMvRGt9d3eddSpcLL.jpg",
+            "vote_average": 4.5,
+            "vote_count": 30,
+            "popularity": 6.191,
             "genre_ids": [
                 16,
-                9648,
-                10765
+                10762,
+                10759,
+                35
             ],
             "origin_country": [
-                "JP"
+                "US"
             ],
-            "original_language": "ja"
+            "original_language": "en"
         },
         {
             "id": 40879,
@@ -1262,25 +1315,6 @@
                 "DE"
             ],
             "original_language": "de"
-        },
-        {
-            "id": 19457,
-            "name": "India's Got Talent",
-            "original_name": "India's Got Talent",
-            "overview": "This talent show features a huge variety of talent ranging from the mundane to the bizarre from heart-stopping feats to the seemingly impossible giving Indians a platform to showcase their talents like no other.",
-            "first_air_date": "2009-06-27",
-            "poster_path": "\/1RTJJ4WfVf3pjTV2LVDAQcelPhE.jpg",
-            "backdrop_path": "\/wfg6iKrLiqwM2xUKnT3VdSYMtBe.jpg",
-            "vote_average": 5.7,
-            "vote_count": 9,
-            "popularity": 5.9513,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "IN"
-            ],
-            "original_language": "hi"
         },
         {
             "id": 26870,
@@ -2182,23 +2216,6 @@
                 "KR"
             ],
             "original_language": "ko"
-        },
-        {
-            "id": 306499,
-            "name": "Baddies USA",
-            "original_name": "Baddies USA",
-            "overview": "Baddies USA kicks off in DC with a reunion of OG\n\nBad Girls and a Ballroom Dinner.",
-            "first_air_date": "2025-11-23",
-            "poster_path": "\/kasC42Bu2pSrLBmGBF8HkndGXwF.jpg",
-            "backdrop_path": "\/quMd3njpxeYmKaNFpYM8fcg7DwS.jpg",
-            "vote_average": 10,
-            "vote_count": 1,
-            "popularity": 2.7753,
-            "genre_ids": [],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en"
         },
         {
             "id": 226680,
