@@ -125,8 +125,14 @@ foreach ($searchTerms as $term) {
         foreach ($data['results'] as $collection) {
             if (isset($collection['id']) && !isset($collectionIds[$collection['id']])) {
                 $name = $collection['name'] ?? 'Unknown';
+                $originalLanguage = $collection['original_language'] ?? '';
                 
-                // FILTER: Skip non-English collection names during search
+                // FILTER: Skip non-English collections using API's original_language field
+                if ($originalLanguage !== 'en') {
+                    continue;
+                }
+                
+                // FILTER: Also skip non-English collection names (double-check)
                 if (!isEnglishName($name)) {
                     continue;
                 }
