@@ -68,9 +68,9 @@ function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25, $extraParam
     $page = 1;
     
     while ($page <= $maxPages) {
-        // FIXED: Added include_adult=false and region to exclude adult content and filter by region
+        // FIXED: Added include_adult=false, region, and with_original_language=en to exclude adult and non-English content
         global $region;
-        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&region=' . $region . '&include_adult=false';
+        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&region=' . $region . '&include_adult=false&with_original_language=en';
         foreach ($extraParams as $param => $value) {
             $url .= '&' . urlencode($param) . '=' . urlencode($value);
         }
@@ -176,6 +176,11 @@ foreach ($listsToFetch as $listName) {
     foreach ($series as $show) {
         // FIXED: Skip adult series explicitly
         if (!empty($show['adult']) && $show['adult'] === true) {
+            continue;
+        }
+        
+        // FIXED: Skip non-English original language series
+        if (!isset($show['original_language']) || $show['original_language'] !== 'en') {
             continue;
         }
         

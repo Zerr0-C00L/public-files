@@ -14,7 +14,15 @@ $playVodUrl = "[[SERVER_URL]]/play.php";
 $language = 'en-US';
 $region = 'US';
 
+// Quality filters - adjust these to control what gets included
+$minVoteCount = 50;           // Minimum number of votes (filters out obscure movies)
+$minVoteAverage = 5.0;        // Minimum rating (filters out poorly rated movies)
+$minCollectionSize = 2;       // Minimum movies in a collection to include it
+$minYear = 1970;              // Skip very old movies
+$minPopularity = 5.0;         // Minimum popularity score (filters out unknown movies)
+
 echo "Starting TMDB Collections Fetch...\n";
+echo "Quality Filters: minVotes=$minVoteCount, minRating=$minVoteAverage, minYear=$minYear, minPopularity=$minPopularity\n";
 
 // Check if API key is set
 if (empty($apiKey)) {
@@ -107,19 +115,40 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     $collectionName = $collection['name'] ?? 'Unknown Collection';
     $movieCount = 0;
     
-    // FIXED: Skip non-English language collections
+    // QUALITY CHECK: Skip collections with too few movies
     $collectionMovies = $collection['parts'] ?? [];
+    if (count($collectionMovies) < $minCollectionSize) {
+        continue;
+    }
+    
+    // QUALITY CHECK: Skip non-English language collections
     $englishMovieCount = 0;
+    $qualityMovieCount = 0;
     foreach ($collectionMovies as $m) {
         if (isset($m['original_language']) && $m['original_language'] === 'en') {
             $englishMovieCount++;
+            // Count movies that also meet quality thresholds
+            $votes = $m['vote_count'] ?? 0;
+            $rating = $m['vote_average'] ?? 0;
+            $popularity = $m['popularity'] ?? 0;
+            if ($votes >= $minVoteCount && $rating >= $minVoteAverage && $popularity >= $minPopularity) {
+                $qualityMovieCount++;
+            }
         }
     }
+    
     // Skip collection if less than half of movies are English
     if (count($collectionMovies) > 0 && $englishMovieCount < count($collectionMovies) / 2) {
         continue;
     }
     
+    // QUALITY CHECK: Need at least 2 quality movies to include this collection
+    // If collection qualifies, we'll include ALL movies from it (not just quality ones)
+    if ($qualityMovieCount < $minCollectionSize) {
+        continue;
+    }
+    
+    // Collection passed quality check - now add ALL English movies from it
     foreach ($collection['parts'] as $movie) {
         if (!isset($movie['id']) || isset($addedMovieIds[$movie['id']])) continue;
         
@@ -134,12 +163,19 @@ foreach ($collectionIds as $collectionId => $collectionName) {
             if (strtotime($movie['release_date']) > time()) continue;
             $releaseYear = (int)substr($movie['release_date'], 0, 4);
             if ($releaseYear > (int)date('Y')) continue;
+            // Keep minYear filter - we still don't want very old movies
+            if ($releaseYear < $minYear) continue;
         } else {
             continue;
         }
         
         // Skip movies without poster
         if (empty($movie['poster_path'])) continue;
+        
+        // NO quality filters here - collection already qualified, include all movies
+        $voteCount = $movie['vote_count'] ?? 0;
+        $voteAverage = $movie['vote_average'] ?? 0;
+        $popularity = $movie['popularity'] ?? 0;
         
         $addedMovieIds[$movie['id']] = true;
         $movieCount++;
@@ -150,7 +186,9 @@ foreach ($collectionIds as $collectionId => $collectionName) {
             'stream_type' => 'movie',
             'stream_id' => $movie['id'],
             'stream_icon' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
-            'rating' => $movie['vote_average'] ?? 0,
+            'rating' => $voteAverage,
+            'vote_count' => $voteCount,
+            'popularity' => $popularity,
             'added' => time(),
             'category_id' => (string)$collectionId,
             'category_name' => $collectionName,
