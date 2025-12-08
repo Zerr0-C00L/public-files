@@ -1,0 +1,37 @@
+name: Fetch TMDB Collections
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'  # Weekly on Sunday at 06:00 UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  fetch-collections:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.RUN_ACTIONS }}
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.1'
+
+    - name: Run Collections Fetch Script
+      run: php php/fetch_collections.php
+      env:
+        SECRET_API_KEY: ${{ secrets.SECRET_API_KEY }}
+
+    - name: Commit and Push
+      run: |
+        git config user.name "actions-user"
+        git config user.email "actions@github.com"
+        git add collections_playlist.json
+        git commit -m "Update Collections Playlist" || echo "No changes to Collections"
+        git pull --rebase origin main || true
+        git push https://x-access-token:${{ secrets.RUN_ACTIONS }}@github.com/Zerr0-C00L/public-files.git
