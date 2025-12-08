@@ -52,7 +52,8 @@ foreach ($searchTerms as $term) {
     $foundThisTerm = 0;
     
     for ($page = 1; $page <= 100; $page++) {
-        $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&query=" . urlencode($term) . "&page=$page";
+        // FIXED: Added include_adult=false to exclude adult collections
+        $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&include_adult=false&query=" . urlencode($term) . "&page=$page";
         
         $context = stream_context_create(['http' => ['timeout' => 10]]);
         $response = @file_get_contents($url, false, $context);
@@ -89,7 +90,8 @@ $totalCollections = count($collectionIds);
 foreach ($collectionIds as $collectionId => $collectionName) {
     $collectionCount++;
     
-    $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language";
+    // FIXED: Added include_adult=false to exclude adult movies from collections
+    $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language&include_adult=false";
     $context = stream_context_create(['http' => ['timeout' => 10]]);
     $response = @file_get_contents($url, false, $context);
     
@@ -106,6 +108,9 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     
     foreach ($collection['parts'] as $movie) {
         if (!isset($movie['id']) || isset($addedMovieIds[$movie['id']])) continue;
+        
+        // FIXED: Skip adult movies explicitly
+        if (!empty($movie['adult']) && $movie['adult'] === true) continue;
         
         // Skip unreleased movies
         if (!empty($movie['release_date'])) {

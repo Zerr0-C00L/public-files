@@ -67,7 +67,8 @@ function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25, $extraParam
     $page = 1;
     
     while ($page <= $maxPages) {
-        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US';
+        // FIXED: Added include_adult=false to exclude adult content
+        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&include_adult=false';
         foreach ($extraParams as $param => $value) {
             $url .= '&' . urlencode($param) . '=' . urlencode($value);
         }
@@ -108,7 +109,8 @@ function enrichSeriesData($series) {
         'popularity' => $series['popularity'] ?? 0,
         'genre_ids' => $series['genre_ids'] ?? [],
         'origin_country' => $series['origin_country'] ?? [],
-        'original_language' => $series['original_language'] ?? ''
+        'original_language' => $series['original_language'] ?? '',
+        'adult' => $series['adult'] ?? false
     ];
 }
 
@@ -129,14 +131,15 @@ $listDescriptions = [
     'latest_releases' => 'Latest releases (Digital, Physical, Premiere)'
 ];
 
-// Extra params for discover endpoint
+// Extra params for discover endpoint - FIXED: Added include_adult=false
 $discoverParams = [
     'latest_releases' => [
         'first_air_date.gte' => $dateFrom,
         'first_air_date.lte' => $dateTo,
         'sort_by' => 'first_air_date.desc',
         'with_status' => '0|2|3',  // Returning Series, Planned, In Production, Ended
-        'with_type' => '0|1|2|3|4|5|6'  // All types
+        'with_type' => '0|1|2|3|4|5|6',  // All types
+        'include_adult' => 'false'
     ]
 ];
 
@@ -165,10 +168,15 @@ foreach ($listsToFetch as $listName) {
         continue;
     }
     
-    // Remove duplicates based on ID
+    // Remove duplicates based on ID and filter adult content
     $uniqueSeries = [];
     $seenIds = [];
     foreach ($series as $show) {
+        // FIXED: Skip adult series explicitly
+        if (!empty($show['adult']) && $show['adult'] === true) {
+            continue;
+        }
+        
         if (!in_array($show['id'], $seenIds)) {
             $seenIds[] = $show['id'];
             $uniqueSeries[] = enrichSeriesData($show);
