@@ -1,11 +1,13 @@
 <?php
 /**
- * Fetch all TMDB movies that belong to collections
+ * Fetch ALL TMDB collections and their movies
+ * Uses TMDB search API to find collections, then fetches all movies from each
  * Saves to collections_playlist.json
  */
 
 $GLOBALS['DEBUG'] = false;
 set_time_limit(0);
+ini_set('memory_limit', '512M');
 
 if (!$GLOBALS['DEBUG']) {
     error_reporting(0);
@@ -17,128 +19,56 @@ $language = 'en-US';
 
 $outputData = [];
 $addedMovieIds = [];
-$collectionsFetched = [];
+$processedCollections = [];
 
 echo "Starting TMDB Collections Fetch...\n";
+echo "Strategy: Search for collections A-Z, then fetch all movies from each\n\n";
 
-// First, get popular collections by fetching popular movies and extracting their collection IDs
+// Search for collections using alphabet + numbers
+$searchTerms = array_merge(
+    range('a', 'z'),
+    range('0', '9'),
+    ['the ', 'star ', 'super ', 'dark ', 'night ', 'dead ', 'final ', 'last ']
+);
+
 $collectionIds = [];
 
-// Fetch from multiple sources to get a wide variety of collections
-$sources = [
-    'popular' => 'https://api.themoviedb.org/3/movie/popular',
-    'top_rated' => 'https://api.themoviedb.org/3/movie/top_rated',
-    'now_playing' => 'https://api.themoviedb.org/3/movie/now_playing'
-];
-
-// Also search for known big franchises
-$knownCollections = [
-    10, // Star Wars
-    86311, // Avengers
-    131295, // Spider-Man (MCU)
-    131296, // Iron Man
-    131292, // Hulk
-    86066, // Despicable Me
-    8945, // Ice Age
-    33514, // Harry Potter
-    328, // Jurassic Park
-    9485, // Fast & Furious
-    119, // Lord of the Rings
-    87359, // Mission: Impossible
-    173710, // Planet of the Apes
-    87096, // Transformers
-    2150, // Shrek
-    137697, // Finding Nemo
-    468552, // Wonder Woman
-    209131, // John Wick
-    748, // X-Men
-    573436, // Spider-Man (Sony)
-    230, // The Godfather
-    735, // Die Hard
-    529892, // Godzilla (Monsterverse)
-    84, // Indiana Jones
-    295, // Pirates of the Caribbean
-    1241, // Harry Potter
-    121938, // Hobbit
-    304, // Ocean's
-    8650, // Bourne
-    1733, // Mummy
-    2806, // American Pie
-    31562, // Paranormal Activity
-    8091, // Alien
-    115762, // Kung Fu Panda
-    89137, // Madagascar
-    9743, // Hangover
-    133352, // Resident Evil
-    422837, // Venom
-    386382, // Toy Story
-    404609, // Deadpool
-    263, // Dark Knight
-    726871, // Dune
-    448150, // Sonic
-    131634, // Hunger Games
-    645, // James Bond
-    528, // Terminator
-    1570, // Rocky/Creed
-    399, // Rambo
-    2467, // Underworld
-    950390, // Top Gun
-    9735, // Saw
-    656, // Final Destination
-    2326, // Blade
-    495764, // Birds of Prey
-    424559, // Insidious
-    665374, // Conjuring
-    1030954, // Knives Out
-    948485, // Bad Boys
-];
-
-// Add known collections first
-foreach ($knownCollections as $collId) {
-    $collectionIds[$collId] = true;
-}
-
-echo "Added " . count($knownCollections) . " known collection IDs\n";
-
-// Fetch movies from different sources to discover more collections
-foreach ($sources as $sourceName => $baseUrl) {
-    echo "Scanning $sourceName for collections...\n";
+foreach ($searchTerms as $term) {
+    echo "Searching collections starting with '$term'...\n";
     
-    for ($page = 1; $page <= 50; $page++) {
-        $url = "$baseUrl?api_key=$apiKey&language=$language&page=$page";
+    for ($page = 1; $page <= 100; $page++) {
+        $url = "https://api.themoviedb.org/3/search/collection?api_key=$apiKey&language=$language&query=" . urlencode($term) . "&page=$page";
+        
         $response = @file_get_contents($url);
-        
-        if ($response === false) continue;
-        
-        $data = json_decode($response, true);
-        if (!$data || !isset($data['results'])) continue;
-        
-        foreach ($data['results'] as $movie) {
-            if (!isset($movie['id'])) continue;
-            
-            // Get movie details to check for collection
-            $detailUrl = "https://api.themoviedb.org/3/movie/{$movie['id']}?api_key=$apiKey&language=$language";
-            $detailResponse = @file_get_contents($detailUrl);
-            
-            if ($detailResponse === false) continue;
-            
-            $detail = json_decode($detailResponse, true);
-            if ($detail && isset($detail['belongs_to_collection']['id'])) {
-                $collectionIds[$detail['belongs_to_collection']['id']] = true;
-            }
-            
-            usleep(25000); // Rate limiting - 40 requests per second max
+        if ($response === false) {
+            usleep(100000);
+            continue;
         }
         
-        usleep(50000);
+        $data = json_decode($response, true);
+        if (!$data || !isset($data['results']) || empty($data['results'])) break;
+        
+        foreach ($data['results'] as $collection) {
+            if (isset($collection['id']) && !isset($collectionIds[$collection['id']])) {
+                $collectionIds[$collection['id']] = $collection['name'] ?? 'Unknown';
+            }
+        }
+        
+        if ($page >= ($data['total_pages'] ?? 1)) break;
+        usleep(30000);
     }
 }
 
-echo "Found " . count($collectionIds) . " unique collections\n";
+echo "\nFound " . count($collectionIds) . " unique collections\n";
+echo "Now fetching all movies from each collection...\n\n";
 
-// Now fetch all movies from each collection
+// Fetch all movies from each collection
 $collectionCount = 0;
-foreach (array_keys($collectionIds) as $collectionId) {
+$totalCollections = count($collectionIds);
+
+foreach ($collectionIds as $collectionId => $collectionName) {
+    $collectionCount++;
+    
     $url = "https://api.themoviedb.org/3/collection/$collectionId?api_key=$apiKey&language=$language";
     $response = @file_get_contents($url);
     
@@ -151,26 +81,25 @@ foreach (array_keys($collectionIds) as $collectionId) {
     if (!$collection || !isset($collection['parts'])) continue;
     
     $collectionName = $collection['name'] ?? 'Unknown Collection';
-    $collectionCount++;
-    
-    echo "[$collectionCount] Fetching: $collectionName (" . count($collection['parts']) . " movies)\n";
+    $movieCount = 0;
     
     foreach ($collection['parts'] as $movie) {
-        if (isset($addedMovieIds[$movie['id']])) continue;
+        if (!isset($movie['id']) || isset($addedMovieIds[$movie['id']])) continue;
         
         // Skip unreleased movies
-        if (isset($movie['release_date']) && !empty($movie['release_date'])) {
+        if (!empty($movie['release_date'])) {
+            if (strtotime($movie['release_date']) > time()) continue;
             $releaseYear = (int)substr($movie['release_date'], 0, 4);
             if ($releaseYear > (int)date('Y')) continue;
-            if (strtotime($movie['release_date']) > time()) continue;
         } else {
-            continue; // Skip movies without release date
+            continue;
         }
         
         // Skip movies without poster
         if (empty($movie['poster_path'])) continue;
         
         $addedMovieIds[$movie['id']] = true;
+        $movieCount++;
         
         $outputData[] = [
             'num' => count($outputData) + 1,
@@ -180,21 +109,55 @@ foreach (array_keys($collectionIds) as $collectionId) {
             'stream_icon' => 'https://image.tmdb.org/t/p/w500' . $movie['poster_path'],
             'rating' => $movie['vote_average'] ?? 0,
             'added' => time(),
-            'category_id' => '999994', // Collections category
-            'category_name' => 'Collections',
+            'category_id' => (string)$collectionId,
+            'category_name' => $collectionName,
             'collection_id' => $collectionId,
             'collection_name' => $collectionName,
+            'year' => substr($movie['release_date'] ?? '', 0, 4),
             'container_extension' => 'mp4',
             'custom_sid' => '',
             'direct_source' => $playVodUrl . '?id=' . $movie['id'] . '&type=movie'
         ];
     }
     
-    usleep(50000); // Rate limiting
+    if ($movieCount > 0) {
+        $processedCollections[$collectionId] = $collectionName;
+    }
+    
+    // Progress every 100 collections
+    if ($collectionCount % 100 == 0) {
+        echo "Progress: $collectionCount/$totalCollections collections, " . count($outputData) . " movies found\n";
+    }
+    
+    usleep(30000); // Rate limiting
 }
 
-echo "\nTotal: " . count($outputData) . " movies from $collectionCount collections\n";
+echo "\n========================================\n";
+echo "Processed $collectionCount collections\n";
+echo "Found " . count($outputData) . " movies in " . count($processedCollections) . " collections with content\n";
+echo "========================================\n\n";
+
+// Sort by collection name, then by year
+usort($outputData, function($a, $b) {
+    $coll = strcmp($a['collection_name'], $b['collection_name']);
+    if ($coll !== 0) return $coll;
+    return strcmp($a['year'] ?? '', $b['year'] ?? '');
+});
+
+// Re-number after sorting
+foreach ($outputData as $i => &$item) {
+    $item['num'] = $i + 1;
+}
 
 // Save to JSON
-file_put_contents('collections_playlist.json', json_encode($outputData, JSON_PRETTY_PRINT));
-echo "Saved to collections_playlist.json\n";
+file_put_contents('collections_playlist.json', json_encode($outputData));
+echo "Saved to collections_playlist.json (" . round(filesize('collections_playlist.json') / 1024 / 1024, 2) . " MB)\n";
+
+// Also save a list of collections found
+$collectionsList = [];
+foreach ($processedCollections as $id => $name) {
+    $collectionsList[] = ['id' => $id, 'name' => $name];
+}
+usort($collectionsList, fn($a, $b) => strcmp($a['name'], $b['name']));
+file_put_contents('collections_list.json', json_encode($collectionsList, JSON_PRETTY_PRINT));
+echo "Saved collections list (" . count($collectionsList) . " collections)\n";
