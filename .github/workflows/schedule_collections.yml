@@ -14,8 +14,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.RUN_ACTIONS }}
 
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
@@ -33,5 +31,4 @@ jobs:
         git config user.email "actions@github.com"
         git add collections_playlist.json
         git commit -m "Update Collections Playlist" || echo "No changes to Collections"
-        git pull --rebase origin main || true
-        git push https://x-access-token:${{ secrets.RUN_ACTIONS }}@github.com/Zerr0-C00L/public-files.git
+        git push
