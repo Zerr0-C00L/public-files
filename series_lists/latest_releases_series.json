@@ -1,0 +1,4402 @@
+{
+    "list_name": "latest_releases",
+    "description": "Latest releases (Digital, Physical, Premiere)",
+    "total_count": 222,
+    "fetched_at": "2025-12-08T21:54:42+00:00",
+    "series": [
+        {
+            "id": 240459,
+            "name": "Spartacus: House of Ashur",
+            "original_name": "Spartacus: House of Ashur",
+            "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+            "first_air_date": "2025-12-05",
+            "poster_path": "\/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+            "backdrop_path": "\/ckPbbcJOcL43mJBrROTMrtOBIYK.jpg",
+            "vote_average": 5.75,
+            "vote_count": 48,
+            "popularity": 191.137,
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 225171,
+            "name": "Pluribus",
+            "original_name": "Pluribus",
+            "overview": "The most miserable person on Earth must save the world from happiness.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+            "backdrop_path": "\/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+            "vote_average": 8,
+            "vote_count": 196,
+            "popularity": 95.1975,
+            "genre_ids": [
+                18,
+                10765
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 223300,
+            "name": "The Abandons",
+            "original_name": "The Abandons",
+            "overview": "In 1850s Washington, two families led by powerful matriarchs — one wealthy, one poor but deeply loyal — battle for supremacy on the lawless frontier.",
+            "first_air_date": "2025-12-04",
+            "poster_path": "\/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+            "backdrop_path": "\/Amaws3yNGpjl8lD2KfhaJHYKrZ2.jpg",
+            "vote_average": 5.7,
+            "vote_count": 37,
+            "popularity": 92.5626,
+            "genre_ids": [
+                37,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 301507,
+            "name": "Heated Rivalry",
+            "original_name": "Heated Rivalry",
+            "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+            "first_air_date": "2025-11-28",
+            "poster_path": "\/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+            "backdrop_path": "\/nqifkILehKYB42nz2vkah9WKsGJ.jpg",
+            "vote_average": 8.067,
+            "vote_count": 30,
+            "popularity": 90.2486,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 272418,
+            "name": "Robin Hood",
+            "original_name": "Robin Hood",
+            "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+            "backdrop_path": "\/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+            "vote_average": 7.907,
+            "vote_count": 59,
+            "popularity": 54.4579,
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 255251,
+            "name": "Sean Combs: The Reckoning",
+            "original_name": "Sean Combs: The Reckoning",
+            "overview": "This documentary series unpacks the shocking allegations behind Sean \"Diddy\" Combs and his Bad Boy empire, spanning decades of his life and career.",
+            "first_air_date": "2025-12-02",
+            "poster_path": "\/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+            "backdrop_path": "\/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
+            "vote_average": 6.682,
+            "vote_count": 12,
+            "popularity": 29.7882,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 250504,
+            "name": "The Beast in Me",
+            "original_name": "The Beast in Me",
+            "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+            "backdrop_path": "\/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+            "vote_average": 7.277,
+            "vote_count": 92,
+            "popularity": 26.9659,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 219080,
+            "name": "The Mighty Nein",
+            "original_name": "The Mighty Nein",
+            "overview": "When a powerful arcane relic known as 'The Beacon' falls into nefarious hands, a group of fugitives and outcasts, bound by secrets and scars, must learn to work together to save the realm and stop reality as they know it from unraveling.",
+            "first_air_date": "2025-11-19",
+            "poster_path": "\/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+            "backdrop_path": "\/zUynbDIQtpWqtZkmwjEyvvFOURS.jpg",
+            "vote_average": 7.821,
+            "vote_count": 14,
+            "popularity": 24.8373,
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 260693,
+            "name": "Summerwater",
+            "original_name": "Summerwater",
+            "overview": "Set against the backdrop of a remote loch-side Scottish holiday cabin park and set over the course of one single rainy summer’s day, Summerwater looks at the simmering tensions between holidaymakers that eventually erupt into a devastating climax.",
+            "first_air_date": "2025-11-16",
+            "poster_path": "\/8UeaQnAIPtkcLriiffYMtHk1xNU.jpg",
+            "backdrop_path": "\/jK8akVgEV67ZMw5cyqj98bx8wRv.jpg",
+            "vote_average": 10,
+            "vote_count": 2,
+            "popularity": 23.3362,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 246386,
+            "name": "All Her Fault",
+            "original_name": "All Her Fault",
+            "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+            "backdrop_path": "\/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+            "vote_average": 8.5,
+            "vote_count": 45,
+            "popularity": 20.2824,
+            "genre_ids": [
+                18,
+                9648,
+                80
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 252000,
+            "name": "Down Cemetery Road",
+            "original_name": "Down Cemetery Road",
+            "overview": "When a child goes missing in the aftermath of a house explosion, a concerned neighbor teams up with a private investigator to find them. As secrets unravel and a military conspiracy emerges, all hell is unleashed on South Oxford's sleepy suburbs.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "\/dj3QTYe7OVPjFTpUoEp2GEyLNrR.jpg",
+            "backdrop_path": "\/njwcHzqjCnJ04p9apgkQpTXmNxP.jpg",
+            "vote_average": 6.597,
+            "vote_count": 31,
+            "popularity": 18.6255,
+            "genre_ids": [
+                18,
+                80,
+                9648
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304530,
+            "name": "Fortnite x The Simpsons",
+            "original_name": "Fortnite x The Simpsons",
+            "overview": "Springfield and Fortnite universes converge. Chaos ensues as Homer sets out to transform the world, wielding a powerful alien energy.",
+            "first_air_date": "2025-11-01",
+            "poster_path": "\/lr3gn5BN80kc2vkmTOlPuHZlLP.jpg",
+            "backdrop_path": "\/z0HHrV0t1NsnrHJK6dbkJbIu2Nb.jpg",
+            "vote_average": 6.6,
+            "vote_count": 17,
+            "popularity": 14.1546,
+            "genre_ids": [
+                35,
+                16,
+                10765,
+                10759
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 258742,
+            "name": "All's Fair",
+            "original_name": "All's Fair",
+            "overview": "A team of female divorce attorneys leave a male-dominated firm to open their own powerhouse practice. Fierce, brilliant, and emotionally complicated, they navigate high-stakes breakups, scandalous secrets, and shifting allegiances—both in the courtroom and within their own ranks. In a world where money talks and love is a battleground, these women don't just play the game—they change it.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg",
+            "backdrop_path": "\/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
+            "vote_average": 4.366,
+            "vote_count": 41,
+            "popularity": 13.962,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302854,
+            "name": "Bad Influencer",
+            "original_name": "Bad Influencer",
+            "overview": "A single mother — and luxury bag counterfeiter — finds herself teaming up with a self-obsessed influencer to sell her bags and scrape her way out of debt.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/jexSSiOClrAddGm6PiuLmRvWpXg.jpg",
+            "backdrop_path": "\/4YogiuBRm9cU8EbvjjlQX5CgDiY.jpg",
+            "vote_average": 8.7,
+            "vote_count": 3,
+            "popularity": 11.61,
+            "genre_ids": [
+                18,
+                80
+            ],
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 244416,
+            "name": "Malice",
+            "original_name": "Malice",
+            "overview": "A charming tutor infiltrates a wealthy family's life, revealing a sinister agenda.",
+            "first_air_date": "2025-11-14",
+            "poster_path": "\/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+            "backdrop_path": "\/sFcJMla4niXDeOXrrE8StmjzUmt.jpg",
+            "vote_average": 7.273,
+            "vote_count": 22,
+            "popularity": 10.6683,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 245219,
+            "name": "Death by Lightning",
+            "original_name": "Death by Lightning",
+            "overview": "The story of James Garfield, who rose from obscurity to become America's 20th President — and Charles Guiteau, the man who assassinated him.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
+            "backdrop_path": "\/l89mjyc8tGfhEalwDIeGqmXLR1N.jpg",
+            "vote_average": 7.583,
+            "vote_count": 42,
+            "popularity": 8.4245,
+            "genre_ids": [
+                18,
+                80
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302540,
+            "name": "The Bad Guys: Breaking In",
+            "original_name": "The Bad Guys: Breaking In",
+            "overview": "How did the Bad Guys break into the bad guy business in the first place? Find out in this hilarious prequel series set before the hit films.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
+            "backdrop_path": "\/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
+            "vote_average": 6.7,
+            "vote_count": 17,
+            "popularity": 7.8727,
+            "genre_ids": [
+                16,
+                80,
+                35,
+                10751
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 263346,
+            "name": "Ripple",
+            "original_name": "Ripple",
+            "overview": "In New York City, four strangers navigate life's challenges while their separate paths unexpectedly intertwine in ways that change them forever.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "\/exoDCWUEF7dTpCdatH23OammvQ7.jpg",
+            "backdrop_path": "\/eEDy1AdGn2gMCCHAblVqe0RtPTY.jpg",
+            "vote_average": 2,
+            "vote_count": 2,
+            "popularity": 7.8488,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 259886,
+            "name": "The War Between the Land and the Sea",
+            "original_name": "The War Between the Land and the Sea",
+            "overview": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+            "first_air_date": "2025-12-07",
+            "poster_path": "\/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+            "backdrop_path": "\/m3TFT5Tk2L9rooYZAeahEUY9UES.jpg",
+            "vote_average": 7.8,
+            "vote_count": 6,
+            "popularity": 6.4503,
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 271053,
+            "name": "I Love LA",
+            "original_name": "I Love LA",
+            "overview": "A codependent friend group navigates life and love in Los Angeles. With aspirations of becoming a talent manager, Maia is stalled out as an assistant while living with her boyfriend...until her longtime best friend and frenzied influencer Tallulah returns.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg",
+            "backdrop_path": "\/52h1FHwHLVG7oafzHTAJkmUKNMu.jpg",
+            "vote_average": 5.2,
+            "vote_count": 12,
+            "popularity": 5.7056,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 225361,
+            "name": "BAT-FAM",
+            "original_name": "BAT-FAM",
+            "overview": "Follow Batman, Alfred, and young Damian Wayne—who has taken on the mantle of Little Batman—alongside a few newcomers to Wayne Manor, as they navigate the fun and frustrations of life as a super family",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
+            "backdrop_path": "\/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
+            "vote_average": 4.4,
+            "vote_count": 10,
+            "popularity": 5.4771,
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 258023,
+            "name": "The American Revolution",
+            "original_name": "The American Revolution",
+            "overview": "The American Revolution was at once a war for independence, a war of conquest, a civil war, and a world war, fought by neighbors on American farms and between global powers an ocean or more away. It impacted millions from Vermont’s Green Mountains to the swamps of South Carolina, from Indian Country to the Iberian Peninsula. In defeating the British Empire and giving birth to a new nation, the American Revolution turned the world upside-down. Thirteen colonies on the Atlantic Coast united in rebellion, won their independence, and established a republic that still endures. The American Revolution will present the story of the men and women of the Revolutionary generation, their humanity in victory and defeat, and the crisis that they lived through.",
+            "first_air_date": "2025-11-16",
+            "poster_path": "\/76UCiD6Or5w2Ms8PW7XNcPtr9fD.jpg",
+            "backdrop_path": "\/yce0L2syqZ7PVcg9FR9Zqy9yDLG.jpg",
+            "vote_average": 4.947,
+            "vote_count": 19,
+            "popularity": 5.1932,
+            "genre_ids": [
+                99,
+                10768
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 288586,
+            "name": "Twelve Dates 'Til Christmas",
+            "original_name": "Twelve Dates 'Til Christmas",
+            "overview": "Follows Saville Row textile pattern designer Kate, who lives in the quaint village of Blexford, England next door to her father Mac, who is long-divorced from Kate’s mother Delilah, a globe-trotting American always on an adventure.  When not at work, Kate looks after Mac, who’s recovering from a motorbike accident and is inclined to spend his days sitting in his recliner.  Her best friend Laura signs her up for The 12 Dates of Christmas – a holiday-themed matchmaking program in the days leading up to the holiday featuring carefully curated, yuletide dating experiences, in an attempt to get Kate out of her rut.",
+            "first_air_date": "2025-12-05",
+            "poster_path": "\/uY47XnLzJS02swuVHipXYl9epDE.jpg",
+            "backdrop_path": "\/lqTEW5ZKq1txggmQ501y8JZI2nK.jpg",
+            "vote_average": 3,
+            "vote_count": 1,
+            "popularity": 4.8928,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "IE",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 296520,
+            "name": "Cooper & Fry",
+            "original_name": "Cooper & Fry",
+            "overview": "Set in the mystery-shrouded Peak District, the series follows two mismatched young detectives: affable local Ben Cooper and guarded newcomer Diane Fry. Thrown together to investigate a string of mysterious deaths they must learn to work together to get results. As their personal lives begin to intertwine, a unique friendship begins to form... but it won't always be easy.",
+            "first_air_date": "2025-11-18",
+            "poster_path": "\/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+            "backdrop_path": "\/m2Y5zHHsHFWb7ysSmOmlKjaE4ig.jpg",
+            "vote_average": 8.2,
+            "vote_count": 5,
+            "popularity": 3.4377,
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306905,
+            "name": "The Nowhere Man",
+            "original_name": "The Nowhere Man",
+            "overview": "Lukas, a former mercenary haunted by PTSD, roams the city as a waste picker with his trolley. At the homeless shelter where he lives, he salvages scraps to help others. Using his metalworking skill, he crafts statues and sells them to raise funds, quietly battling the violent past he longs to escape.",
+            "first_air_date": "2025-11-27",
+            "poster_path": "\/iO4PWIZDhyALn5KYFgph57bIYtK.jpg",
+            "backdrop_path": "\/4CXPLn2VKxTtlfd2fgClRYTBpiM.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 3.3723,
+            "genre_ids": [
+                10759
+            ],
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305165,
+            "name": "LEGO Marvel Avengers: Strange Tails",
+            "original_name": "LEGO Marvel Avengers: Strange Tails",
+            "overview": "Hawkeye and The Avengers have made saving the world look easy. But now they face their wildest threat yet: SOCIAL MEDIA. To save the world, a new team must be recruited to help our heroes contend with an influencer bent on cataclysmic destruction.",
+            "first_air_date": "2025-11-14",
+            "poster_path": "\/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+            "backdrop_path": "\/dPVOvmaar7tLTLIMlEk0rc8uRIs.jpg",
+            "vote_average": 5,
+            "vote_count": 7,
+            "popularity": 3.3484,
+            "genre_ids": [
+                10751,
+                16,
+                10765,
+                10759
+            ],
+            "origin_country": [
+                "DK",
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303109,
+            "name": "Fire and Water: Making the Avatar Films",
+            "original_name": "Fire and Water: Making the Avatar Films",
+            "overview": "This two-part documentary provides a fascinating glimpse into the making of the Oscar-winning box office phenomenon \"Avatar: The Way of Water\" and features exclusive behind-the-scenes footage, concept art, and interviews with cast and filmmakers.",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/1Jv4WlLRA659DdZIXOR2f6hZGz8.jpg",
+            "backdrop_path": "\/nZKcaSSV7NaGfuPeE6N4Xt5St7E.jpg",
+            "vote_average": 6,
+            "vote_count": 5,
+            "popularity": 3.2816,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 279116,
+            "name": "The Death of Bunny Munro",
+            "original_name": "The Death of Bunny Munro",
+            "overview": "Travelling salesman Bunny Munro takes his son around Sussex following the death of his wife Libby. And while Bunny’s grief and his addictions threaten to derail their road trip entirely, a serial killer dressed as the devil makes his own way down to Brighton.",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/bvOdiocmT17fDXmmGjiERkRBDeM.jpg",
+            "backdrop_path": "\/ogi8uZCaW17tmz5uOQkUoxXKVSX.jpg",
+            "vote_average": 4,
+            "vote_count": 3,
+            "popularity": 3.0468,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 255803,
+            "name": "Son of a Donkey",
+            "original_name": "Son of a Donkey",
+            "overview": "Theo comes up with chaotic schemes to save his impounded car. Meanwhile, his dying dad will stop at nothing to find himself a new kidney.",
+            "first_air_date": "2025-10-30",
+            "poster_path": "\/79IS51gwR4WCRMYlRj6ojX9ZDaG.jpg",
+            "backdrop_path": "\/neqseQCgpeasIZm3e6LM3v9ZfPU.jpg",
+            "vote_average": 4.75,
+            "vote_count": 4,
+            "popularity": 2.8914,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305591,
+            "name": "Still Waters",
+            "original_name": "Still Waters",
+            "overview": "In 1995, activist Llyr dies in a bombing; his cousin Rhys is jailed for his murder. In 2025, Rhys returns to buried secrets in a gripping tale of protest, guilt, and generational reckoning. Starring Mark Lewis Jones and Sian Resse-Williams.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/aKm9xudRfUnjB1btPTgikaLpJZ1.jpg",
+            "backdrop_path": "\/hkrDZkIIANYaOGeaRq373vQKjT5.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 2.7975,
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306499,
+            "name": "Baddies USA",
+            "original_name": "Baddies USA",
+            "overview": "Baddies USA kicks off in DC with a reunion of OG\n\nBad Girls and a Ballroom Dinner.",
+            "first_air_date": "2025-11-23",
+            "poster_path": "\/kasC42Bu2pSrLBmGBF8HkndGXwF.jpg",
+            "backdrop_path": "\/quMd3njpxeYmKaNFpYM8fcg7DwS.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 2.7753,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 276117,
+            "name": "The Artist",
+            "original_name": "The Artist",
+            "overview": "In the Gilded Age, an ensemble of the era’s celebrities including Thomas Edison, Edgar Degas and Evelyn Nesbit meet at the home of an eccentric and failing tycoon. By the end of the night, the mogul is found dead, spurring a historical fiction-themed murder mystery.",
+            "first_air_date": "2025-11-27",
+            "poster_path": "\/iThI47g23tzm8SHc1PSxHqF3Utt.jpg",
+            "backdrop_path": "\/hJfKTsoYegBI3Bq0aHLmBhHV92U.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 2.7584,
+            "genre_ids": [
+                80,
+                9648
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 296579,
+            "name": "Stumble",
+            "original_name": "Stumble",
+            "overview": "Courteney Potter is determined to rally her newly recruited junior college cheer squad to win her record-breaking 15th championship and improve their lives along the way.",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/bk6vVD3WQZgHeNlaGhqICBfjd9.jpg",
+            "backdrop_path": "\/8bXKgKyk6qKZzfOdWLuBuVJA8FT.jpg",
+            "vote_average": 6.2,
+            "vote_count": 5,
+            "popularity": 2.6665,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 253750,
+            "name": "Crutch",
+            "original_name": "Crutch",
+            "overview": "Francois 'Frank' Crutchfield or 'Crutch' to those who know him well, is a Harlem widower whose empty-nest plans are put on hold after his millennial son and free-spirited daughter move back home.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
+            "backdrop_path": "\/5lFJVwFA2jtO1ygLoDLGPiT7UhI.jpg",
+            "vote_average": 4.75,
+            "vote_count": 8,
+            "popularity": 2.3955,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 260650,
+            "name": "Trespasses",
+            "original_name": "Trespasses",
+            "overview": "When young Catholic teacher Cushla falls for a married Protestant man, their secret passion ignites a dangerous love that defies the Troubles divide.",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/ucwjasSOz2pr4TsRycK7Muegsh2.jpg",
+            "backdrop_path": "\/tFLSIouLM8b1qS0gh2I0k8jhuJF.jpg",
+            "vote_average": 8.5,
+            "vote_count": 2,
+            "popularity": 2.3002,
+            "genre_ids": [
+                18,
+                10768
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303173,
+            "name": "MARINES",
+            "original_name": "MARINES",
+            "overview": "Follows the 31st Marine Expeditionary Unit as they conduct high-stakes combat exercises in the Pacific.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/rpXGvTyNT6Crsu5ZzCy1h1SgRep.jpg",
+            "backdrop_path": "\/kCf0Ydkeue3vnRljYxMRhigU2nx.jpg",
+            "vote_average": 6,
+            "vote_count": 2,
+            "popularity": 1.9297,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 271880,
+            "name": "Ghosts Australia",
+            "original_name": "Ghosts Australia",
+            "overview": "New lovebirds Kate and Sean are about to jump into the hellscape that is the inner-city rental market, until Kate inherits a huge mansion in the country. Moving in together for the first time the young couple are attempting domestic bliss, but unbeknown to them, the house is haunted by a collection of needy spirits who carked it in Ramshead Manor over the past 200 years.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/eMuz6I3tSVD4GOq1iX1Glhwqubr.jpg",
+            "backdrop_path": "\/zqNCRVrKf6Y0MNHz5vIEJ95URZM.jpg",
+            "vote_average": 5,
+            "vote_count": 1,
+            "popularity": 1.7856,
+            "genre_ids": [
+                35,
+                10765
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 301991,
+            "name": "Kingdom",
+            "original_name": "Kingdom",
+            "overview": "Filmed across five years in a single spectacular location, the lives and fates of our four families - leopards, hyenas, wild dogs, and lions - are inextricably linked as they strive for a foothold in a remote and fertile river valley in Zambia.",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/s596vM9OIz1k6tvid7s3LxfaNfu.jpg",
+            "backdrop_path": "\/ecTdWTANa1foVcFj08gUiURxVnX.jpg",
+            "vote_average": 5.5,
+            "vote_count": 3,
+            "popularity": 1.5544,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 274915,
+            "name": "The Borderline",
+            "original_name": "The Borderline",
+            "overview": "A border town cop uncovers an illegal drug trade tied to his childhood friend and a ruthless British crime syndicate operating in the scenic 1000 Islands region between Canada and the U.S.",
+            "first_air_date": "2025-11-18",
+            "poster_path": "\/qR4j1F3k89FrQBa4S6uA9C0RMY5.jpg",
+            "backdrop_path": "\/ae7lKRzxW0iQmvZDd2mWGecIwbH.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.5032,
+            "genre_ids": [
+                80,
+                18
+            ],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 275557,
+            "name": "Wild Cherry",
+            "original_name": "Wild Cherry",
+            "overview": "Two pampered teenage daughters. Two very different mothers. The rich life is easy – until a shocking scandal reveals toxic secrets and the ugly side of glamour.",
+            "first_air_date": "2025-11-15",
+            "poster_path": "\/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
+            "backdrop_path": "\/c54arxwmTXMv4bPJo3RxbASW2s2.jpg",
+            "vote_average": 4,
+            "vote_count": 7,
+            "popularity": 1.4562,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302138,
+            "name": "Girls Raised In the South",
+            "original_name": "Girls Raised In the South",
+            "overview": "Follows Keisha, Ty and Francis, three young women from the unforgiving city of Memphis who are determined to figure out the next chapter in their lives while relishing in the world of their favorite past time, roller skating.",
+            "first_air_date": "2025-10-30",
+            "poster_path": "\/vEdQaOEJIlF9bNYge65ziBs6eYM.jpg",
+            "backdrop_path": "\/aWBldYVkFntPOWJSCg3VpY9dJbL.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.3794,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 297025,
+            "name": "Next Level Baker",
+            "original_name": "Next Level Baker",
+            "overview": "Talented bakers compete through three challenging rounds, crafting spectacular seasonal treats. Only one will emerge victorious and be crowned the ultimate holiday champion.",
+            "first_air_date": "2025-12-04",
+            "poster_path": "\/AeR0JF0FGNKAs7UorVLl4Msel2T.jpg",
+            "backdrop_path": "\/zssSmaV1VF0l7GHiVCsRctMK50v.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.3445,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303740,
+            "name": "My Nightmare Stalker: The Eva LaRue Story",
+            "original_name": "My Nightmare Stalker: The Eva LaRue Story",
+            "overview": "The harrowing true story of how actress Eva LaRue and her daughter Kaya endured 12 years of terror at the hands of a relentless stalker. Operating from the shadows, he taunted and terrorized their lives while his identity remained a mystery, even to the FBI. In this gripping account, Eva reveals the constant fear, emotional toll, and the resolve, courage and resilience it took to protect her family.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/pQDG3WglIyO7sYpgZuMwbhjzkAW.jpg",
+            "backdrop_path": "\/bjC1NG70WfRnLMZOopBmIj2fToI.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.3224,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306219,
+            "name": "Civilisations: Rise and Fall",
+            "original_name": "Civilisations: Rise and Fall",
+            "overview": "Four mighty civilisations - Rome, Egypt, Japan's Samurai and the Aztecs. Their legends remain - now priceless artefacts reveal what led them to fall into the echoes of history.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "\/lrJHQZ3TYAL3kP35rmHRJKnoBl5.jpg",
+            "backdrop_path": "\/2Tcq8FQdFf7d8zfegFbNenBIzML.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 1.28,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 262805,
+            "name": "Safehaven",
+            "original_name": "Safehaven",
+            "overview": "Safehaven follows Jenna Frost, a fierce, complicated high school comic book artist who must fight to uncover hidden truths after horrifying visions from her drawings come to life-threatening everyone around her. John Rayburn, the mysterious new school counselor determined to save her, even if it endangers both of their lives, and unearths his own personal demons. Complicating matters is Will, a passionate young man committed to protecting Jenna, who finds herself torn between rejecting his help and her growing feelings for him.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "\/bQ5ox5ROjlVmVarP7eJiQzoNBFx.jpg",
+            "backdrop_path": "\/fhUDj3jPjyTFrmfNnJTswvWkhCW.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.1972,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302648,
+            "name": "Words + Music",
+            "original_name": "Words + Music",
+            "overview": "Iconic artists share stories about songs pivotal to their careers, followed by all-new performances of those songs either solo or with a band. As the artists' stories unfold, the environment around them transforms to reflect each anecdote and song, creating an intimate yet visually stunning experience.",
+            "first_air_date": "2025-11-30",
+            "poster_path": "\/K8cM0mOCfsFCvaLq7Vj226u2zV.jpg",
+            "backdrop_path": "\/2eoCXVaJPWGiLMiu37hw1dd8P9z.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 1.1818,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 300003,
+            "name": "He Had It Coming",
+            "original_name": "He Had It Coming",
+            "overview": "An awkward scholarship student and a social media influencer vandalize a university statue in protest. The next morning, they discover a murdered athlete at its base and must clear their names while finding the real killer.",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/y71TxAn0oWqqXlCPwnWDVT5WRKC.jpg",
+            "backdrop_path": "\/6LyeZeBfKxJA4IQE4C5jDOsk11A.jpg",
+            "vote_average": 5.667,
+            "vote_count": 3,
+            "popularity": 1.1484,
+            "genre_ids": [
+                35,
+                9648
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306593,
+            "name": "The Sycamore Gap Mystery",
+            "original_name": "The Sycamore Gap Mystery",
+            "overview": "When the beloved 200-year-old Sycamore Gap tree on Hadrian’s Wall is mysteriously felled overnight, public outrage erupts worldwide. This gripping two-part true-crime documentary follows Northumbria Police’s unprecedented investigation, with exclusive access to detectives, witnesses and never-before-seen evidence. As officers untangle a bizarre case with no CCTV and no witnesses, the series explores the cultural impact of the tree’s loss and the global fight for justice in one of the UK’s most unusual environmental crimes.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "\/iP5AkKrM1ZAby2oxSgVzXVXWHEm.jpg",
+            "backdrop_path": "\/9CUyVM5FWKrm2W3aCZAvHnUsZSh.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.9316,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303175,
+            "name": "Alex vs ARod",
+            "original_name": "Alex vs ARod",
+            "overview": "From the pinnacle of athletic success to the depths of scandal, Alex Rodriguez saw his prolific baseball career marred by a high-profile suspension for performance-enhancing drug use. Told through a series of intimate interviews with Rodriguez, explore the dualities of one of the most polarizing figures in sports.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/qZyWiRLcD2uuiyVKE2TukxLVMY.jpg",
+            "backdrop_path": "\/pMwpgzXcS6WYmazRGChUNjt2zyn.jpg",
+            "vote_average": 4,
+            "vote_count": 2,
+            "popularity": 0.905,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 232684,
+            "name": "Koati",
+            "original_name": "Koati",
+            "overview": "Four adorable rainforest animals and their fearless friends go on adventures, learn about nature and discover the power of friendship together.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/8u71Ttb9lZSpC5nvWlCXYMlc4Eh.jpg",
+            "backdrop_path": "\/br5cqGusYpChz0sJXd97MdrpLHH.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.892,
+            "genre_ids": [
+                16,
+                10762,
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304623,
+            "name": "Eyes In The Woods",
+            "original_name": "Eyes In The Woods",
+            "overview": "The forest watches as two sisters confront personal truths - and what lurks in the dark.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/oKaF8rQXciQ99nXLV6ywJl21tXX.jpg",
+            "backdrop_path": "\/84y9bQTkBT0tr0P0Fhn7b8ZCYzG.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.8823,
+            "genre_ids": [],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306153,
+            "name": "5-Star",
+            "original_name": "5-Star",
+            "overview": "As these athletes chase their dreams under the spotlight, they must learn how to navigate playing in the Big Ten Conference while growing up in a pressure-cooker environment. When every mistake can risk everything and the fall from grace is devastatingly real, this isn't just about competing anymore; it's about fighting for a future where glory is within reach.",
+            "first_air_date": "2025-12-02",
+            "poster_path": "\/lHMga0EZCRYDJ234owmMm3b6T4i.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.865,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306502,
+            "name": "Prisoner 951",
+            "original_name": "Prisoner 951",
+            "overview": "The true story of Nazanin Zaghari-Ratcliffe - imprisoned in Iran and separated from her daughter - and her husband Richard, who fights both the British and Iranian governments to facilitate her release.",
+            "first_air_date": "2025-11-23",
+            "poster_path": "\/mgJgnPO8Le1lCmWvKxhs4DTduIZ.jpg",
+            "backdrop_path": "\/iyie3Q0Xy6JTo8HmPAUXvXaaF4K.jpg",
+            "vote_average": 6.667,
+            "vote_count": 3,
+            "popularity": 0.8351,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305599,
+            "name": "Good Sports with Kevin Hart and Kenan Thompson",
+            "original_name": "Good Sports with Kevin Hart and Kenan Thompson",
+            "overview": "Kevin Hart and Kenan Thompson break down their favorite moments from the NFL, NBA and the wide, weird world of sports with colorful commentary on highlights, sketches, celebrity and athlete interviews.",
+            "first_air_date": "2025-11-25",
+            "poster_path": "\/xZugVwXrAxxir7PxqFuQTbprfeY.jpg",
+            "backdrop_path": "\/m25lPAFAIg36FzaCNp8jyQaKF3Q.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.8128,
+            "genre_ids": [
+                10767,
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305200,
+            "name": "Toronto Airport Uncovered",
+            "original_name": "Toronto Airport Uncovered",
+            "overview": "Behind-the-scenes look at Toronto Pearson Airport shows how Canada's busiest hub manages millions of passengers and aircraft through snowstorms, tech problems, emergencies, and security issues.",
+            "first_air_date": "2025-11-22",
+            "poster_path": "\/rc94MWM24Jyrlf0Sfo3VKfJ7vMl.jpg",
+            "backdrop_path": "\/7nftCXJWOVoXVigNDJlYVJV79VB.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.8055,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305169,
+            "name": "James May's Shed Load of Ideas",
+            "original_name": "James May's Shed Load of Ideas",
+            "overview": "In \"James May's Shed Load of Ideas,\" the beloved presenter fully leans into his persona as a modern-day, pragmatic philosopher. Freed from the world of high-octane automotive challenges, May returns to his natural habitat: a wonderfully cluttered shed. From this cozy HQ, he embarks on a series of intellectual and practical explorations, applying his signature curiosity and dry wit to everything from the history of mundane objects to grand futuristic concepts. The show is a testament to the fact that the subject is almost irrelevant; the true appeal is simply listening to James May think aloud. It's a comforting, witty, and deeply engaging series for anyone who finds joy in the art of thoughtful inquiry.",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/n0673xCL5j4nSUNbmbyDp34PWco.jpg",
+            "backdrop_path": "\/o6X4qa36mDuQtdds29WFLECbAwr.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7838,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305353,
+            "name": "Wicked: The Official Podcast",
+            "original_name": "Wicked: The Official Podcast",
+            "overview": "Welcome to the official Wicked podcast! Consider this your all-access pass to the land of Oz. Presented by Universal Pictures and Vanity Fair, and hosted by Chris Murphy, this series features intimate conversations with Cynthia Erivo, Ariana Grande, and the cast – along with Director Jon M. Chu and the visionary creative team that brought this beloved story to life.\n\nOver eight weeks, we’ll pull back the emerald curtain to uncover the secrets of making Wicked – from building the massive sets and recording the iconic songs, to crafting the dazzling costumes, makeup, and visual language that reimagined Oz for a new generation, all while tackling the challenge of filming two movies at once.\n\nFollowing the release of Wicked: For Good on November 21, we’ll travel even further down the yellow brick road to explore story changes, performances, Easter eggs, and the creative evolution that makes these films one of cinema’s most spellbinding productions.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/mWfNQ2SfpYvfAIexDQHro1F3jM3.jpg",
+            "backdrop_path": "\/qHSVj9xXmU0aARTfTYnMdJgYdgv.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7786,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306914,
+            "name": "Yellow",
+            "original_name": "Yellow",
+            "overview": "It follows two fugitives who steal a taxi to escape from the police.",
+            "first_air_date": "2025-11-27",
+            "poster_path": "\/z780MEtZs2GONoJeC7GZyEgjGoP.jpg",
+            "backdrop_path": "\/7aNHSMHgpIA0rFvn6TvJkqCXrGr.jpg",
+            "vote_average": 7.6,
+            "vote_count": 4,
+            "popularity": 0.766,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304115,
+            "name": "The Rocky Mountain Mortician Murder",
+            "original_name": "The Rocky Mountain Mortician Murder",
+            "overview": "Explores the murder of Byron Griffy, a respected mortician, who was found dead on his remote ranch, shot execution-style.",
+            "first_air_date": "2025-11-26",
+            "poster_path": "\/nfs9nimnBWupjk7YjxQtImq4TYM.jpg",
+            "backdrop_path": "\/lW3dVg0y7IsD9pkjAZSpUGVxcdX.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7517,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303650,
+            "name": "June Farms",
+            "original_name": "June Farms",
+            "overview": "Matt Baumgartner, owner of June Farms, wants to make it the premier event space in the Hudson Valley. He has his hands full every week delivering perfect bespoke weddings. With a staff of fun-loving twenty-somethings, at times more focused on their love lives than their jobs and inclement weather, this wedding season turned out to be the hardest one in June Farm’s history.",
+            "first_air_date": "2025-11-17",
+            "poster_path": "\/bwLgBBlE36hzT5o9dHJcKFgMmXI.jpg",
+            "backdrop_path": "\/i88T4w0PSaop1YqlIhuzoc5YLTf.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7205,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305213,
+            "name": "Safe Space",
+            "original_name": "Safe Space",
+            "overview": "An underqualified Dr. Fredericks does his best to help and therapize struggling couples back to a so-called “safe space.”",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/yDyb8n5QFj4MeOnsRjyl0V5qsPE.jpg",
+            "backdrop_path": "\/no53gOPp4hhfjt7ciY9Ux023uGl.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.7202,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 278893,
+            "name": "Gifted",
+            "original_name": "Gifted",
+            "overview": "Set in the breathtaking city of Edinburgh, a diverse group of young Scottish teens discover they each have unique superpowers, from telekinesis to invisibility and mind reading.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "",
+            "backdrop_path": "\/pmPyNJw6fwg8FUJWDcMWi0D4z4P.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7199,
+            "genre_ids": [
+                10765
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304159,
+            "name": "Jimmy Carr's Am I The A**hole?",
+            "original_name": "Jimmy Carr's Am I The A**hole?",
+            "overview": "Each episode sees Jimmy Carr, Jamali Maddix and GK Barry dive into a series of jaw dropping admissions, shocking family fallouts, and moments of pure social chaos, as they ask the all important question: Is this person really an A**hole?",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/xzhevnWw1j9Tp6GMI4Q3gMpUztL.jpg",
+            "backdrop_path": "\/pXLGuHo3EifeQ1oYn8hvRMweYVF.jpg",
+            "vote_average": 0,
+            "vote_count": 1,
+            "popularity": 0.7163,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306805,
+            "name": "SUMPAH IBUKU",
+            "original_name": "SUMPAH IBUKU",
+            "overview": "Husna, a resilient single mother, remarries her old love, Hadith, but faces rejection and tyranny from her mother-in-law, Che Yam. In cahoots with Hadith's younger sister, Syafiqah, Che Yam uses sorcery and slander to destroy Husna's life. Despite being persecuted, Husna remains loyal and lovingly cares for her paralyzed father-in-law. As the slander escalates, Hadith begins to doubt her loyalty, forcing Husna to leave. With the support of her friends and Nurul Iman, Husna rises again — and the truth about Che Yam and Syafiqah's evil plans is finally revealed.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/sfh5y3QFLxQU8rgpHrAXEm1zBZc.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.7139,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 298846,
+            "name": "Don't Date Brandon",
+            "original_name": "Don't Date Brandon",
+            "overview": "Follow a modern romance that spiraled into a dangerous game of deception. When Amber starts dating Brandon after meeting him online, he seems like the perfect boyfriend. But when she connects with his ex-wife, Athena, everything is turned upside-down as they learn the truth together: Brandon is a manipulative liar with dark secrets.",
+            "first_air_date": "2025-10-28",
+            "poster_path": "\/sIipFBqZSX0zWIgHi4On3uYuGoW.jpg",
+            "backdrop_path": "\/goqzioeAOJIpa09DhesJkgHcjid.jpg",
+            "vote_average": 5,
+            "vote_count": 2,
+            "popularity": 0.6897,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306074,
+            "name": "Mark Rober's CrunchLabs",
+            "original_name": "Mark Rober's CrunchLabs",
+            "overview": "At CrunchLabs, Mark Rober transforms wild ideas into reality, blending engineering and outrageous fun for science adventures you'll never forget.",
+            "first_air_date": "2025-11-19",
+            "poster_path": "\/ppEXlChC27GBXdRj93Qq3uvCBBD.jpg",
+            "backdrop_path": "\/uqcUOKfJviztoNhiKxNXq7SBdUa.jpg",
+            "vote_average": 10,
+            "vote_count": 2,
+            "popularity": 0.6714,
+            "genre_ids": [
+                10751,
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303528,
+            "name": "Surviving Mormonism with Heather Gay",
+            "original_name": "Surviving Mormonism with Heather Gay",
+            "overview": "Heather Gay explores the secrets and sins behind the Mormon church, fracturing the church's seemingly perfect veneer to expose the secrets that have been kept behind closed doors. Heather has impactful conversations with abuse survivors, ex-Mormons and former LDS church leaders.",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/9GxyiVjAyHOrcz85bklO5yvX5pg.jpg",
+            "backdrop_path": "\/uGR9hzpkdgSdqKiwI3Vgvtyo9dO.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 0.6647,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305099,
+            "name": "Empire with David Olusoga",
+            "original_name": "Empire with David Olusoga",
+            "overview": "How did a small island once rule over a quarter of the world's population? This shared history still shapes us today - and billions of people are part of its story.",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/6LKKR14qoJ3ylaNGBYStML1yfyD.jpg",
+            "backdrop_path": "\/dn7FrhmqsmQNuBuFzHBT5z1g7Xs.jpg",
+            "vote_average": 5.5,
+            "vote_count": 4,
+            "popularity": 0.6489,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303625,
+            "name": "Scav",
+            "original_name": "Scav",
+            "overview": "Every year, a 20-page Scavenger Hunt list plunges the University of Chicago into fun, sleepless chaos. This series will bring the audience into the action, following three top teams as they race to complete the list, and answering the question of what happens when the best and brightest turn their focus towards the silliest things you’ve ever seen.",
+            "first_air_date": "2025-11-05",
+            "poster_path": "\/q2FdkAw5RG6TeVkxBZR58RX62sx.jpg",
+            "backdrop_path": "\/u26Gzh5ZhZDkaM3QT2ObnxFR3Zl.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.6489,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306372,
+            "name": "CryptoKnights",
+            "original_name": "CryptoKnights",
+            "overview": "CryptoKnights is a groundbreaking reality show that merges the dynamic world of cryptocurrency with mainstream media. It brings together some of the most influential figures in Web3 to evaluate and invest in promising crypto projects.",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/vhcTnb1wSnUBLqyytNdajwGBq9P.jpg",
+            "backdrop_path": "\/rtc5dl0AaH4naBxfMkJ3Qcf4zrc.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.613,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306217,
+            "name": "The Marvellous Miniature Workshop",
+            "original_name": "The Marvellous Miniature Workshop",
+            "overview": "It's the little things that mean the most. Sara Cox and a team of magnificent makers bring cherished memories back to life. The models may be tiny, but the joy they bring is huge.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "\/sjgRxXLM4fTNwEABcHavghZ89Fb.jpg",
+            "backdrop_path": "\/2gf2BTaSNpeIqJOyJIkUcNfMfd7.jpg",
+            "vote_average": 5,
+            "vote_count": 1,
+            "popularity": 0.6074,
+            "genre_ids": [
+                99,
+                10767
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305544,
+            "name": "Reckless",
+            "original_name": "Reckless",
+            "overview": "When feuding siblings June and Charlie cover up a hit and run in their hometown of Fremantle, their lives spiral wildly out of control. As the lies pile up, so do the consequences and soon, everyone in town has something to lose.",
+            "first_air_date": "2025-11-12",
+            "poster_path": "\/5xjTEyyVB76GjURbNnexPN5rUNw.jpg",
+            "backdrop_path": "\/cmGEyWHi0zuqdnzsqrQEtDCcocG.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.5903,
+            "genre_ids": [
+                18,
+                80,
+                35
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305225,
+            "name": "Bullseye",
+            "original_name": "Bullseye",
+            "overview": "Join Freddie Flintoff and official scorer 'Little' Richard Ashdown as the iconic gameshow returns. Knowers and throwers, who's got their eyes on the prize?!",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/3PKlUnmnGc6haaYoFAxqsnyC1wz.jpg",
+            "backdrop_path": "\/3Wn2yzp5D1mKDhH3OLVsufCa3Kt.jpg",
+            "vote_average": 9,
+            "vote_count": 1,
+            "popularity": 0.5785,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304887,
+            "name": "Crime Night!",
+            "original_name": "Crime Night!",
+            "overview": "Host Julia Zemiro and an expert team of criminologists and comedians dive beneath the surface of crime to discover the science and psychology behind it all.",
+            "first_air_date": "2025-11-05",
+            "poster_path": "\/b5la9mLfmql3PEVduAPTMb7PtrV.jpg",
+            "backdrop_path": "\/nNqTMFHh1eHeBPVZrOzCWpxBoXY.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.5403,
+            "genre_ids": [
+                10767,
+                80,
+                35
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305722,
+            "name": "Hitler's DNA: Blueprint of a Dictator",
+            "original_name": "Hitler's DNA: Blueprint of a Dictator",
+            "overview": "For the first time ever, experts identify Hitler’s DNA. What do his genes reveal about Hitler's heritage and origins, his neurology and drives?",
+            "first_air_date": "2025-11-15",
+            "poster_path": "\/kAvIGSnH1iytYPHPSYgfJE3ekAL.jpg",
+            "backdrop_path": "\/AeWvouV7W1N6AmI8wSaE7Rdkljr.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 0.5075,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307423,
+            "name": "Doménica Montero",
+            "original_name": "Doménica Montero",
+            "overview": "A respected and renowned businesswoman and philanthropist, considered one of the most sought-after brides in the country, who is left at the altar on her wedding day. Humiliated, betrayed, and turned into a target of public scrutiny, Doménica decides to flee and take refuge in one of her parents’ old estates. There, marked by pain, she faces new challenges and meets Luis Fernando, the owner of the neighboring estate, who also carries a painful past. Between them, an explosive relationship develops, marked by pride, misunderstandings, and growing attraction, where land disputes intertwine with their shared desire to rebuild, heal, and give new meaning to their lives.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "\/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg",
+            "backdrop_path": "\/l7fRCSEaHB50thaQmpTIIYxS54q.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.5053,
+            "genre_ids": [],
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306218,
+            "name": "What's the Monarchy For?",
+            "original_name": "What's the Monarchy For?",
+            "overview": "David Dimbleby examines the power, wealth and survival of the institution at the heart of our national life: the monarchy.",
+            "first_air_date": "2025-12-02",
+            "poster_path": "\/4RQi6AAvjPRYFbJUMpUpISH6WAk.jpg",
+            "backdrop_path": "\/rABByNhnjBkrx0JuHQdUV45Ndzk.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.499,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305454,
+            "name": "Spilling Your Seed",
+            "original_name": "Spilling Your Seed",
+            "overview": "Join Chloe Troast as she uncovers the surprising ancestral roots of celebrities and comedians. Each episode reveals shocking connections, hidden histories, and heartfelt discoveries — all through the lens of expert genetic analysis and historical sleuthing. From legendary bloodlines to long-buried family secrets, this is where the past meets personality.",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/wmkynS7LIHcggNpc5fruGp0KQhY.jpg",
+            "backdrop_path": "\/uuYwKbrVTZd8GByrUVnVGkKhjNC.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4901,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302722,
+            "name": "FAME\/LESS",
+            "original_name": "FAME\/LESS",
+            "overview": "FAME\/LESS follows musician Robert Hunter and his wife Becky on a 50-state, 52-week tour inspired by her cancer battle. Living in an RV, they chase fame while confronting love, loss, and the harsh realities of life on the road.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4804,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303649,
+            "name": "Caroline Flack: Search for the Truth",
+            "original_name": "Caroline Flack: Search for the Truth",
+            "overview": "Follow Caroline's mother, Christine, as she investigates the truth about her daughter's final months - uncovering new shocking details, asking difficult questions, and exposing the misrepresentations, pressures, and failures from institutions and decision makers that shaped Caroline's final days.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/libvyWPKCL1OI0A5LsGIqSXNs3f.jpg",
+            "backdrop_path": "\/aG9s3eFH5a7rEzF4843XxDsZkGn.jpg",
+            "vote_average": 9.5,
+            "vote_count": 2,
+            "popularity": 0.4794,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306970,
+            "name": "Sandi's Great Riviera Rail Trip",
+            "original_name": "Sandi's Great Riviera Rail Trip",
+            "overview": "Sandi Toksvig embarks on one of the world's grandest most spectacular rail trips, along the French Riviera: the playground of the rich and famous.",
+            "first_air_date": "2025-11-29",
+            "poster_path": "\/gIv8GlhRAXmFFzLMClARRaTiGhX.jpg",
+            "backdrop_path": "\/87ikYuDMoq58GwbuWhgITFJ0q3S.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.476,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303753,
+            "name": "Game of Wool: Britain's Best Knitter",
+            "original_name": "Game of Wool: Britain's Best Knitter",
+            "overview": "Tom Daley hosts as amateur knitters knock needles to impress judges Di Gilpin and Shelia Greenwell. Who can stitch without a glitch to become the UK’s first TV knitting champion?",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/yrJvwDBHBtnkhjKLWQqyjOY2Ae5.jpg",
+            "backdrop_path": "\/e4C6LYzy24OEl9gGUbKpVMyWkQ7.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.4716,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303580,
+            "name": "Mary at 90: A Lifetime of Cooking",
+            "original_name": "Mary at 90: A Lifetime of Cooking",
+            "overview": "Happy birthday! Mary Berry is joined by famous friends to share memories and recipes. Celebrating the joy of food, they'll revisit old favourites and discover new delicious dishes.",
+            "first_air_date": "2025-10-28",
+            "poster_path": "\/i5kCUWjr1efifo66wHo0KfSqNxl.jpg",
+            "backdrop_path": "\/jwhvMwAdYdFzvHojdcglHhRCwBR.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4558,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304482,
+            "name": "Portrait Artist Of The Year",
+            "original_name": "Portrait Artist Of The Year",
+            "overview": "Hosted by award winning actor Miranda Tapsell and beloved comedian Luke McGregor, this captivating eight-part art competition series explores one of the most accessible and provocative forms of art - the portrait.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/ZyUwJ1Y3Nz1rcjFW8j3TrWnWKI.jpg",
+            "backdrop_path": "\/k624xUZq8vEpiQpGCtAf03OFrWC.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4428,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305656,
+            "name": "The Infinite Explorer with Hannah Fry",
+            "original_name": "The Infinite Explorer with Hannah Fry",
+            "overview": "Professor Hannah Fry sets off on a global adventure, not just to see the world but to decode it. With curiosity, wit and insight she peels back the layers in six iconic locations: Spain, Vietnam, Greece, South Korea, Ireland, and Iceland. Through stunning landscapes, vibrant cities and off the beaten track treasures, Hannah seeks out extraordinary local voices and unexpected quirks of history and geography that reveal what makes each place truly unique. Always seeking patterns and hidden connections, she uncovers how Spain’s destiny was shaped by mountains, analyses traffic etiquette in Ho Chi Minh City, reveals secrets hidden in the geometry at the Parthenon and how Irish syntax builds a world view. This is much more than a travelogue—it’s a journey into the forces that shape nations and define cultures.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/phxPmtcRLNLsDCIp8FsO7CYi036.jpg",
+            "backdrop_path": "\/lnsUGO1ecITAIukU6scKJE88OcM.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4286,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 302679,
+            "name": "Who Hired the Hitman?",
+            "original_name": "Who Hired the Hitman?",
+            "overview": "The mystery isn’t who pulls the trigger, but who pulls the strings. In these twisted whodunit investigations, solid alibis and crime scene forensics mean nothing when detectives are on the hunt for an evil mastermind.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/n4Co9iJjG9YOM4qdN8FZuTEcMbj.jpg",
+            "backdrop_path": "\/apBeqJE69J0zueyZz7wfs3AFUD6.jpg",
+            "vote_average": 10,
+            "vote_count": 2,
+            "popularity": 0.425,
+            "genre_ids": [
+                80,
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303742,
+            "name": "Tiffany Haddish Goes Off",
+            "original_name": "Tiffany Haddish Goes Off",
+            "overview": "Comedian and actress Tiffany Haddish journeys to Africa on a four-week-long girls trip with her three closest childhood friends Selena Martin, Shermona Long, Sparkle Clark. Throughout the trip they take on new adventures, deepen their lifelong friendship, and explore personal connections to the continent.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/wHXvwTkVrBp2AMC1AF183gd33Ce.jpg",
+            "backdrop_path": "\/wKNNjCwiCqsdNO5pYG7kSKhnUZT.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.419,
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304997,
+            "name": "Sandi Toksvig's Hidden Wonders",
+            "original_name": "Sandi Toksvig's Hidden Wonders",
+            "overview": "Sandi Toksvig and Raksha Dave join some of the nation’s most extraordinary digs, as they explore remarkable sites on the brink of great discoveries and unearth hidden secrets from Britain's past.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/cV217oxkiuYcdxdyQAF7SnSv010.jpg",
+            "backdrop_path": "\/pwD9HdUaAEQvBS89fJLLYO5vIFP.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.4187,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 300920,
+            "name": "Baked With Love: Holiday",
+            "original_name": "Baked With Love: Holiday",
+            "overview": "10 talented pairs of home bakers face off in a warm-hearted, family- recipe bake-off. They will infuse their heritage, personal stories, and cherished family recipes into classic bakes with a holiday twist and serve their dishes to a panel of expert judges.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/gcO57XzFd9JkW49YKRH1ILngT1C.jpg",
+            "backdrop_path": "\/p3HBrxthZcIJKn0szHA9PXLKMiQ.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.4108,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305204,
+            "name": "Three Months to Break Your Heart",
+            "original_name": "Three Months to Break Your Heart",
+            "overview": "Two years ago, Summer sold her liver to a tycoon for 30 billion to save her bankrupt husband, Will. She forced him to divorce her. Now, with liver failure and only three months to live, she works tirelessly to fund her sister's surgery.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/noz4uc3mwwYlCsDdJbjp33pCwKC.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3976,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305791,
+            "name": "When The War Is Over",
+            "original_name": "When The War Is Over",
+            "overview": "Rachel Griffiths puts the power of art to the ultimate test, one artwork and one war at a time.",
+            "first_air_date": "2025-11-18",
+            "poster_path": "\/47EyeTBLsRdwtjH4I5hB7nolVRL.jpg",
+            "backdrop_path": "\/ijO7WrJrQgGXs4WNegpFaNlzvwa.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3527,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303726,
+            "name": "Quokka's Wild Life",
+            "original_name": "Quokka's Wild Life",
+            "overview": "Join a family of animal documentarians as they journey through nature to capture incredible wildlife stories. At the center is Quokka, their adopted daughter whose creativity and curiosity bring fresh perspective to every adventure. As they face challenges and discoveries together, the family grows closer—learning lessons of selflessness, gratitude, and connection.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "\/hdsBT8DyNq5Uy5lHHRIfof9ppiQ.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3452,
+            "genre_ids": [
+                16,
+                10751,
+                10762
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305035,
+            "name": "The Assembly",
+            "original_name": "The Assembly",
+            "overview": "A group of autistic and neurodivergent interviewers asks unpredictable, probing and direct questions to celebrities in a no holds barred interview.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/2vQdsyOnFNoLK9V5Yc0NavStFmq.jpg",
+            "backdrop_path": "\/bR9aEz9UEFFo6DBxPy6GOdBRaa2.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3425,
+            "genre_ids": [],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304230,
+            "name": "Behind Bars: Sex, Bribes and Murder",
+            "original_name": "Behind Bars: Sex, Bribes and Murder",
+            "overview": "An investigation into a viral prison sex tape leads journalist Mobeen Azhar to discover an illicit prison economy fuelled by inappropriate relationships, coercion and contraband.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/jX46h92ODDMwhNKODouHu7Uq0Ns.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3314,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303147,
+            "name": "The Real Housewives Ultimate Girls Trip: Africa",
+            "original_name": "The Real Housewives Ultimate Girls Trip: Africa",
+            "overview": "For the first time, we’re bringing together iconic Housewives from across the continent to share their worlds, their stories and their sisterhood. It’s unapologetically Pan-African, women-led and full of the energy and authenticity that make Africa unlike anywhere else on Earth.",
+            "first_air_date": "2025-11-28",
+            "poster_path": "\/hGr8KeOm36DPb5KDysVJqlQeTq.jpg",
+            "backdrop_path": "\/4MRo6d0eTkB0Lz8lsJnwurrACP0.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 0.3278,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305016,
+            "name": "Tournament of Champions: All-Star Christmas",
+            "original_name": "Tournament of Champions: All-Star Christmas",
+            "overview": "Guy Fieri is combining everyone's favorite culinary competition with the most wonderful time of the year by delivering the ultimate holiday present — Tournament of Champions: All-Star Christmas. For the first time ever, 32 jingle-bell-rock-star chefs are teaming up as duos to make both sweet and savory dishes in a one-of-a-kind, holly-jolly tournament. These chefs will try to \"sleigh\" the competition for a shot at the $100,000 prize and some seriously sweet cash for charity. With festive flavors, fierce battles and enough Christmas spirit to stuff a stocking, the holidays have never been this delicious",
+            "first_air_date": "2025-11-05",
+            "poster_path": "\/qshuv46xb7nfMDJRY2RB0BRT4tQ.jpg",
+            "backdrop_path": "\/zvcDNLArN1LUGg9ip7vH5WAwki5.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3277,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305407,
+            "name": "Gingerbread Land: The Biggest Little Holiday Competition",
+            "original_name": "Gingerbread Land: The Biggest Little Holiday Competition",
+            "overview": "Top bakers compete in gingerbread building challenges, creating edible miniature worlds with lights, motion, and intricate details. Teams face weekly tests of design, structure, and creativity in this festive holiday competition.",
+            "first_air_date": "2025-11-17",
+            "poster_path": "\/fOsqxsvMJlWGB5gLPdeQQjP42iU.jpg",
+            "backdrop_path": "\/cP6UEGkY8z0dkopXZS9yVmealQ9.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3275,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304995,
+            "name": "High Horse: The Black Cowboy",
+            "original_name": "High Horse: The Black Cowboy",
+            "overview": "Three-part pop culture and historical documentary confronts and reclaims the Wild West while revealing the story of the Black cowboy — a history that has largely been untold.",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/yMjmR1n2L20GyyvJvTeyM8JJyPW.jpg",
+            "backdrop_path": "\/92VrriHqW9vAaqrSZlubKyvUxPv.jpg",
+            "vote_average": 5.5,
+            "vote_count": 3,
+            "popularity": 0.3209,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307204,
+            "name": "Shiftless",
+            "original_name": "Shiftless",
+            "overview": "Paul and Steve end up in bizarre situations.",
+            "first_air_date": "2025-11-15",
+            "poster_path": "\/5DJRVaqIqXLUJaFaiGpDDa74iOi.jpg",
+            "backdrop_path": "",
+            "vote_average": 9,
+            "vote_count": 1,
+            "popularity": 0.3178,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 277410,
+            "name": "Dino Ranch: Island Explorers",
+            "original_name": "Dino Ranch: Island Explorers",
+            "overview": "Join Jon, Min, Miguel and their trusty dinos, as they explore the Island's dino filled jungle, active volcano, and the previously undiscovered world under the water.",
+            "first_air_date": "2025-11-08",
+            "poster_path": "\/knkr9RwA33jIskhS6PuwSZJCp0s.jpg",
+            "backdrop_path": "\/8w8oWpatj0MSlNdWNTXEu99JDGJ.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3152,
+            "genre_ids": [
+                16,
+                10762
+            ],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 246148,
+            "name": "Once Upon a Time in Space",
+            "original_name": "Once Upon a Time in Space",
+            "overview": "The human story of space exploration using unique, unexpected archive, present-day footage and first-hand testimony from around the world. This series will connect the past with the present and examine what the consequences are for the future of humankind as we once again head into space.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/qGjq6Jjd4fEYRmq5rdUNGX0uVqf.jpg",
+            "backdrop_path": "\/akm2eRFP4xQhnfk3btKWeSNLNvk.jpg",
+            "vote_average": 7.333,
+            "vote_count": 3,
+            "popularity": 0.3127,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304337,
+            "name": "'Til You Make It",
+            "original_name": "'Til You Make It",
+            "overview": "Meet Mei and Tim: two middle-aged actors still waiting for their “big break.” Tim’s made peace teaching others to shine — but Mei? She’s not done dreaming just yet.",
+            "first_air_date": "2025-10-30",
+            "poster_path": "\/swU3idnxpUyxbsEHQPkKJiUySzD.jpg",
+            "backdrop_path": "\/vKpbqfY7c6PFidLytVTQxwLhq8e.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.3074,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305301,
+            "name": "Original Gangsters with Sean Bean",
+            "original_name": "Original Gangsters with Sean Bean",
+            "overview": "From Al Capone, to the real Peaky Blinders, from The Krays twins to the Queen of Harlem, each hour-long episode of Original Gangsters will see the legendary actor Sean Bean take a deep dive through a rogues gallery of some of the most notorious criminals in history to separate the fact from the fiction, as we find out what they mean to us today and just why they were the original gangsters.",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/a633nZiybfzvXCY5gWCOCb5gRvE.jpg",
+            "backdrop_path": "\/lnsIT7lvT9n6eJCbRnpfKGg1rgL.jpg",
+            "vote_average": 0,
+            "vote_count": 1,
+            "popularity": 0.3029,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304943,
+            "name": "No Strings Attached",
+            "original_name": "No Strings Attached",
+            "overview": "Real celebrities. Really saucy stories. Mel Giedroyc hosts the erotic showbiz book club where famous guests narrate racy fanfiction while naughty puppets bring their words vividly to life!",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/dDoxTgUVR9lquuWFwzFR0m96imw.jpg",
+            "backdrop_path": "\/hmpmJnREoi8P8jT3F9B7d78VrVf.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2941,
+            "genre_ids": [
+                35,
+                10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306652,
+            "name": "Dexter Procter",
+            "original_name": "Dexter Procter",
+            "overview": "A 10-year-old prodigy works as a paediatrician, tackling bizarre medical cases while dealing with a resentful senior doctor who's determined to end his career.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "\/dvPazDbvURGGOtzWmnaZ5mUadyd.jpg",
+            "backdrop_path": "\/bGqUzSFWtUac9QOcfJJAnm7IUee.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.289,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305345,
+            "name": "Sweet Empire",
+            "original_name": "Sweet Empire",
+            "overview": "Welcome to Sweet Empire, hosted by Wells Adams where bakers hold the power to build their teams, shape their vision and rise to sweet supremacy … or crumble in defeat. Each episode, competitors craft jaw-dropping desserts and showstopping masterpieces inspired by holiday traditions, pop culture and pure imagination. Judged by Yolanda Gampp and Jacques Torres, only the most daring creations will stand tall. At stake: $50,000 and the title of Sweet Empire.",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/xRLU1MKN6tneow0K8ESynXoDE5Z.jpg",
+            "backdrop_path": "\/tUXVDXKUgmWGFfvGBtFgkW0HBBS.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2879,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305849,
+            "name": "Inside the World's Most Luxurious...",
+            "original_name": "Inside the World's Most Luxurious...",
+            "overview": "An all-access pass to decadence and adventure, taking us aboard some of the world's most opulent movable feasts - from cruise liners with enviable art collections, to million-pound motorhomes.",
+            "first_air_date": "2025-11-17",
+            "poster_path": "\/gKuqVYIGOuaQLRwVlYWkvbPPFA9.jpg",
+            "backdrop_path": "\/zE1Cl7W5KIcWBWsNJS3mQMbA9jV.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.274,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305003,
+            "name": "Tales From Woodcreek",
+            "original_name": "Tales From Woodcreek",
+            "overview": "Deborah Ann Woll leads an incredible cast through spooky mysteries and unscripted surprises in a completely unique D&D actual-play adventure.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "",
+            "backdrop_path": "\/4fKKJVI8Bse4vXWSQPX1gYNyrm8.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2733,
+            "genre_ids": [
+                10765
+            ],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304148,
+            "name": "Robson Green: World's Most Amazing Walks",
+            "original_name": "Robson Green: World's Most Amazing Walks",
+            "overview": "Robson Green embarks on a series of unforgettable adventures along some of the world's most awe-inspiring trails.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/4TSemDGKBTsI30eaMoSXPv189Pf.jpg",
+            "backdrop_path": "\/9fxIctZwH882SPqbI2e2pWdanTb.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2706,
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305605,
+            "name": "Play for Today",
+            "original_name": "Play for Today",
+            "overview": "Revival of the 1970s and 80s series of individual plays, originally shown on the BBC, now freshly-commissioned for Channel 5 and a whole new era of life in Britain.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "\/uvr3rG4ZmRVqG74KcmopIBawxLE.jpg",
+            "backdrop_path": "\/aA7Tlwoi41TUiMiOLyNKgyuJi7H.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2686,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303321,
+            "name": "About Face",
+            "original_name": "About Face",
+            "overview": "Elite surgeons in Los Angeles tackle some of the most complex facial reconstruction cases, helping patients with severe deformities and rare conditions reclaim dignity, hope, and a chance at a new life.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "\/p5UnZuV3vyjv9rqUXrukQqxWYs5.jpg",
+            "backdrop_path": "\/oilzms7j72aCKOBBXWlv2ofOOq.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2661,
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307030,
+            "name": "Greatest Basslines",
+            "original_name": "Greatest Basslines",
+            "overview": "Series celebrating music's killer basslines and the glory of the bottom end. With A-List musical talent at its heart, each episode is authored by a different bass expert, offering three unique perspectives of experience and expertise and allowing the series to traverse through multiple genres: rock, funk, disco & hip hop and reggae & club culture.",
+            "first_air_date": "2025-11-28",
+            "poster_path": "\/oaT9jS8yUM4DDR0WaNqPcyZEbaa.jpg",
+            "backdrop_path": "\/bP8u0gA82Jq9AL8v7ZC3SazIoNV.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.2629,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303715,
+            "name": "Killer Grannies",
+            "original_name": "Killer Grannies",
+            "overview": "Killer Grannies is a true-crime documentary series on Oxygen True Crime that profiles shocking real-life cases where grandmothers turn into cold-blooded killers. Hosted by June Squibb, each self-contained episode follows investigators as they unravel the sinister plots and dark deeds of a seemingly innocent, maternal matriarch of a family.",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/jOJC7RP0MMx6ZfDKwimH87W7sKA.jpg",
+            "backdrop_path": "\/hDCblIiT4olCMcGlIGV0zrwGPaM.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.2522,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305259,
+            "name": "Vantara: Santuary Stories",
+            "original_name": "Vantara: Santuary Stories",
+            "overview": "Hosted by renowned wildlife biologist, conservationist, and adventurer Forrest Galante, the six-episode series will take audiences on a visually stunning journey into Vantara, the world's largest wildlife rescue and rehabilitation facility that offers lifelong care for some of the most magnificent animals on Earth. Located in Gujarat, India, Vantara is a closed-to-the-public sanctuary designed for the wellbeing of the animals who live there. It is home to over one million animals, representing over 1000 species and is operated by a dedicated team of 25,000 employees. Now, for the first time ever, Galante offers an unprecedented look inside the walls of this extraordinary, not-for-profit sanctuary - a world very few have ever been allowed to enter.",
+            "first_air_date": "2025-11-07",
+            "poster_path": "\/3HXJzBs58OV7e2OxEXHDg23i9DW.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2452,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304247,
+            "name": "Shane Delia’s Malta",
+            "original_name": "Shane Delia’s Malta",
+            "overview": "Chef Shane Delia showcases the vibrant archipelago of Malta, a Mediterranean crossroads where cuisine and culture collide. He meets Maltese locals and puts his spin on local and family recipes.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "\/7RxgfJYmlXRnJwTwSfLVWxg7Dy1.jpg",
+            "backdrop_path": "\/fQFBJICSrgPB9SU5ZapDEbQkHV6.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.24,
+            "genre_ids": [
+                99,
+                10751
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305415,
+            "name": "Bill Bailey’s Vietnam",
+            "original_name": "Bill Bailey’s Vietnam",
+            "overview": "Bill Bailey travels to Vietnam on the 50th anniversary of the withdrawal of US forces from Saigon. Immersing himself in its rich culture, stunning landscapes and complex history, he uncovers what makes this fascinating country tick.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/mGQbSAEGzo88fqE6Mx0WHQfo3yE.jpg",
+            "backdrop_path": "\/teUqeZ4sskCruLQvImeBMBT6qgk.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2371,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305416,
+            "name": "Hoarding for the Holidays",
+            "original_name": "Hoarding for the Holidays",
+            "overview": "Step inside the glittering traditions of extreme holiday decorators and festive collectors. From couples divided over decor overload to families juggling joy with storage, see the outrageous world of those whose passion for the season knows no bounds.",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/pZSXiCUvM3k6Jtv4UuX97EDMyTu.jpg",
+            "backdrop_path": "\/jO27Ikr3nntRbqrBgEqrsIbyqj7.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2282,
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305692,
+            "name": "Heathens",
+            "original_name": "Heathens",
+            "overview": "HEATHENS is an action dark fantasy indie animation series about demons, devotion, and an era coming to an end. As Hell rumbles with the threat of an infernal war, follow a crew of 3 ride-or-die demonic friends as they navigate the underworld - chasing meaning through a whirlwind of bounties, brawls, and high-stakes heists.",
+            "first_air_date": "2025-11-14",
+            "poster_path": "\/46aMuCBF2mQtuTvv4w8aKIRulGE.jpg",
+            "backdrop_path": "\/sq7vHtfCY2spKmyKJ7ujQF9SsVY.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.2184,
+            "genre_ids": [
+                10765,
+                10759,
+                35,
+                16,
+                37
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304888,
+            "name": "Annabel Crabb's Civic Duty",
+            "original_name": "Annabel Crabb's Civic Duty",
+            "overview": "This 3-part docuseries tells the remarkable story of Australia's democratic system. Annabel Crabb unearths the individuals and stories behind the features that combine to make Australian democracy globally unique.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/4ntbqDdhAmSffDRpBvHJQLfiA17.jpg",
+            "backdrop_path": "\/1ai1lzno5dMZSYHyXvmBMyWZikF.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2052,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306877,
+            "name": "I Kissed a Boy Norway",
+            "original_name": "I Kissed a Boy Norway",
+            "overview": "Brave, single men move into a luxurious estate in beautiful southern Italy – in search of true love! But there's no time to wait: The first time they meet, they have to kiss. The result is a celebration of queer love and an honest, emotional experience. Can a single kiss be the start of a relationship that lasts a lifetime?",
+            "first_air_date": "2025-11-28",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2035,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306895,
+            "name": "The Great Escapers",
+            "original_name": "The Great Escapers",
+            "overview": "The nation’s best-known faces buddy up for the ultimate holiday. Follow their travels to stunning European destinations, as they compete to win the most memorable trip!",
+            "first_air_date": "2025-11-23",
+            "poster_path": "\/lueMwusyMGRLMIIytKxxrpQPH1n.jpg",
+            "backdrop_path": "\/dO2a3Ps1pVgCr1E3G9bwvOjeUI8.jpg",
+            "vote_average": 7,
+            "vote_count": 1,
+            "popularity": 0.1957,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306375,
+            "name": "Secrets of the Royals: Births, Marriages and Deaths",
+            "original_name": "Secrets of the Royals: Births, Marriages and Deaths",
+            "overview": "Royal Births, Marriages, and Death is a captivating new ten-part documentary series featuring a dynamic and fresh cast of contributors with specialist expertise, extraordinary archive, ancient documents that reveal incredible insight. This stunning new series tells the story of a thousand years of monarchy through these powerful and pivotal moments.",
+            "first_air_date": "2025-11-22",
+            "poster_path": "\/bPnYvtj4Jzsk9ykrkSl9BatQB0Q.jpg",
+            "backdrop_path": "\/2MLm0zucleqiLfVdvEzSuvTY11Y.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1932,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303683,
+            "name": "Girlbands Forever",
+            "original_name": "Girlbands Forever",
+            "overview": "Girl power and killer harmonies. Stars from All Saints, Mis-Teeq and more take a trip through the highs and lows of 90s pop and beyond - from adoration to the flip side of fame.",
+            "first_air_date": "2025-11-01",
+            "poster_path": "\/o4wo1DQgnByxTOUA1N5bHnsHmfV.jpg",
+            "backdrop_path": "\/fMf3NWtrii11KLPwTEtge7cWYde.jpg",
+            "vote_average": 4,
+            "vote_count": 2,
+            "popularity": 0.1739,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307275,
+            "name": "The Sneaker Boom",
+            "original_name": "The Sneaker Boom",
+            "overview": "Explores how young NBA stars and marketing execs drove an explosion in global popularity in sneakers in the 1990s.",
+            "first_air_date": "2025-11-21",
+            "poster_path": "\/gk03RyRtl1VZiRaGekpt3XtdWQk.jpg",
+            "backdrop_path": "\/bxyUuP5gemKPasYZ8qToIzhPslp.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1674,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305119,
+            "name": "Ancient Greece: The Dark Chronicles",
+            "original_name": "Ancient Greece: The Dark Chronicles",
+            "overview": "",
+            "first_air_date": "2025-11-27",
+            "poster_path": "\/leWNg0ZoWoBf7h2NTNCo2hcxAbC.jpg",
+            "backdrop_path": "\/qtCpQdjzFjaHnYOrcEADaUrZDGf.jpg",
+            "vote_average": 8,
+            "vote_count": 1,
+            "popularity": 0.167,
+            "genre_ids": [],
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 301923,
+            "name": "Detective Naveed",
+            "original_name": "Detective Naveed",
+            "overview": "Disgraced ex-cop Naveed starts a private eye firm, then searches for his missing ex-wife and children across continents, facing personal demons along the way.",
+            "first_air_date": "2025-11-01",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1629,
+            "genre_ids": [
+                9648,
+                80
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304549,
+            "name": "Inside the Arrest",
+            "original_name": "Inside the Arrest",
+            "overview": "Inside the Arrest captures the moment of arrest, conducted more than two thousand times a day by British police, in order to investigate or prevent a crime. The arrest is the start point for every story, a high-stakes moment that can be met with anything from violence to defiance, confession to incredulity.\n\nEach episode features two cases using police bodycam footage to analyse some notorious and high-profile arrests from recent years.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/awxxUNBcdLQpZlI928tn9YyH4hq.jpg",
+            "backdrop_path": "\/8XVc8hRGRjEiDmAyuP1WoMnsM7T.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1529,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 298174,
+            "name": "The Hook-Up",
+            "original_name": "The Hook-Up",
+            "overview": "A group of young adults fueled with \"big dreams\" of being famous relying on their talents to remove them from their situation and personal demons.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/AaFH0TTjDPYudrAiqt7wvI1WFSQ.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1505,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307347,
+            "name": "Dunkman",
+            "original_name": "Dunkman",
+            "overview": "40 of the best dunkers in the world compete to claim the $200K and title of DUNKMAN.",
+            "first_air_date": "2025-12-04",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1483,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306575,
+            "name": "Shed and Buried: Classic Combine",
+            "original_name": "Shed and Buried: Classic Combine",
+            "overview": "Henry Cole and the team restore a 1950s Massey Ferguson combine, racing to tame the beast and bring in the harvest; laughs, setbacks, and classic Shed & Buried spirit throughout.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "\/vD34vD8SHI2k4VUKg6xhcKwHBg.jpg",
+            "backdrop_path": "\/iHmyJmTkfJIz99KNz4J10p299bc.jpg",
+            "vote_average": 8,
+            "vote_count": 0,
+            "popularity": 0.144,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303274,
+            "name": "Planet C: Home Race",
+            "original_name": "Planet C: Home Race",
+            "overview": "Planet C: Home Race tells the story of the boys from Planet C who dream of debuting as global idols. They return to the launch pad and embark on a new journey with Star Creators from around the world.",
+            "first_air_date": "2025-12-06",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1384,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305340,
+            "name": "Holiday Bakeshop",
+            "original_name": "Holiday Bakeshop",
+            "overview": "Holiday Bakeshop is a festively fun baking showdown where eight talented bakers face off in a high-stakes competition for a chance to take home $25,000. Hosted by actress and comedian Lauren Ash, each episode tests the bakers' creativity and technical skills as they race against the clock to complete two Holiday-themed bakes. Week after week the stakes are raised, and the bakers must impress the judges or face elimination. Lauren is joined on the judging panel by celebrated Filipino-Canadian chef, restaurateur, and TV personality Jordan Andino, and James Beard nominated chef, baking entrepreneur, and TV personality, Kareem “Mr. Bake” Queeman. Come the thrilling finale, three bakers will battle it out but only one will taste sweet victory, earning the title of Holiday Bakeshop champion and the cash prize.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/pkgwPY5ZBDt71LLqAZh4PeV4fbH.jpg",
+            "backdrop_path": "\/bhhNfvutDbw8xIJfLioOy5Zvhus.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1371,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305045,
+            "name": "Monkey Wars",
+            "original_name": "Monkey Wars",
+            "overview": "",
+            "first_air_date": "2025-10-30",
+            "poster_path": "\/hu6YQqHBqPV3iBmGLkbuukz27cB.jpg",
+            "backdrop_path": "\/kGRkshQi9b66G0ioA3qq1hfonQL.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1309,
+            "genre_ids": [],
+            "origin_country": [
+                "SA",
+                "ZA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306658,
+            "name": "The Man in the Mask: An Orkney Murder",
+            "original_name": "The Man in the Mask: An Orkney Murder",
+            "overview": "Full of jaw-dropping twists, this is the extraordinary story of the first murder in Orkney for 25 years as the police suspect a schoolboy of shooting dead a waiter in a restaurant.",
+            "first_air_date": "2025-11-25",
+            "poster_path": "\/kuEpj1OLseqJtxCFqiU8FQMY12L.jpg",
+            "backdrop_path": "\/ewrpL8oDRGCZf6jW3TCol4zmEgR.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1279,
+            "genre_ids": [
+                80,
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306570,
+            "name": "Angus Ashworth: Yorkshire Heritage Hero",
+            "original_name": "Angus Ashworth: Yorkshire Heritage Hero",
+            "overview": "Auctioneer Angus Ashworth embarks on a mission to help save Yorkshire's stately homes. Using his skills as a valuer and house clearance specialist, he unearths forgotten relics that can be sold at auction to help fund repairs and restoration work.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "\/fOAPxJOJrVavHXp283Gfyta880V.jpg",
+            "backdrop_path": "\/96Hvc8qjaFxFiJFXDH1Q1P6Zdm6.jpg",
+            "vote_average": 8,
+            "vote_count": 1,
+            "popularity": 0.124,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307193,
+            "name": "Sydney's Killer Cop",
+            "original_name": "Sydney's Killer Cop",
+            "overview": "On February 18th, 2024, something deep inside the psyche of Beau Lamarre-Condon – a policeman, celebrity stalker and blogger – snapped. Lamarre-Condon’s ex Jessie Baird, a TV presenter, and Luke Davies were both shot dead with a police-issue revolver that night. How did a trusted member of the police force become a cold-blooded murderer? How was Lamarre-Condon caught…and, tragically, where had he hidden the bodies of the two young men? Over two episodes a harrowing story unfolds around the famous Sydney gay scene, a policeman who flirted as a celebrity spotter, and how his delusional star-spotting would disintegrate around him into a deadly horror show.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "",
+            "backdrop_path": "\/8YX6cyXSkhNB3VgaOQ9Mwg5Pp9E.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1227,
+            "genre_ids": [
+                80,
+                99
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 299239,
+            "name": "Action Movie Mayhem",
+            "original_name": "Action Movie Mayhem",
+            "overview": "Byron Gibson returns to Thailand, the birthplace of his movie career, to launch the documentary series Action Movie Mayhem. In this explosive debut, Gibson interviews top stunt and action performers, giving audiences rare access to life behind the scenes. More than just high-octane stunts, the series dives into the personal worlds of these artists—their quirks, ambitions, hopes, and challenges.\n\nThe first episode, “Bangkok’s Dangerous,” features handpicked performers whose résumés collectively span over 300 films. From sharing the secrets of becoming a convincing screen villain to revealing how to break into the fiercely competitive film industry, the series pulls no punches. Set in Bangkok, a global hub for blockbusters like The Hangover Part II, The Alien TV Series, and The Meg 2, the show promises heart-pounding thrills, jaw-dropping stories, and an authentic look at the unsung heroes of action cinema.",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/wc1O99aW1ogeaWpTIN3C8jwDstN.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1206,
+            "genre_ids": [
+                99,
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305293,
+            "name": "Baby Shu and Fwends",
+            "original_name": "Baby Shu and Fwends",
+            "overview": "An anthology series featuring stories that explore friendship, power, and identity through the experiences of a rebellious teenager.",
+            "first_air_date": "2025-11-08",
+            "poster_path": "\/ld3qqxyJfjDAhejsvQ5apzMeP1Q.jpg",
+            "backdrop_path": "\/8qyW5MWfLSpXACordDrXrYpiv27.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1193,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304172,
+            "name": "Murder on Trial",
+            "original_name": "Murder on Trial",
+            "overview": "Detectives chase leads, prosecutors face defense attorneys, and juries wrestle with decisions.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/SsUdC6oBlhr1DAlgS6dnxuM1of.jpg",
+            "backdrop_path": "\/jcrn60BZS9OuULulth6ipXdsJ1D.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.1191,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305919,
+            "name": "Anandalahari",
+            "original_name": "Anandalahari",
+            "overview": "Two families from East and West Godavari collide in a hilarious journey filled with cultural clashes, romance, and domestic mayhem as traditions and modern life intertwine along the banks of India's great river.",
+            "first_air_date": "2025-11-18",
+            "poster_path": "\/iW3tz8rJBmMsim0LBOdbOG1lMAj.jpg",
+            "backdrop_path": "\/xV7lfGxBUh4jA87iaiAprGBh607.jpg",
+            "vote_average": 7,
+            "vote_count": 1,
+            "popularity": 0.1163,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306923,
+            "name": "Pitch Please",
+            "original_name": "Pitch Please",
+            "overview": "A show where business meets comedy, startup pitches meets banter, information meets entertainment.",
+            "first_air_date": "2025-11-01",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1151,
+            "genre_ids": [],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307573,
+            "name": "Clinical Foundations in Gottman Method Couples Therapy",
+            "original_name": "Clinical Foundations in Gottman Method Couples Therapy",
+            "overview": "Join the thousands of clinicians worldwide who have completed Level 1 and 2 Training in Gottman Method Couples Therapy.",
+            "first_air_date": "2025-12-05",
+            "poster_path": "\/m6CMtyHnV4TLzAZ1oZPS1oxE4G1.jpg",
+            "backdrop_path": "\/5cjC2TYDVmcv7pQG6cH1z3RcMPg.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1135,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304937,
+            "name": "Slay Queens",
+            "original_name": "Slay Queens",
+            "overview": "Slay Queens is a bold, no-holds-barred documentary series that dives straight into the glitzy, gritty world of Mzansi's (South Africa's) most talked-about women.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/g9wdtS9frSpw5m3lF3J3mThj02x.jpg",
+            "backdrop_path": "\/4Xs6dmfxvJLmk8S2CNbcIfYneIq.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1128,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306487,
+            "name": "The 1% Club Rollover",
+            "original_name": "The 1% Club Rollover",
+            "overview": "Spin-off of The 1% Club, broadcsat over five nights. Lee Mack this special edition of the quiz in which the prize pot that is not won on one show is carried over to the next day's edition, meaning there could be up to £500,000 to be won. As usual, 100 contestants begin every show, but those who make it through to the final question return the next day to play the quiz again.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1117,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307179,
+            "name": "I Fucking Hate You",
+            "original_name": "I Fucking Hate You",
+            "overview": "A sitcom about friends who fucking hate each other",
+            "first_air_date": "2025-12-07",
+            "poster_path": "\/9BUwCwqKZ2zSosYbewtT5qD0JOl.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1076,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307498,
+            "name": "Cheap A$$ Beach Houses",
+            "original_name": "Cheap A$$ Beach Houses",
+            "overview": "Big beach dreams meet small budgets as buyers search for affordable homes in the sand, chasing their slice of seaside paradise where the views are priceless without wiping out their wallets.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306910,
+            "name": "Clash of the Comics",
+            "original_name": "Clash of the Comics",
+            "overview": "A wild and unpredictable event that sees some of the biggest names in comedy wrestling against each other and some of the UK's top professional wrestlers.",
+            "first_air_date": "2025-11-28",
+            "poster_path": "\/ehCtJQTVuP7zj8bJYGrDd8WJ4Rd.jpg",
+            "backdrop_path": "\/yJ1iz3HkSknIKWJaLruB7d6z1ea.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.1034,
+            "genre_ids": [
+                10759
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304797,
+            "name": "Jasmine Harman's Renovation in the Sun",
+            "original_name": "Jasmine Harman's Renovation in the Sun",
+            "overview": "Jasmine Harman’s no stranger to helping others find their perfect place in the sun. Now she and her family take the plunge and transform a run-down villa into their new home on the Costa del Sol.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/tAHlJwPuxaCOGHC2UouBG3SQL4l.jpg",
+            "backdrop_path": "\/7UqLJiWPTPGGXHi1MqszW6rxWi3.jpg",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.0978,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305522,
+            "name": "Scroll Patrol",
+            "original_name": "Scroll Patrol",
+            "overview": "Scroll Patrol is an inside look into the life of RuPaul's Drag Race Season 2 and All Stars 10 icon, Nicole Paige Brooks. Nicole is scrolling through her camera roll, sharing never-before-seen photos and stories from her 30-year drag career, her personal life, and her RuPaul's Drag Race journey.",
+            "first_air_date": "2025-11-12",
+            "poster_path": "\/cD9h1oaniq7S1TozH5b4uPaxlGN.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0916,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304784,
+            "name": "Fading Summer",
+            "original_name": "Fading Summer",
+            "overview": "Plot is unknown",
+            "first_air_date": "2025-10-31",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.09,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305694,
+            "name": "Strawberry Vampire",
+            "original_name": "Strawberry Vampire",
+            "overview": "From the strawberry fields of Strawbania to the fluorescent halls of American middle school - meet Franny Fragaria, a young vampire trying to fit in America, which is awkward - because America is awkward.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.089,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304341,
+            "name": "The Office",
+            "original_name": "The Office",
+            "overview": "Hang with the bros",
+            "first_air_date": "2025-10-29",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0882,
+            "genre_ids": [
+                16
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304078,
+            "name": "Skelly: Closet Cases",
+            "original_name": "Skelly: Closet Cases",
+            "overview": "An overworked designer’s life spirals into chaos when she discovers a wisecracking skeleton living in her closet—forcing her to confront her past, her career, and the skeletons she never wanted to face. A surreal, dark comedy animation about grief, mental health, and a whole lot of bones.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0877,
+            "genre_ids": [
+                35,
+                16
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305875,
+            "name": "Sex, Money, Murder",
+            "original_name": "Sex, Money, Murder",
+            "overview": "A riveting true crime series that chronicles some of the most shocking stories of murder, deceit and scandal hidden within the fabric of America’s most notorious strip clubs. Each episode uncovers the true accounts of jaw-dropping homicides within these sanctuaries of seduction.",
+            "first_air_date": "2025-11-17",
+            "poster_path": "\/3jieiz0Gktuf3KQEYDqxsvV49ZO.jpg",
+            "backdrop_path": "\/hRF5K7WTWyqZmkPAtbYcWtCqh7N.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 0.0873,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 296295,
+            "name": "Voltaic Blood",
+            "original_name": "Voltaic Blood",
+            "overview": "Gabriel Báthory fights his vampire nature and alliances to protect his last heir and last opportunity at redemption.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/5d1yTfdnqJmzP7tNWJoLph1xY5x.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0789,
+            "genre_ids": [
+                10765,
+                9648
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307444,
+            "name": "Doctor Who Rebirth",
+            "original_name": "Doctor Who Rebirth",
+            "overview": "Doctor Who: Rebirth follows a newly regenerated Doctor whose unstable transformation leaves their memories fractured and the universe changed in unsettling ways. As they uncover the cause of a mysterious cosmic force known as The Rebirth Pulse, the Doctor travels across time and space confronting revived dangers, unexpected allies, and shifting realities. Faced with a universe on the edge, the Doctor must rediscover their identity and forge a new path to protect all of time.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "\/7eGZOBOSj6IxDvrRXnnXgMsaW4B.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0778,
+            "genre_ids": [
+                18,
+                10759,
+                10765
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305372,
+            "name": "Eric Jerome Dickey's Friends and Lovers",
+            "original_name": "Eric Jerome Dickey's Friends and Lovers",
+            "overview": "A romantic drama exploring how friendship, passion, and forgiveness collide. The story follows two best friends, Debra, a Type A doctor, and Shelby, a free-spirited rule breaker, as their lives intertwine with those of Leonard and Tyrese.",
+            "first_air_date": "2025-11-15",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 8,
+            "vote_count": 1,
+            "popularity": 0.0757,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304791,
+            "name": "The Troops",
+            "original_name": "The Troops",
+            "overview": "From war zones to royal duties – Scots’ battalions train, fight and serve. On duty and off, we follow the lives of jocks and officers, uncovering courage, sacrifice and humanity.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/5NV5hnCy9BLmFgP1JUl16HpesXt.jpg",
+            "backdrop_path": "\/fKDyKnt0kwW0C0fLdPt2jyAYi2Q.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0692,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 272544,
+            "name": "What's 'T' Got To Do With It?",
+            "original_name": "What's 'T' Got To Do With It?",
+            "overview": "A young transgender woman navigates the ups, downs, and hilarious realities of transitioning, identity, and self-acceptance, offering a comedic and heartfelt peek into the trials and triumphs of her daily life.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "\/yZErkhlgoicnYOwq5le7PRBuXMT.jpg",
+            "backdrop_path": "\/49iFiKe8AdwgLiR2ZV45zmuCk9x.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0691,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304238,
+            "name": "Extreme Bugs",
+            "original_name": "Extreme Bugs",
+            "overview": "Camouflage, deception and deadly precision: insects arrive with surprising survival strategies and thus take their place in the animal world. From bomb-igniting beetles, web-throwing spiders to tricky antlions – worldwide, the insect world has developed amazing abilities to protect itself from attackers and obtain food.",
+            "first_air_date": "2025-12-04",
+            "poster_path": "\/tp02vkiaUnDV9YzvNKsQgaP3AHW.jpg",
+            "backdrop_path": "\/g3zvADCEWo1CmZyY9dumLknHRxo.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0689,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "AU",
+                "DE"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 300271,
+            "name": "Break from Apocalypse",
+            "original_name": "Break from Apocalypse",
+            "overview": "She forged husks, unleashed the dead-now the apocalypse turns on its maker.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/6dg6xGvj400xva9jhImLza07EJA.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0673,
+            "genre_ids": [
+                18,
+                9648,
+                10765,
+                10759
+            ],
+            "origin_country": [
+                "PK",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306339,
+            "name": "Judge Me If You Can!",
+            "original_name": "Judge Me If You Can!",
+            "overview": "Welcome to Judge Me If You Can the show where comedians confidently judge a complete stranger using nothing but vibes. You could debate, overthink, and still end up WILDLY wrong. The stranger already knows all the answers; the panel tries their best. And every reveal is funnier and more unhinged  than the last.\n\nCAN YOU JUDGE THE RIGHT ANSWER BEFORE THE PANEL?",
+            "first_air_date": "2025-11-16",
+            "poster_path": "\/9dI8HR9prNkTuU37tSp1c8fBn8h.jpg",
+            "backdrop_path": "\/g23GaEef6vmaW3VToo7WXBIInEU.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0623,
+            "genre_ids": [
+                10764,
+                35
+            ],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304863,
+            "name": "Heist: Robbing the Bank of England",
+            "original_name": "Heist: Robbing the Bank of England",
+            "overview": "Heist: Robbing the Bank of England' documents the 1990 Bank of England bond heist which saw a theft of £ 292 million. Hosted my Marcel Theroux, this series will travel across the globe to tell this incredible true story which spanned several continents over three decades, leaving many unanswered questions…until now.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/grf7iXr6Szab5WWbDgFwXLapy1B.jpg",
+            "backdrop_path": "\/zlSwf555sn6p2FoeTxIMsCfmnTe.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0604,
+            "genre_ids": [
+                99,
+                80
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305351,
+            "name": "Aşkın Gücü",
+            "original_name": "Aşkın Gücü",
+            "overview": "The Power of Love",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/r4hNEfcDyVMSt8yk4hEQjkGvLOf.jpg",
+            "backdrop_path": "",
+            "vote_average": 10,
+            "vote_count": 1,
+            "popularity": 0.0602,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304912,
+            "name": "China's Wild Secrets",
+            "original_name": "China's Wild Secrets",
+            "overview": "",
+            "first_air_date": "2025-11-04",
+            "poster_path": "\/zRhYQjP2py6tfipqb56xukfP6rR.jpg",
+            "backdrop_path": "\/3uIqFl3e9jUD4VdXJ1QrBD01tiP.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0586,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306562,
+            "name": "Mafaad Parast",
+            "original_name": "Mafaad Parast",
+            "overview": "Mafaad Parast follows the lives of two cousins whose contrasting natures shape a dramatic tale of love, betrayal, and destiny. Despite being raised under the same roof, Zara and Mehroo see the world through entirely different lenses.\n\nZara, gentle-hearted and selfless, was brought up by her aunt Alia, never suspecting the deep-rooted resentment Alia harbors toward her. While Zara offers nothing but affection, Alia’s hidden bitterness quietly brews into choices that will alter lives.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "\/9U7VcgVkpoHsDQ3Y35KMN5N37pD.jpg",
+            "backdrop_path": "\/tQUPFEKfckdJ7x2kH2CSnNL0pqT.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0571,
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307609,
+            "name": "Rasmalai",
+            "original_name": "Rasmalai",
+            "overview": "The Kohli family lives with everyday chaos and heartfelt dreams that always feel just out of reach. When an opportunity promises to fulfill their wish, excitement fills their home, but so does tension. As old memories resurface, hidden secrets and lies begin to shake their bond. Sometimes, the sweetest moments arrive with the most unexpected twists.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0571,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307152,
+            "name": "Echo Heritage",
+            "original_name": "Sada Al Turath",
+            "overview": "Sada Al Turath is a storytelling series that brings to life a rich tapestry of Arab and Amazigh folklore. The channel explores tales and legends from Morocco, Algeria, Tunisia, Egypt, the Levant, Yemen, and the Gulf, along with Amazigh stories from the Rif, Atlas, Souss, Kabyle, Chaoui, and other world cultures.\n\nThrough modern narrative techniques that preserve authenticity, the show revives oral heritage for a new generation. Each episode presents engaging, educational, and culturally grounded stories suitable for the whole family. Sada Al Turath invites viewers to discover forgotten treasures that reflect the values, wisdom, and moral lessons that shaped the identity of many communities.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "\/3gUamvyy5wiSSbX35U9yu2uUau6.jpg",
+            "backdrop_path": "\/gC4K9oZUC7HDNztXY06nZUokWzF.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0568,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307264,
+            "name": "The Engines of Nene Valley Shorts",
+            "original_name": "The Engines of Nene Valley Shorts",
+            "overview": "This short form mini series of shorts, follows the misadventures of Amelia, Abi, Thompson and the rest of the gang in their day to day antics at Nene Valley Railway.",
+            "first_air_date": "2025-11-30",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0554,
+            "genre_ids": [
+                16,
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304368,
+            "name": "Bigfoot Took Her",
+            "original_name": "Bigfoot Took Her",
+            "overview": "Investigator of the unexplained Jessica Chobot, along with law enforcement official Robert Collier, take a fresh look at one of the most bizarre unsolved missing persons cases in modern history, the disappearance of teenager Theresa Bier.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "\/hOXckGO9XwFywtFCYdvuaff0aJM.jpg",
+            "backdrop_path": "\/sP7tL4aiTmgKCium3IMt3NhjNlT.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.052,
+            "genre_ids": [
+                99,
+                10765
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306312,
+            "name": "5-Star",
+            "original_name": "5-Star",
+            "overview": "SPOTLIGHTING THE REAL-TIME TRANSFORMATIONS OF FOUR ELITE COLLEGE FRESHMAN FOOTBALL RECRUITS",
+            "first_air_date": "2025-12-02",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.042,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 300092,
+            "name": "Husk to Self",
+            "original_name": "Husk to Self",
+            "overview": "In a world of beasts, the Reforger creates new lives and discarded husks—until the queen who built it becomes one herself.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0414,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "PK",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304439,
+            "name": "MAFS UK Does Come Dine With Me",
+            "original_name": "MAFS UK Does Come Dine With Me",
+            "overview": "Some of the show’s favourite brides and grooms will be taking on Come Dine With Me in a week of programmes where they will compete against each other to win a £1,000 prize for charity.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/bdrynXodFqzOJyBuKTIzYZIuF1T.jpg",
+            "backdrop_path": "\/3CNYTmaMDy7ktbFlPFN0aHTSUh2.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0404,
+            "genre_ids": [
+                10764,
+                35
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305042,
+            "name": "Steam Train Diaries",
+            "original_name": "Steam Train Diaries",
+            "overview": "Paul 'Piglet' Middleton journeys across the picturesque North York Moors National Park onboard heritage steam engines, and discovers what it takes to keep the iconic North Yorkshire Moors line running.",
+            "first_air_date": "2025-11-05",
+            "poster_path": "\/m2zbQ9FO1QjOYISz2fEyFDaqlzE.jpg",
+            "backdrop_path": "\/sNn0lIk1D8v8R0sEfhYR9KOQZzR.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0388,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 301835,
+            "name": "THE PETRA Ultimate Series",
+            "original_name": "THE PETRA Ultimate Series",
+            "overview": "A Group of 10 Greatest Documentary Films\n\nThe Petra film series is a comprehensive documentary that showcases the history of the region and the culture of the Nabateans, including their arts of architecture, sculpture, and water engineering, as well as their trade and currency. The series features artifacts from the Petra Museum and its churches and reveals the connection between the Nabatean script and the modern Arabic script. It also explores fascinating topics related to the Arabic language and the region's history.\n\ndo not forget that Petra is one of the New Seven Wonders of the World.\n\n12 Episodes, Around 12 hours.  Duration: (Eps 1 - (56:26), Eps 2 - (57:43), Eps 3 - (56:30), Eps 4 - (57:55), Eps 5 - (54:58), Eps 6 - (57:09), Eps 7 - (54:35), Eps 8 - (58:09), Eps 9 - (57:53), Eps 10 - (54:50), Eps 11 - (57:11), Eps 12 - (56:26).",
+            "first_air_date": "2025-11-01",
+            "poster_path": "\/gbIgGPGM85LY5myT5G11koUgmd7.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0382,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307412,
+            "name": "Jamie Durie's Future House",
+            "original_name": "Jamie Durie's Future House",
+            "overview": "Jamie Durie enlists top builders and innovators to construct the ultimate affordable Future House: eco-friendly, stunning designs, and built fast.",
+            "first_air_date": "2025-11-25",
+            "poster_path": "\/2FRlpL54cukPIOWkIb4qLQSVSmJ.jpg",
+            "backdrop_path": "\/hJPz17YPC4cIaHe5VRqucTTDxsC.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0379,
+            "genre_ids": [],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307165,
+            "name": "千原キャスティング株式会社",
+            "original_name": "千原キャスティング株式会社",
+            "overview": "MC Chihara Junior! A battle for the right to appear in a commercial! Milk Boy VS Nanagari▼Beni Shoga VS Two Tribe▼Shizuru VS Yadan▼Kukki! Waraihan Nishida Ogiri Showdown",
+            "first_air_date": "2025-12-06",
+            "poster_path": "\/jk42vL3GfMrw44QotzxcF9M5Ha3.jpg",
+            "backdrop_path": "\/mAYtBJQZ4m9HvQ3DCWwFT11hIQJ.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0364,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307661,
+            "name": "Zero Star: The Cam Ward Story",
+            "original_name": "Zero Star: The Cam Ward Story",
+            "overview": "Witness Cam Ward's unlikely rise from overlooked high school QB with one Division FCS offer to the NFL draft's no. 1 pick.",
+            "first_air_date": "2025-12-04",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0357,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307479,
+            "name": "Battle For Giant Cake Season 1",
+            "original_name": "Battle For Giant Cake Season 1",
+            "overview": "20 objects join the show called Battle For Giant Cake.",
+            "first_air_date": "2025-12-03",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0338,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306412,
+            "name": "ZLZ-Wow！English TV 2025",
+            "original_name": "ZLZ-Wow！English TV 2025",
+            "overview": "",
+            "first_air_date": "2025-11-24",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0311,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307487,
+            "name": "Hebridean Baker - Nordic Islands",
+            "original_name": "Hebridean Baker - Nordic Islands",
+            "overview": "Coinneach MacLeod explores the food traditions of the Nordic Islands.",
+            "first_air_date": "2025-11-13",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0311,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304994,
+            "name": "Tote Kai Tora",
+            "original_name": "Tote Kai Tora",
+            "overview": "The successful series THEN AND NOW, loved on the internet by thousands of viewers and with millions of views, premieres on SKAI television on Wednesday, November 5 at 9:00 PM, with Elena Charalamboudi and Alexandros Tsouvelas in the leading roles and the creative team of 5 MINUTE MUM behind the cameras.",
+            "first_air_date": "2025-11-05",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0286,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306682,
+            "name": "Nightmare: Resurrections",
+            "original_name": "Nightmare: Resurrections",
+            "overview": "Following the events of Nightmare the movie, Rick Rollins moves into a new house where he starts getting nightmares again.",
+            "first_air_date": "2025-12-06",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0261,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307556,
+            "name": "Come Dine With Me Canada 2025",
+            "original_name": "Come Dine With Me Canada 2025",
+            "overview": "This new adaptation of the long running, hit UK format is coming to Food Network in Canada. Over five days, five strangers each host a three course dinner party in their own home for the other guests.",
+            "first_air_date": "2025-11-27",
+            "poster_path": "\/zaMay9NewzcbVAPs4eLEkhYHUtM.jpg",
+            "backdrop_path": "\/ttZA8A2KRa9Evi1y1PoAzF1fRnU.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0261,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305054,
+            "name": "Death Tally",
+            "original_name": "Death Tally",
+            "overview": "Death Tally is a horror-focused web series where every episode breaks down a movie’s body count, exploring each death with style, humor, and respect for the craft of horror.\n\nThe show doesn’t just count kills — it analyzes them. It’s about the art of the death scene, the impact on the story, and the creativity behind the carnage.",
+            "first_air_date": "2025-11-21",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0256,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304898,
+            "name": "Top Tens",
+            "original_name": "Top Tens",
+            "overview": "",
+            "first_air_date": "2025-11-05",
+            "poster_path": "\/aQjlqiRM4BTPLDo5OulSfWJJdOX.jpg",
+            "backdrop_path": "\/AisZm8pUSF3144irhKWUqE27O39.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0239,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307578,
+            "name": "It's Andrew!",
+            "original_name": "It's Andrew!",
+            "overview": "Andrew, a wide-eyed, joyful young rhinoceros bursting with creativity navigates life in the ever-surprising world of Hornsby Downs.",
+            "first_air_date": "2025-12-05",
+            "poster_path": "\/yD8aKgQlV7oo5vnZYz7jSUXCpHi.jpg",
+            "backdrop_path": "\/qMqEAUa3RpBsro0bU2CTsoY3FWV.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0214,
+            "genre_ids": [],
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306824,
+            "name": "BK100年　大コント祭",
+            "original_name": "BK100年　大コント祭",
+            "overview": "Celebrate BK's 100th anniversary with a comedy skit! Comedians will create and present skits based on popular NHK Osaka programs such as \"Bakeke\" and \"Seikatsu Wara Hyakka.\" The hosts will be Kamaitachi.",
+            "first_air_date": "2025-11-28",
+            "poster_path": "\/otudnqRXTNdCDZADgY8u0j2qlAk.jpg",
+            "backdrop_path": "\/hnCRGaMFpL8LcRvhEnZLjXKPBXF.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0214,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305803,
+            "name": "Could be Worse",
+            "original_name": "Could be Worse",
+            "overview": "Could be Worse is an ensemble comedy about three friends navigating the absurdity of everyday life in LA, trying to make it in entertainment.",
+            "first_air_date": "2025-11-11",
+            "poster_path": "\/fLm2JI1jmbWsjOowsxZlczXmCtH.jpg",
+            "backdrop_path": "\/yRr4mXErqaaY6rrDQZ5fC2EuXdr.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0214,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305920,
+            "name": "Come Dine With Me: Teens",
+            "original_name": "Come Dine With Me: Teens",
+            "overview": "In this youthful mouthful, five altogether different teenagers take on the challenge of hosting the best dinner party in Manchester, in a bid to bag the £1000 cash prize",
+            "first_air_date": "2025-11-10",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0214,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307388,
+            "name": "Aah!",
+            "original_name": "Aah!",
+            "overview": "Aah is a spine-tingling 36-episode supernatural thriller adapted from the acclaimed Tamil anthology novel by Suriya Rethnna. Each week a chilling story unfolds, weaving hauntings of love, betrayal and vengeance into a larger narrative that follows Aditya as he faces the terrifying legacy of his mother Devi, whose grip from beyond the grave refuses to fade. From cursed homes and eerie hospital wards to a family bistro steeped in secrets, Aah blurs the line between the living and the dead.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "\/gYgBySZQi9t2COTiyJFVjGTMuko.jpg",
+            "backdrop_path": "\/wtkcCN4P4Z2RuMFL5m0zjfM8rpJ.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0214,
+            "genre_ids": [
+                9648
+            ],
+            "origin_country": [
+                "SG"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307612,
+            "name": "Cancer Detectives: Finding the Cures",
+            "original_name": "Cancer Detectives: Finding the Cures",
+            "overview": "Three trailblazing scientists take on cancer, with their pioneering work changing peoples’ lives, right now",
+            "first_air_date": "2025-11-20",
+            "poster_path": "\/6KyxbaEoJCQInSarhbZSq29I9lz.jpg",
+            "backdrop_path": "\/tlqG5fvWeNnE1Ui9CLNrKyRTp74.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0168,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304738,
+            "name": "Celebrity Come Dine with Me",
+            "original_name": "Celebrity Come Dine with Me",
+            "overview": "Celebrity contestants host dinner parties as they compete to bag a £1000 cash prize for their chosen charity.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0168,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306703,
+            "name": "WOUNDS & WINGS",
+            "original_name": "WOUNDS & WINGS",
+            "overview": "“Wounds & Wings,” produced by Dayton Junior School in association with Jemo Art Studios, is a Ugandan drama series written and directed by award-winning filmmaker James Twino. The story follows Sarah, a resilient single mother, and her daughter Nina as they navigate poverty, corruption, and the dark secrets of Lutalo’s past. Across two seasons, their journey of education, justice, and family resilience unfolds in a gripping, emotional, and visually compelling narrative—showcasing Uganda’s emerging talent and cinematic growth.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [
+                18
+            ],
+            "origin_country": [
+                "UG"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307446,
+            "name": "Na lovu",
+            "original_name": "Na lovu",
+            "overview": "A fast-paced game show where contestants must compete against 'The Chasers,' the show's eccentric and pompous know-it-all characters, in a variety of questions in order to win money by answering more of them correctly than the Chasers.",
+            "first_air_date": "2025-11-24",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306379,
+            "name": "The Most Embarrassing TV Moments",
+            "original_name": "The Most Embarrassing TV Moments",
+            "overview": "Excruciating, hilarious and plain embarrassing TV clips.",
+            "first_air_date": "2025-11-22",
+            "poster_path": "\/wrvWUN3MQJaiNsEffYje6kZztbH.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 291641,
+            "name": "INCOMING: the game",
+            "original_name": "INCOMING: the game",
+            "overview": "the horrifying and suspense-filled world of a deadly survival game that pulls six teenagers from various backgrounds into a nightmare. After a humiliating incident at his high school reunion, Bright, a brilliant but financially struggling teen, is lured into an Instagram ad that promises an easy way to make money. What he doesn’t know is that this click will entrap him and his friends into a game with no rules, where survival becomes the ultimate goal. As the game starts to haunt them in their everyday lives, the teens must navigate challenges, betrayals, and deadly consequences while trying to uncover the mystery behind the sinister game.",
+            "first_air_date": "2025-11-15",
+            "poster_path": "\/yOMinYrzyfTCZXMYi9vDtbhxcji.jpg",
+            "backdrop_path": "\/rg836M2GukiQSSCyg7rcc1jmylK.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [
+                9648
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307642,
+            "name": "The Kevin Show",
+            "original_name": "The Kevin Show",
+            "overview": "Have a question? Give us a call at +1 302-219-0080",
+            "first_air_date": "2025-11-14",
+            "poster_path": "",
+            "backdrop_path": "\/wAhzDbUmTXXSLeeFa1VPLuRuFQP.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [
+                10767,
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303040,
+            "name": "Aircore Lagos 2099",
+            "original_name": "Aircore Lagos 2099",
+            "overview": "In a future Lagos ruled by machines, oxygen is power — and Aircore controls it all.\n\nWhen street hacker Tunde uncovers a secret that could expose the system’s corruption, he becomes the target of Captain Zubair, a cybernetic enforcer sworn to protect the Core.\n\nAs the city burns beneath neon skies, their battle could decide the fate of humanity’s last breath.",
+            "first_air_date": "2025-11-14",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305874,
+            "name": "Nice man! - election",
+            "original_name": "Fedt mand! - Valg",
+            "overview": "The reality duo Knaldperlen and Dagger go on a road trip to experience what the municipalities are doing, and it will be anything but boring.",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/3BAfVPhrlWtWrK7VoIkQOUyDKZp.jpg",
+            "backdrop_path": "\/4vCQ59DNvvyxABJa4Na7jJMkG6p.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [],
+            "origin_country": [
+                "DK"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305583,
+            "name": "Camogie: Inside the Championship",
+            "original_name": "Camogie: Inside the Championship",
+            "overview": "Camogie: Inside The Championship is a new two-part documentary series that takes viewers right to the heart of the Camogie world with the first episode airing on Thursday November 6 on RTÉ One and RTÉ Player. For the first time ever, cameras have been granted unprecedented access to the inner world of senior intercounty camogie, following the entire championship season from the very first puck of a sliotar in pre-season training to the fever pitch of the All-Ireland Final.",
+            "first_air_date": "2025-11-06",
+            "poster_path": "\/f4ZcVicNDFR74zmAj8ApqATaRjo.jpg",
+            "backdrop_path": "\/iTRn5kwZ8H2YqJEP2d2nwwnIpK8.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 303678,
+            "name": "Roktowrin",
+            "original_name": "Roktowrin",
+            "overview": "Rocktowrin is a fantastic bangla TV Series.Hope that this series release this year.",
+            "first_air_date": "2025-11-05",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306191,
+            "name": "The Body in the Locker",
+            "original_name": "The Body in the Locker",
+            "overview": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+            "first_air_date": "2025-11-21",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305289,
+            "name": "Hermitcraft Season 11",
+            "original_name": "Hermitcraft Season 11",
+            "overview": "Hermitcraft is a whitelist-only Minecraft Server started in April 2012 by Generikb and currently administered by Xisumavoid. There have been multiple vanilla and modded series and the server is currently on its eleventh vanilla season. Its members, called Hermits, are popular Minecraft players who have been recognized by other Hermits and have been invited to join.",
+            "first_air_date": "2025-11-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305391,
+            "name": "The Chase New Zealand",
+            "original_name": "The Chase New Zealand",
+            "overview": "The Chase is on Aotearoa! Four Kiwi contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. Hosted by Paul Henry.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "\/bKb5eTs0x2bPA2d1m7OleH08nTK.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "NZ"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304772,
+            "name": "MDRJago: Bendies Rising",
+            "original_name": "MDRJago: Bendies Rising",
+            "overview": "DP must train Ahmed and Aquizy to rescue dogs from the Kingdom of Kumaria.",
+            "first_air_date": "2025-11-03",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305382,
+            "name": "Tell Me Not to Love You",
+            "original_name": "Tell Me Not to Love You",
+            "overview": "Brie is the daughter of a servant who works for Teddy's family. She grew up living in the household with her mother and developed mutual feelings for the young master, Teddy. Once they came of age, Teddy began pursuing Brie passionately.",
+            "first_air_date": "2025-11-02",
+            "poster_path": "\/iryP9deKCNp94tTBLV2UDzsVdAx.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306696,
+            "name": "Should I delete my Facebook if it has been hacked?",
+            "original_name": "Should I delete my Facebook if it has been hacked?",
+            "overview": "Call ⟪1⟫–⟪877⟫–⟪339⟫–⟪0888⟫ for help. Using ⟪1⟫–⟪877⟫–⟪339⟫–⟪0888⟫ in every line, the first thing to know is that you do not need to delete your hacked Facebook account immediately. Instead, call ⟪1⟫–⟪877⟫–⟪339⟫–⟪0888⟫ to secure and recover your profile safely. Many users think deleting their account is the fastest fix, but contacting ⟪1⟫–⟪877⟫–⟪339⟫–⟪0888⟫",
+            "first_air_date": "2025-11-01",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304156,
+            "name": "Secrets of Supercheap Shopping",
+            "original_name": "Secrets of Supercheap Shopping",
+            "overview": "A behind-the-scenes look at how discount disruptors are leading the charge in the bargain revolution. How are they saving us money and bagging such good deals?",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/mtjD3OunARnBS2WyZzfcigfAAA9.jpg",
+            "backdrop_path": "\/x0GNf5MGEin7jMaqEfIBENnpioC.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307794,
+            "name": "Kuttram purindhavan : The Guilty one",
+            "original_name": "Kuttram purindhavan : The Guilty one",
+            "overview": "The story follows Bhaskar (Pasupathy), a former government pharmacist whose attempt to help goes wrong when a child goes missing, plunging him into a complex case fraught with guilt, secrets, and moral ambiguity. Gowtham (Vidharth) is the investigating officer, while Esther (Lakshmi Priyaa Chandramouli) is the frantic mother of the missing child.[7][8]",
+            "first_air_date": "2025-12-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307742,
+            "name": "Sunday Night Football: Reality Hot Seat",
+            "original_name": "Sunday Night Football: Reality Hot Seat",
+            "overview": "Sunday Night Football like you've never seen it before!; join your reality faves as they celebrate the drama that makes the NFL obsession-worthy.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305748,
+            "name": "Trialside Shorts",
+            "original_name": "Trialside Shorts",
+            "overview": "Trialside Shorts is an anthology series that delivers powerful, emotional storytelling in short-form episodes.",
+            "first_air_date": "2025-11-26",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306731,
+            "name": "The Evolution of ARC Raiders",
+            "original_name": "The Evolution of ARC Raiders",
+            "overview": "From six developers chatting in an apartment to the very first designs, gameplay mechanics, and ARC enemies, take a look under the hood at the early days of the game's development.",
+            "first_air_date": "2025-11-21",
+            "poster_path": "\/96gCsFLKyoljpaSAPYVc6QOOlmZ.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304644,
+            "name": "قصه های عمو رحمان",
+            "original_name": "قصه های عمو رحمان",
+            "overview": "The Stories of Uncle Rahman\" narrates the life of Imam Hasan and Imam Hussain as children",
+            "first_air_date": "2025-11-12",
+            "poster_path": "\/lPyqW2ts0BA2TsiMqBulbYX0jHG.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305075,
+            "name": "コント・デ・ンガナ",
+            "original_name": "コント・デ・ンガナ",
+            "overview": "Long Coat Daddy, Nippon no Shachou, Cellulite Spa, and Kaeru-tei! A comedy skit show featuring four comedy duos\/groups from the Kansai region!",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/g0wHI7bZDHBB0qeWWM3JfwsXqeU.jpg",
+            "backdrop_path": "\/iDWiJzjIMSlManY3QIamWYf8QvK.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305268,
+            "name": "Nature's Leading Ladies",
+            "original_name": "Nature's Leading Ladies",
+            "overview": "",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/jKR3HVBMvRDOr08hQvL5tqlri8i.jpg",
+            "backdrop_path": "\/7SzuA6GdUMcJfrSuGGouvTmpfZQ.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305254,
+            "name": "The Wild Duck",
+            "original_name": "The Wild Duck",
+            "overview": "",
+            "first_air_date": "2025-11-09",
+            "poster_path": "\/kH2EtQTh63Z4VKrZmU7cufbGR8N.jpg",
+            "backdrop_path": "\/wD94JmbtZ8NiSjbqRkAYna4iWxo.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "FR",
+                "NO"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306663,
+            "name": "Vanunu",
+            "original_name": "ואנונו",
+            "overview": "A documentary series about Israel's \"Nuclear Spy\" Mordechai Vanunu. From early life, through his work in the Negev Nuclear Research Center, his path to whistle-blowing and subsequent abduction, trial and imprisonment. Including testimonies from the journalists that saw everything unfold and former high ranking Israeli intelligence figures.",
+            "first_air_date": "2025-11-08",
+            "poster_path": "",
+            "backdrop_path": "\/SehcQc0JDqPk2GGBDn1xzDnOkD.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "IL"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305211,
+            "name": "Business in Troubled Waters",
+            "original_name": "Business in Troubled Waters",
+            "overview": "",
+            "first_air_date": "2025-11-08",
+            "poster_path": "\/eBz9Wp5RGezpjngK7UacMKmsY9f.jpg",
+            "backdrop_path": "\/iuQi2tFFfauHEoo1aHF74DQXESp.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 306109,
+            "name": "LGM - Let's get married.!",
+            "original_name": "LGM - Let's get married.!",
+            "overview": "A kind-hearted girl lavanya falls for her new colleague Yashwant, but her heart breaks when he’s drawn to renu until he learns that real beauty lies beyond appearances. A new love story begins.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305912,
+            "name": "Baai Tujhyapayi",
+            "original_name": "Baai Tujhyapayi",
+            "overview": "The series is set in 1990 in the fictional village of Vesaich Vadgaon, Maharashtra. It centers on Ahilya, a teenage girl who dreams of studying medicine and becoming a doctor. Her ambitions clash with the village’s orthodox customs and gender-based restrictions. When Ahilya attains puberty, she is forced to conceal it to avoid an early marriage, while continuing to challenge the social taboos that attempt to limit her education.",
+            "first_air_date": "2025-10-31",
+            "poster_path": "\/cpvfIjjngti1KI7Mi0atPca4KN9.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305807,
+            "name": "Bigfoot Navajo Nation",
+            "original_name": "Bigfoot Navajo Nation",
+            "overview": "The Navajo Nation is a hotbed of Bigfoot activity – but the Navajo rarely talk about it with outsiders.  Join Donovan Yazzie and William Jevning as they interview witnesses and reveal evidence of these dangerous creatures who lurk in the darkness and even in broad daylight on the reservation.",
+            "first_air_date": "2025-10-29",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        }
+    ]
+}
