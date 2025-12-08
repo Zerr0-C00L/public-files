@@ -107,11 +107,27 @@ foreach ($collectionIds as $collectionId => $collectionName) {
     $collectionName = $collection['name'] ?? 'Unknown Collection';
     $movieCount = 0;
     
+    // FIXED: Skip non-English language collections
+    $collectionMovies = $collection['parts'] ?? [];
+    $englishMovieCount = 0;
+    foreach ($collectionMovies as $m) {
+        if (isset($m['original_language']) && $m['original_language'] === 'en') {
+            $englishMovieCount++;
+        }
+    }
+    // Skip collection if less than half of movies are English
+    if (count($collectionMovies) > 0 && $englishMovieCount < count($collectionMovies) / 2) {
+        continue;
+    }
+    
     foreach ($collection['parts'] as $movie) {
         if (!isset($movie['id']) || isset($addedMovieIds[$movie['id']])) continue;
         
         // FIXED: Skip adult movies explicitly
         if (!empty($movie['adult']) && $movie['adult'] === true) continue;
+        
+        // FIXED: Skip non-English original language movies
+        if (!isset($movie['original_language']) || $movie['original_language'] !== 'en') continue;
         
         // Skip unreleased movies
         if (!empty($movie['release_date'])) {
