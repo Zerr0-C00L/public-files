@@ -1,11 +1,11 @@
 {
-    "updated_at": "2025-12-08T21:54:42+00:00",
+    "updated_at": "2025-12-09T07:22:25+00:00",
     "lists": {
-        "airing_today": 82,
-        "on_the_air": 150,
-        "popular": 338,
+        "airing_today": 77,
+        "on_the_air": 141,
+        "popular": 336,
         "top_rated": 214,
-        "latest_releases": 222
+        "latest_releases": 122
     },
-    "total_unique_series": 1006
+    "total_unique_series": 890
 }
