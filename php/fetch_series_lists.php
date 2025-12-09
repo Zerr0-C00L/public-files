@@ -68,9 +68,9 @@ function fetchAllPages($endpoint, $apiKey, $baseUrl, $maxPages = 25, $extraParam
     $page = 1;
     
     while ($page <= $maxPages) {
-        // FIXED: Added include_adult=false, region, and with_original_language=en to exclude adult and non-English content
+        // FIXED: Added include_adult=false, region, and with_origin_country=US to exclude adult and non-US content
         global $region;
-        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&region=' . $region . '&include_adult=false&with_original_language=en';
+        $url = $baseUrl . $endpoint . '?page=' . $page . '&language=en-US&region=' . $region . '&include_adult=false&with_origin_country=US';
         foreach ($extraParams as $param => $value) {
             $url .= '&' . urlencode($param) . '=' . urlencode($value);
         }

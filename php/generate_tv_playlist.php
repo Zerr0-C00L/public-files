@@ -134,7 +134,7 @@ function fetchSeriesFromEndpoint($endpoint, $group, $categoryId, $maxPages = 15,
     $count = 0;
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "{$baseUrl}?language={$language}&region={$region}&include_adult=false&with_original_language=en&page={$page}";
+        $url = "{$baseUrl}?language={$language}&region={$region}&include_adult=false&with_origin_country=US&page={$page}";
         
         foreach ($extraParams as $param => $value) {
             $url .= "&" . urlencode($param) . "=" . urlencode($value);
@@ -154,11 +154,6 @@ function fetchSeriesFromEndpoint($endpoint, $group, $categoryId, $maxPages = 15,
             
             // Skip adult content
             if (!empty($series['adult']) && $series['adult'] === true) {
-                continue;
-            }
-            
-            // Skip non-English
-            if (!isset($series['original_language']) || $series['original_language'] !== 'en') {
                 continue;
             }
             
@@ -193,7 +188,7 @@ function fetchSeriesByNetwork($networkId, $networkName, $categoryId, $maxPages =
     $count = 0;
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "https://api.themoviedb.org/3/discover/tv?language={$language}&region={$region}&include_adult=false&with_original_language=en&with_networks={$networkId}&sort_by=popularity.desc&page={$page}";
+        $url = "https://api.themoviedb.org/3/discover/tv?language={$language}&region={$region}&include_adult=false&with_origin_country=US&with_networks={$networkId}&sort_by=popularity.desc&page={$page}";
         
         $data = fetchTMDB($url);
         
@@ -207,10 +202,6 @@ function fetchSeriesByNetwork($networkId, $networkName, $categoryId, $maxPages =
             }
             
             if (!empty($series['adult']) && $series['adult'] === true) {
-                continue;
-            }
-            
-            if (!isset($series['original_language']) || $series['original_language'] !== 'en') {
                 continue;
             }
             
@@ -243,7 +234,7 @@ function fetchSeriesByGenre($genreId, $genreName, $maxPages = 25) {
     $count = 0;
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "https://api.themoviedb.org/3/discover/tv?language={$language}&region={$region}&include_adult=false&with_original_language=en&with_genres={$genreId}&sort_by=popularity.desc&page={$page}";
+        $url = "https://api.themoviedb.org/3/discover/tv?language={$language}&region={$region}&include_adult=false&with_origin_country=US&with_genres={$genreId}&sort_by=popularity.desc&page={$page}";
         
         $data = fetchTMDB($url);
         
@@ -257,10 +248,6 @@ function fetchSeriesByGenre($genreId, $genreName, $maxPages = 25) {
             }
             
             if (!empty($series['adult']) && $series['adult'] === true) {
-                continue;
-            }
-            
-            if (!isset($series['original_language']) || $series['original_language'] !== 'en') {
                 continue;
             }
             

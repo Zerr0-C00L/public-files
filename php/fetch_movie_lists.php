@@ -90,14 +90,14 @@ foreach ($fetchLists as $listKey) {
     $seenIds = [];
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        // Build URL based on list type - FIXED: Added include_adult=false and with_original_language=en
+        // Build URL based on list type - FIXED: Added include_adult=false and with_origin_country=US
         if ($list['type'] === 'discover') {
-            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&include_adult=false&with_original_language=en&page={$page}";
+            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&include_adult=false&with_origin_country=US&page={$page}";
             foreach ($list['params'] as $param => $value) {
                 $url .= "&" . urlencode($param) . "=" . urlencode($value);
             }
         } else {
-            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&include_adult=false&page={$page}";
+            $url = "https://api.themoviedb.org/3/{$list['endpoint']}?api_key={$apiKey}&language={$language}&region={$region}&include_adult=false&with_origin_country=US&page={$page}";
         }
         
         $response = @file_get_contents($url);
@@ -125,11 +125,6 @@ foreach ($fetchLists as $listKey) {
             
             // FIXED: Skip adult movies explicitly
             if (!empty($movie['adult']) && $movie['adult'] === true) {
-                continue;
-            }
-            
-            // FIXED: Skip non-English original language movies
-            if (!isset($movie['original_language']) || $movie['original_language'] !== 'en') {
                 continue;
             }
             

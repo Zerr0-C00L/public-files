@@ -119,7 +119,7 @@ function fetchMoviesFromEndpoint($endpoint, $group, $categoryId, $maxPages = 15,
     $count = 0;
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "{$baseUrl}?language={$language}&region={$region}&include_adult=false&with_original_language=en&page={$page}";
+        $url = "{$baseUrl}?language={$language}&region={$region}&include_adult=false&with_origin_country=US&page={$page}";
         
         foreach ($extraParams as $param => $value) {
             $url .= "&" . urlencode($param) . "=" . urlencode($value);
@@ -139,11 +139,6 @@ function fetchMoviesFromEndpoint($endpoint, $group, $categoryId, $maxPages = 15,
             
             // Skip adult content
             if (!empty($movie['adult']) && $movie['adult'] === true) {
-                continue;
-            }
-            
-            // Skip non-English
-            if (!isset($movie['original_language']) || $movie['original_language'] !== 'en') {
                 continue;
             }
             
@@ -178,7 +173,7 @@ function fetchMoviesByGenre($genreId, $genreName, $maxPages = 25) {
     $count = 0;
     
     for ($page = 1; $page <= $maxPages; $page++) {
-        $url = "https://api.themoviedb.org/3/discover/movie?language={$language}&region={$region}&include_adult=false&with_original_language=en&with_genres={$genreId}&with_release_type=4|5|6&sort_by=popularity.desc&page={$page}";
+        $url = "https://api.themoviedb.org/3/discover/movie?language={$language}&region={$region}&include_adult=false&with_origin_country=US&with_genres={$genreId}&with_release_type=4|5|6&sort_by=popularity.desc&page={$page}";
         
         $data = fetchTMDB($url);
         
@@ -194,11 +189,6 @@ function fetchMoviesByGenre($genreId, $genreName, $maxPages = 25) {
             
             // Skip adult content
             if (!empty($movie['adult']) && $movie['adult'] === true) {
-                continue;
-            }
-            
-            // Skip non-English
-            if (!isset($movie['original_language']) || $movie['original_language'] !== 'en') {
                 continue;
             }
             
