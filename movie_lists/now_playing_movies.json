@@ -1,8 +1,8 @@
 {
     "list_type": "now_playing",
     "list_name": "Now Playing",
-    "total_movies": 268,
-    "updated_at": "2025-12-08 21:52:45",
+    "total_movies": 272,
+    "updated_at": "2025-12-09 06:42:48",
     "movies": [
         {
             "id": 1084242,
@@ -12,9 +12,9 @@
             "release_date": "2025-11-26",
             "poster_path": "\/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
             "backdrop_path": "\/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
-            "vote_average": 7.7,
-            "vote_count": 439,
-            "popularity": 463.2796,
+            "vote_average": 7.693,
+            "vote_count": 467,
+            "popularity": 451.9906,
             "genre_ids": [
                 16,
                 35,
@@ -33,13 +33,12 @@
             "release_date": "2025-12-05",
             "poster_path": "\/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
             "backdrop_path": "\/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-            "vote_average": 6.417,
-            "vote_count": 96,
-            "popularity": 312.7226,
+            "vote_average": 6.4,
+            "vote_count": 101,
+            "popularity": 319.6762,
             "genre_ids": [
                 27,
-                53,
-                10751
+                53
             ],
             "adult": false,
             "original_language": "en"
@@ -52,9 +51,9 @@
             "release_date": "2025-11-25",
             "poster_path": "\/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
             "backdrop_path": "\/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
-            "vote_average": 5.8,
-            "vote_count": 29,
-            "popularity": 193.3315,
+            "vote_average": 5.838,
+            "vote_count": 34,
+            "popularity": 188.6827,
             "genre_ids": [
                 28,
                 53,
@@ -71,9 +70,9 @@
             "release_date": "2025-11-07",
             "poster_path": "\/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
             "backdrop_path": "\/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-            "vote_average": 7.366,
-            "vote_count": 572,
-            "popularity": 191.9754,
+            "vote_average": 7.4,
+            "vote_count": 579,
+            "popularity": 183.2063,
             "genre_ids": [
                 28,
                 878,
@@ -90,9 +89,9 @@
             "release_date": "2025-11-21",
             "poster_path": "\/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
             "backdrop_path": "\/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
-            "vote_average": 6.5,
-            "vote_count": 55,
-            "popularity": 131.0982,
+            "vote_average": 6.351,
+            "vote_count": 57,
+            "popularity": 110.501,
             "genre_ids": [
                 878,
                 28
@@ -108,9 +107,9 @@
             "release_date": "2025-11-20",
             "poster_path": "\/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg",
             "backdrop_path": "\/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-            "vote_average": 6.8,
-            "vote_count": 396,
-            "popularity": 122.3299,
+            "vote_average": 6.779,
+            "vote_count": 403,
+            "popularity": 115.698,
             "genre_ids": [
                 14,
                 12,
@@ -127,9 +126,9 @@
             "release_date": "2025-11-14",
             "poster_path": "\/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
             "backdrop_path": "\/wR9D9hQvCVBux16NauY4b7letdU.jpg",
-            "vote_average": 5.9,
-            "vote_count": 90,
-            "popularity": 96.5314,
+            "vote_average": 5.833,
+            "vote_count": 109,
+            "popularity": 91.9488,
             "genre_ids": [
                 18,
                 35
@@ -145,9 +144,9 @@
             "release_date": "2025-11-14",
             "poster_path": "\/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
             "backdrop_path": "\/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-            "vote_average": 6.301,
-            "vote_count": 336,
-            "popularity": 86.6816,
+            "vote_average": 6.29,
+            "vote_count": 345,
+            "popularity": 73.8328,
             "genre_ids": [
                 53,
                 80,
@@ -164,9 +163,9 @@
             "release_date": "2025-10-24",
             "poster_path": "\/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
             "backdrop_path": "\/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
-            "vote_average": 7.5,
-            "vote_count": 683,
-            "popularity": 86.236,
+            "vote_average": 7.484,
+            "vote_count": 697,
+            "popularity": 83.0488,
             "genre_ids": [
                 878,
                 80
@@ -182,9 +181,9 @@
             "release_date": "2025-06-20",
             "poster_path": "\/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
             "backdrop_path": "\/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-            "vote_average": 8.201,
-            "vote_count": 2002,
-            "popularity": 84.6605,
+            "vote_average": 8.197,
+            "vote_count": 2005,
+            "popularity": 81.3541,
             "genre_ids": [
                 14,
                 10402,
@@ -201,10 +200,10 @@
             "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
             "release_date": "2024-11-22",
             "poster_path": "\/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
-            "backdrop_path": "\/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
-            "vote_average": 6.926,
-            "vote_count": 2662,
-            "popularity": 54.8913,
+            "backdrop_path": "\/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
+            "vote_average": 6.928,
+            "vote_count": 2665,
+            "popularity": 45.2807,
             "genre_ids": [
                 18,
                 10749,
@@ -221,9 +220,9 @@
             "release_date": "2025-11-07",
             "poster_path": "\/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
             "backdrop_path": "\/rUrOOrPZFY43F6TLpq1FoGs3pqN.jpg",
-            "vote_average": 7.615,
-            "vote_count": 13,
-            "popularity": 36.707,
+            "vote_average": 7.536,
+            "vote_count": 14,
+            "popularity": 37.3412,
             "genre_ids": [
                 18
             ],
@@ -238,30 +237,11 @@
             "release_date": "2025-11-07",
             "poster_path": "\/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
             "backdrop_path": "\/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
-            "vote_average": 7.377,
-            "vote_count": 236,
-            "popularity": 31.8119,
+            "vote_average": 7.352,
+            "vote_count": 244,
+            "popularity": 26.8892,
             "genre_ids": [
                 18
-            ],
-            "adult": false,
-            "original_language": "en"
-        },
-        {
-            "id": 798645,
-            "title": "The Running Man",
-            "original_title": "The Running Man",
-            "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-            "release_date": "2025-11-14",
-            "poster_path": "\/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-            "backdrop_path": "\/docDyCJrhPoFXAckB1aOiIv9Mz0.jpg",
-            "vote_average": 6.751,
-            "vote_count": 265,
-            "popularity": 28.7414,
-            "genre_ids": [
-                28,
-                53,
-                878
             ],
             "adult": false,
             "original_language": "en"
@@ -274,13 +254,32 @@
             "release_date": "2025-11-26",
             "poster_path": "\/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
             "backdrop_path": "\/c1oFbGc89FVZ4KvAe8riNJ8lPX1.jpg",
-            "vote_average": 7.756,
-            "vote_count": 41,
-            "popularity": 29.1555,
+            "vote_average": 7.702,
+            "vote_count": 47,
+            "popularity": 31.7413,
             "genre_ids": [
                 35,
                 9648,
                 80
+            ],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 798645,
+            "title": "The Running Man",
+            "original_title": "The Running Man",
+            "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+            "release_date": "2025-11-14",
+            "poster_path": "\/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+            "backdrop_path": "\/docDyCJrhPoFXAckB1aOiIv9Mz0.jpg",
+            "vote_average": 6.752,
+            "vote_count": 270,
+            "popularity": 27.0502,
+            "genre_ids": [
+                28,
+                53,
+                878
             ],
             "adult": false,
             "original_language": "en"
@@ -293,9 +292,9 @@
             "release_date": "2025-11-07",
             "poster_path": "\/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg",
             "backdrop_path": "\/xsO1Qgru8sETLTcVla8MrqxOVr0.jpg",
-            "vote_average": 7.3,
-            "vote_count": 48,
-            "popularity": 26.8345,
+            "vote_average": 7.2,
+            "vote_count": 50,
+            "popularity": 25.1661,
             "genre_ids": [
                 36,
                 18
@@ -311,9 +310,9 @@
             "release_date": "2025-11-14",
             "poster_path": "\/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
             "backdrop_path": "\/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-            "vote_average": 6.324,
-            "vote_count": 17,
-            "popularity": 24.1202,
+            "vote_average": 6.306,
+            "vote_count": 18,
+            "popularity": 21.1512,
             "genre_ids": [
                 28,
                 80,
@@ -332,7 +331,7 @@
             "backdrop_path": "\/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
             "vote_average": 7.1,
             "vote_count": 15,
-            "popularity": 22.9546,
+            "popularity": 19.5878,
             "genre_ids": [
                 16,
                 12,
@@ -350,9 +349,9 @@
             "release_date": "2025-04-18",
             "poster_path": "\/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
             "backdrop_path": "\/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-            "vote_average": 7.505,
-            "vote_count": 2974,
-            "popularity": 22.1815,
+            "vote_average": 7.506,
+            "vote_count": 2977,
+            "popularity": 23.8237,
             "genre_ids": [
                 27,
                 28,
@@ -371,7 +370,7 @@
             "backdrop_path": "\/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
             "vote_average": 6.8,
             "vote_count": 18,
-            "popularity": 21.2247,
+            "popularity": 19.8616,
             "genre_ids": [
                 28,
                 53,
@@ -390,7 +389,7 @@
             "backdrop_path": "\/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
             "vote_average": 7.182,
             "vote_count": 22,
-            "popularity": 20.095,
+            "popularity": 19.009,
             "genre_ids": [
                 16,
                 12,
@@ -407,9 +406,9 @@
             "release_date": "2025-11-26",
             "poster_path": "\/iKaM4OfSf5ABkFZCo4vU4Dth7ZU.jpg",
             "backdrop_path": "\/oN9YR2ND8UPmP1y4nN5StJOD1RG.jpg",
-            "vote_average": 7.2,
-            "vote_count": 25,
-            "popularity": 20.0164,
+            "vote_average": 7.241,
+            "vote_count": 27,
+            "popularity": 20.0861,
             "genre_ids": [
                 10749,
                 35,
@@ -428,7 +427,7 @@
             "backdrop_path": "\/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
             "vote_average": 7.056,
             "vote_count": 126,
-            "popularity": 17.5031,
+            "popularity": 15.5589,
             "genre_ids": [
                 16,
                 10751,
@@ -449,7 +448,7 @@
             "backdrop_path": "\/5zMuq6n6L8u9Ks29JAurPICXKqu.jpg",
             "vote_average": 7.3,
             "vote_count": 19,
-            "popularity": 16.7018,
+            "popularity": 14.7503,
             "genre_ids": [
                 18,
                 35
@@ -467,7 +466,7 @@
             "backdrop_path": "\/pZCLGHynFPOv8dve6u9waxknLth.jpg",
             "vote_average": 8.323,
             "vote_count": 21124,
-            "popularity": 16.0433,
+            "popularity": 16.8852,
             "genre_ids": [
                 12,
                 35,
@@ -486,7 +485,7 @@
             "backdrop_path": "\/yt9m5CiU2MZkQoNl1kqLPODNR4t.jpg",
             "vote_average": 8,
             "vote_count": 6,
-            "popularity": 14.7991,
+            "popularity": 12.7959,
             "genre_ids": [
                 18,
                 10749
@@ -504,7 +503,7 @@
             "backdrop_path": "\/ltIxMsVJD9iiD5V4SBp4kv3KhVb.jpg",
             "vote_average": 6.9,
             "vote_count": 83,
-            "popularity": 12.0594,
+            "popularity": 12.2234,
             "genre_ids": [
                 18,
                 53
@@ -522,7 +521,7 @@
             "backdrop_path": "\/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
             "vote_average": 7.6,
             "vote_count": 7088,
-            "popularity": 12.0028,
+            "popularity": 10.3159,
             "genre_ids": [
                 12,
                 16,
@@ -541,9 +540,9 @@
             "release_date": "2011-03-27",
             "poster_path": "\/lRQHS8x9ofDPVx9gjq6sGAfERkf.jpg",
             "backdrop_path": "\/ljFbfNmnJtU4gYXJnPSLDiVhBLu.jpg",
-            "vote_average": 8.018,
-            "vote_count": 1106,
-            "popularity": 11.5925,
+            "vote_average": 8,
+            "vote_count": 1107,
+            "popularity": 11.8278,
             "genre_ids": [
                 28,
                 80
@@ -559,9 +558,9 @@
             "release_date": "2025-12-05",
             "poster_path": "\/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
             "backdrop_path": "\/wNamNv018mUVvxuhxkubSuHI81.jpg",
-            "vote_average": 5.2,
-            "vote_count": 5,
-            "popularity": 10.2718,
+            "vote_average": 5.4,
+            "vote_count": 6,
+            "popularity": 9.7461,
             "genre_ids": [
                 28,
                 18,
@@ -576,11 +575,11 @@
             "original_title": "Pillion",
             "overview": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
             "release_date": "2025-10-31",
-            "poster_path": "\/pp874TYSlt7cuDw3aCoVR4fBSjc.jpg",
+            "poster_path": "\/5mXwQKAGrtvYzNXkiPbqPxqb2zK.jpg",
             "backdrop_path": "\/vqC6OjfU73Hn1ZOA7Is9gfnNaof.jpg",
             "vote_average": 7,
             "vote_count": 9,
-            "popularity": 10.0961,
+            "popularity": 8.9259,
             "genre_ids": [
                 10749,
                 18,
@@ -599,7 +598,7 @@
             "backdrop_path": "\/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
             "vote_average": 7.2,
             "vote_count": 4,
-            "popularity": 9.4938,
+            "popularity": 8.4867,
             "genre_ids": [
                 35
             ],
@@ -614,9 +613,9 @@
             "release_date": "2025-10-29",
             "poster_path": "\/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
             "backdrop_path": "\/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
-            "vote_average": 6.8,
-            "vote_count": 46,
-            "popularity": 8.632,
+            "vote_average": 6.9,
+            "vote_count": 47,
+            "popularity": 7.2476,
             "genre_ids": [
                 53,
                 18
@@ -634,7 +633,7 @@
             "backdrop_path": "\/5sulGeqGyXj9EvYg8IjxEWFIRdM.jpg",
             "vote_average": 4.7,
             "vote_count": 18,
-            "popularity": 8.0233,
+            "popularity": 7.7425,
             "genre_ids": [
                 27,
                 9648
@@ -652,7 +651,7 @@
             "backdrop_path": "\/psAGX272PFGdpKmSJI4x8sGPciZ.jpg",
             "vote_average": 7.4,
             "vote_count": 5,
-            "popularity": 7.9029,
+            "popularity": 6.7259,
             "genre_ids": [
                 35,
                 10749
@@ -669,8 +668,8 @@
             "poster_path": "\/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
             "backdrop_path": "\/6CdrnONBaZsmoEMTn0A4S2Nj4t5.jpg",
             "vote_average": 7.947,
-            "vote_count": 19,
-            "popularity": 7.8163,
+            "vote_count": 20,
+            "popularity": 6.4218,
             "genre_ids": [
                 99
             ],
@@ -685,9 +684,9 @@
             "release_date": "2025-12-05",
             "poster_path": "\/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
             "backdrop_path": "\/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
-            "vote_average": 7.091,
-            "vote_count": 11,
-            "popularity": 7.5931,
+            "vote_average": 7,
+            "vote_count": 12,
+            "popularity": 7.6256,
             "genre_ids": [
                 28,
                 16,
@@ -706,7 +705,7 @@
             "backdrop_path": "\/ptHXfOc0gEIG8CrieQ3t8MUBuiP.jpg",
             "vote_average": 7.1,
             "vote_count": 38,
-            "popularity": 6.8899,
+            "popularity": 7.2881,
             "genre_ids": [
                 28,
                 53
@@ -724,7 +723,7 @@
             "backdrop_path": "\/hfWv453ceXlQP3cCH8Z0LMYjx0A.jpg",
             "vote_average": 6.2,
             "vote_count": 6,
-            "popularity": 6.6919,
+            "popularity": 6.2467,
             "genre_ids": [
                 27,
                 9648,
@@ -743,7 +742,7 @@
             "backdrop_path": "\/ofp2O5yUNGjBGXGA5SXdRCFOS74.jpg",
             "vote_average": 3.929,
             "vote_count": 7,
-            "popularity": 6.603,
+            "popularity": 6.0353,
             "genre_ids": [
                 28,
                 12,
@@ -762,7 +761,7 @@
             "backdrop_path": "\/sivJXJ8JvVVSRaaBnHgzOboNBRQ.jpg",
             "vote_average": 6.835,
             "vote_count": 5258,
-            "popularity": 6.2202,
+            "popularity": 5.4343,
             "genre_ids": [
                 16,
                 35,
@@ -781,7 +780,7 @@
             "backdrop_path": "\/8zaOztqN9Xu1WNRdKfpN5zmthL2.jpg",
             "vote_average": 6,
             "vote_count": 1,
-            "popularity": 5.9787,
+            "popularity": 5.3288,
             "genre_ids": [
                 37,
                 53
@@ -799,10 +798,27 @@
             "backdrop_path": "\/jkUOx81LDsn4BvXsv5WbkKm3vnx.jpg",
             "vote_average": 5.2,
             "vote_count": 5,
-            "popularity": 5.7103,
+            "popularity": 4.6444,
             "genre_ids": [
                 14,
                 35,
+                18
+            ],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1211442,
+            "title": "Rebuilding",
+            "original_title": "Rebuilding",
+            "overview": "After wildfires take his ranch, a cowboy named Dusty winds up in a FEMA camp, finding community with others who lost homes, including his daughter and ex-wife.",
+            "release_date": "2025-11-14",
+            "poster_path": "\/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
+            "backdrop_path": "\/wx5Em6MOVhi7a17j1DTLXxEFoDX.jpg",
+            "vote_average": 8,
+            "vote_count": 2,
+            "popularity": 4.3264,
+            "genre_ids": [
                 18
             ],
             "adult": false,
@@ -818,28 +834,11 @@
             "backdrop_path": "\/mhC1TIv2WxerGKcXacyKOMsO67n.jpg",
             "vote_average": 6.5,
             "vote_count": 2,
-            "popularity": 5.4859,
+            "popularity": 5.0937,
             "genre_ids": [
                 878,
                 28,
                 53
-            ],
-            "adult": false,
-            "original_language": "en"
-        },
-        {
-            "id": 1211442,
-            "title": "Rebuilding",
-            "original_title": "Rebuilding",
-            "overview": "After wildfires take his ranch, a cowboy named Dusty winds up in a FEMA camp, finding community with others who lost homes, including his daughter and ex-wife.",
-            "release_date": "2025-11-14",
-            "poster_path": "\/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
-            "backdrop_path": "\/wx5Em6MOVhi7a17j1DTLXxEFoDX.jpg",
-            "vote_average": 8,
-            "vote_count": 2,
-            "popularity": 5.1732,
-            "genre_ids": [
-                18
             ],
             "adult": false,
             "original_language": "en"
@@ -851,10 +850,10 @@
             "overview": "A car mechanic's life takes an unexpected turn when his reckless brother makes a bad decision gaining the unwanted attention of a notorious crime boss.",
             "release_date": "2025-10-31",
             "poster_path": "\/5JHPHQxcE1b0W2Spbncq5uJKW7i.jpg",
-            "backdrop_path": "\/nC8EC29rMSN9YHfFOC28aD5dqLV.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 5.0312,
+            "backdrop_path": "\/8XhHjzvfkwVvUL5QpDqzlkvuk9M.jpg",
+            "vote_average": 8.8,
+            "vote_count": 2,
+            "popularity": 5.4872,
             "genre_ids": [
                 28,
                 53
@@ -872,7 +871,7 @@
             "backdrop_path": "\/v1O9TEwPSDW7VS19B2Ll8WpspXF.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 4.8208,
+            "popularity": 4.3231,
             "genre_ids": [
                 27,
                 53
@@ -890,7 +889,7 @@
             "backdrop_path": "\/eqzCnwSw6PZjLCUIZIEGjikw6tB.jpg",
             "vote_average": 5.7,
             "vote_count": 10,
-            "popularity": 4.7935,
+            "popularity": 3.7597,
             "genre_ids": [
                 53
             ],
@@ -907,7 +906,7 @@
             "backdrop_path": "\/3jDS1VvW6RJCSoIxXH2EW53xoM9.jpg",
             "vote_average": 5.375,
             "vote_count": 8,
-            "popularity": 4.536,
+            "popularity": 3.5069,
             "genre_ids": [
                 27
             ],
@@ -924,7 +923,7 @@
             "backdrop_path": "\/gcLFtgUEdbxacgZkLfLnrYw2wXQ.jpg",
             "vote_average": 6.938,
             "vote_count": 23,
-            "popularity": 4.3906,
+            "popularity": 3.6576,
             "genre_ids": [
                 80,
                 18,
@@ -943,7 +942,7 @@
             "backdrop_path": "\/3dgklKoEwdeehcXNMIyw9ukdZQ5.jpg",
             "vote_average": 7.5,
             "vote_count": 6,
-            "popularity": 4.3073,
+            "popularity": 4.8064,
             "genre_ids": [
                 18,
                 36
@@ -961,7 +960,7 @@
             "backdrop_path": "\/gF6QMTUkIxcXizlEZTujwsxqu2a.jpg",
             "vote_average": 7.8,
             "vote_count": 3,
-            "popularity": 4.2634,
+            "popularity": 3.103,
             "genre_ids": [
                 80,
                 35,
@@ -980,7 +979,7 @@
             "backdrop_path": "\/y5fBWmHAjDJBPHZOJntE6a7R1nK.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 4.2264,
+            "popularity": 4.0655,
             "genre_ids": [
                 35,
                 18
@@ -998,7 +997,7 @@
             "backdrop_path": "\/oylRawElar6jIpDjpIGIzxjTkvt.jpg",
             "vote_average": 6.6,
             "vote_count": 5,
-            "popularity": 4.0732,
+            "popularity": 3.2741,
             "genre_ids": [
                 35
             ],
@@ -1015,7 +1014,7 @@
             "backdrop_path": "\/gpDBSOq3S7d1Ww7lUYS8oJFkdSJ.jpg",
             "vote_average": 7,
             "vote_count": 1,
-            "popularity": 4.0008,
+            "popularity": 3.265,
             "genre_ids": [
                 14,
                 10749
@@ -1033,7 +1032,7 @@
             "backdrop_path": "\/cqEq9Rr6URFaXGaVOsKAnCqNLsj.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 3.8982,
+            "popularity": 3.1396,
             "genre_ids": [
                 35
             ],
@@ -1050,7 +1049,7 @@
             "backdrop_path": "\/gxrfyvdY9KNtpPhpijRYChT0lmn.jpg",
             "vote_average": 4.3,
             "vote_count": 3,
-            "popularity": 3.8225,
+            "popularity": 4.2802,
             "genre_ids": [
                 27
             ],
@@ -1067,7 +1066,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 3.8135,
+            "popularity": 3.4551,
             "genre_ids": [
                 12,
                 28
@@ -1085,7 +1084,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 3.7169,
+            "popularity": 3.2022,
             "genre_ids": [
                 18,
                 80,
@@ -1104,7 +1103,7 @@
             "backdrop_path": "\/yJJiJ9KAJFI9Q6xaf50PsaSeS8c.jpg",
             "vote_average": 6.9,
             "vote_count": 6,
-            "popularity": 3.492,
+            "popularity": 3.6676,
             "genre_ids": [
                 12,
                 10751,
@@ -1123,7 +1122,7 @@
             "backdrop_path": "\/hueKlPQoDeJ4hXlyDYD9fRktCzy.jpg",
             "vote_average": 6.667,
             "vote_count": 3,
-            "popularity": 3.2644,
+            "popularity": 2.5289,
             "genre_ids": [
                 18,
                 35,
@@ -1142,7 +1141,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 3.0196,
+            "popularity": 2.5351,
             "genre_ids": [
                 99,
                 10402
@@ -1160,7 +1159,7 @@
             "backdrop_path": "\/gLXibzLQ4qegvjdqDC0f8yTij2P.jpg",
             "vote_average": 5.906,
             "vote_count": 16,
-            "popularity": 2.9891,
+            "popularity": 2.6437,
             "genre_ids": [
                 9648,
                 53,
@@ -1179,7 +1178,7 @@
             "backdrop_path": "\/J5TQCmC8JEQjKaD1foK1T04eVP.jpg",
             "vote_average": 5.8,
             "vote_count": 5,
-            "popularity": 2.9405,
+            "popularity": 2.1883,
             "genre_ids": [
                 99,
                 10752
@@ -1197,7 +1196,7 @@
             "backdrop_path": "\/tx6k24kEGxc4sEqxb7KJCJCHbj7.jpg",
             "vote_average": 8.667,
             "vote_count": 3,
-            "popularity": 2.8615,
+            "popularity": 2.6969,
             "genre_ids": [
                 35,
                 10402
@@ -1215,7 +1214,7 @@
             "backdrop_path": "\/c2ATu4NcVZEKHYLHugkqdrsMswt.jpg",
             "vote_average": 6.8,
             "vote_count": 10,
-            "popularity": 2.8525,
+            "popularity": 3.1278,
             "genre_ids": [
                 18
             ],
@@ -1232,7 +1231,7 @@
             "backdrop_path": "\/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg",
             "vote_average": 6.5,
             "vote_count": 14,
-            "popularity": 2.8359,
+            "popularity": 2.4671,
             "genre_ids": [
                 28,
                 53,
@@ -1251,7 +1250,7 @@
             "backdrop_path": "\/8nWUbVOowG5Pwik0WYSKMvgKDvY.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.8207,
+            "popularity": 2.3888,
             "genre_ids": [
                 35,
                 53,
@@ -1270,7 +1269,7 @@
             "backdrop_path": "\/x0FZZWBE7Sp5Vz5ncn4wb8JyG5c.jpg",
             "vote_average": 7.5,
             "vote_count": 5,
-            "popularity": 2.5469,
+            "popularity": 2.1254,
             "genre_ids": [
                 99
             ],
@@ -1287,7 +1286,7 @@
             "backdrop_path": "\/4wLE0IHjXi6uPtLixtFfY9dMlTs.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.5106,
+            "popularity": 2.0042,
             "genre_ids": [
                 18,
                 36
@@ -1305,7 +1304,7 @@
             "backdrop_path": "\/pQ254oBfXJUemlbAcqpbTiG4OeV.jpg",
             "vote_average": 7,
             "vote_count": 12,
-            "popularity": 2.4768,
+            "popularity": 2.0715,
             "genre_ids": [
                 99
             ],
@@ -1322,7 +1321,7 @@
             "backdrop_path": "\/e906cyPR9attUUJskwlwYUq8LTI.jpg",
             "vote_average": 6.111,
             "vote_count": 18,
-            "popularity": 2.4596,
+            "popularity": 4.1931,
             "genre_ids": [
                 18,
                 36
@@ -1340,7 +1339,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.3755,
+            "popularity": 1.9359,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -1355,7 +1354,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.2713,
+            "popularity": 1.8371,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -1370,7 +1369,7 @@
             "backdrop_path": "\/q2w64nBl0F8oBwWGtbcKy9u9JIw.jpg",
             "vote_average": 7,
             "vote_count": 4,
-            "popularity": 2.2521,
+            "popularity": 1.9513,
             "genre_ids": [
                 18,
                 10749
@@ -1388,7 +1387,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.2385,
+            "popularity": 1.6699,
             "genre_ids": [
                 99
             ],
@@ -1405,7 +1404,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 2.22,
+            "popularity": 2.2772,
             "genre_ids": [
                 35,
                 27
@@ -1423,7 +1422,7 @@
             "backdrop_path": "\/vKPfmhFLcFDZF3bCRpqEzF8RoIv.jpg",
             "vote_average": 5,
             "vote_count": 2,
-            "popularity": 2.1874,
+            "popularity": 1.6818,
             "genre_ids": [
                 10749,
                 18
@@ -1594,7 +1593,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.7593,
+            "popularity": 1.3583,
             "genre_ids": [
                 53,
                 878,
@@ -1647,9 +1646,9 @@
             "release_date": "2025-10-31",
             "poster_path": "\/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
             "backdrop_path": "\/yPU89i5KvCrfPkbgsUqYjRycPaY.jpg",
-            "vote_average": 6.486,
-            "vote_count": 109,
-            "popularity": 1.6522,
+            "vote_average": 6.5,
+            "vote_count": 110,
+            "popularity": 1.4231,
             "genre_ids": [
                 9648,
                 53,
@@ -1704,7 +1703,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.5948,
+            "popularity": 1.2338,
             "genre_ids": [
                 14
             ],
@@ -1721,7 +1720,7 @@
             "backdrop_path": "\/oZKwNSLdCQBETNMwqJgkPcxGx3G.jpg",
             "vote_average": 6.5,
             "vote_count": 3,
-            "popularity": 1.568,
+            "popularity": 1.6045,
             "genre_ids": [
                 28,
                 53
@@ -1739,7 +1738,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.5616,
+            "popularity": 1.1668,
             "genre_ids": [
                 18
             ],
@@ -1756,7 +1755,7 @@
             "backdrop_path": "\/rdBsl9mFrVJITXKFdEmCNvqBn4M.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.4945,
+            "popularity": 1.1756,
             "genre_ids": [
                 99
             ],
@@ -1773,7 +1772,7 @@
             "backdrop_path": "\/kKazf4vcLGDoJw0ZlRgVAsOu1QR.jpg",
             "vote_average": 5.222,
             "vote_count": 9,
-            "popularity": 1.4554,
+            "popularity": 1.2932,
             "genre_ids": [
                 878,
                 14,
@@ -1792,7 +1791,7 @@
             "backdrop_path": "\/nWs5mCvfH0GLe6vKtVUCd6XhhVc.jpg",
             "vote_average": 6.8,
             "vote_count": 4,
-            "popularity": 1.4375,
+            "popularity": 1.3775,
             "genre_ids": [
                 35,
                 18
@@ -1810,7 +1809,7 @@
             "backdrop_path": "\/DIMC1RuzfmfheYfnfxY4x5SUJK.jpg",
             "vote_average": 4,
             "vote_count": 1,
-            "popularity": 1.3908,
+            "popularity": 0.9275,
             "genre_ids": [
                 35,
                 18
@@ -1828,7 +1827,7 @@
             "backdrop_path": "\/uUT6b8cHlcnNK6lISYmPOPtQInJ.jpg",
             "vote_average": 5,
             "vote_count": 2,
-            "popularity": 1.39,
+            "popularity": 1.1241,
             "genre_ids": [
                 18,
                 35
@@ -1846,7 +1845,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.3423,
+            "popularity": 1.3701,
             "genre_ids": [
                 18
             ],
@@ -1863,7 +1862,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.3391,
+            "popularity": 1.097,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -1878,7 +1877,7 @@
             "backdrop_path": "\/876o0k2cIoNtCpPr6F1hjRyOFp6.jpg",
             "vote_average": 8,
             "vote_count": 1,
-            "popularity": 1.2715,
+            "popularity": 0.9842,
             "genre_ids": [
                 18
             ],
@@ -1895,7 +1894,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.2124,
+            "popularity": 2.406,
             "genre_ids": [
                 35,
                 80,
@@ -1914,7 +1913,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.2117,
+            "popularity": 1.0653,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -1929,7 +1928,7 @@
             "backdrop_path": "\/hJJrAg33ay7Lcw7Ht3N0B7bBSFT.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.1058,
+            "popularity": 0.8238,
             "genre_ids": [
                 10770,
                 35,
@@ -1948,7 +1947,7 @@
             "backdrop_path": "\/2vFIPSBl8vd7lNFOcXaFWG9GNlC.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 1.0377,
+            "popularity": 0.8096,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -1963,7 +1962,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.9552,
+            "popularity": 0.7761,
             "genre_ids": [
                 99
             ],
@@ -1980,7 +1979,7 @@
             "backdrop_path": "\/tVxFOWZuKcaMzkM8ZehoTZzKHIH.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.9191,
+            "popularity": 0.6777,
             "genre_ids": [
                 12,
                 9648,
@@ -1999,7 +1998,7 @@
             "backdrop_path": "\/1EXHKv9CEIWdTzYTgy04qyd20Bp.jpg",
             "vote_average": 6,
             "vote_count": 1,
-            "popularity": 0.8353,
+            "popularity": 0.8316,
             "genre_ids": [
                 99,
                 80
@@ -2017,7 +2016,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.8203,
+            "popularity": 0.6648,
             "genre_ids": [
                 80,
                 18,
@@ -2037,7 +2036,7 @@
             "backdrop_path": "\/rS0ewRtB2ugDvbaVUoCXOpBOppM.jpg",
             "vote_average": 6,
             "vote_count": 7,
-            "popularity": 0.805,
+            "popularity": 0.718,
             "genre_ids": [
                 16,
                 35,
@@ -2056,7 +2055,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.7735,
+            "popularity": 0.6384,
             "genre_ids": [
                 53,
                 14
@@ -2074,7 +2073,7 @@
             "backdrop_path": "\/sI6IO4HHjlWhZP6YJPaX8b3zDjZ.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.6885,
+            "popularity": 0.5554,
             "genre_ids": [
                 16,
                 28,
@@ -2093,7 +2092,7 @@
             "backdrop_path": "\/crSRikBqGh9k5PLMmNL9lQJ1U16.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.6453,
+            "popularity": 0.4568,
             "genre_ids": [
                 18,
                 10402,
@@ -2113,7 +2112,7 @@
             "backdrop_path": "\/fqU0wGEFlnyUbAAbP1niXcJV3vj.jpg",
             "vote_average": 5,
             "vote_count": 1,
-            "popularity": 0.5987,
+            "popularity": 0.4393,
             "genre_ids": [
                 35,
                 18,
@@ -2132,7 +2131,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.5562,
+            "popularity": 0.517,
             "genre_ids": [
                 18,
                 37
@@ -2150,7 +2149,7 @@
             "backdrop_path": "",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.533,
+            "popularity": 0.4508,
             "genre_ids": [
                 27,
                 53
@@ -2168,7 +2167,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.5123,
+            "popularity": 0.6018,
             "genre_ids": [
                 27
             ],
@@ -2185,7 +2184,7 @@
             "backdrop_path": "\/fkfDGk9L7Ihj8FCjbaNt2Gqdo3Q.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.4708,
+            "popularity": 0.4394,
             "genre_ids": [
                 99
             ],
@@ -2202,7 +2201,7 @@
             "backdrop_path": "\/qh5Nd7KJWCoLH3KaGO1EwScuZlu.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.4281,
+            "popularity": 0.5309,
             "genre_ids": [
                 99
             ],
@@ -2219,7 +2218,7 @@
             "backdrop_path": "\/q9fwGDHcBVLXETEjruqeOg0phin.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3587,
+            "popularity": 0.3045,
             "genre_ids": [
                 99
             ],
@@ -2236,7 +2235,7 @@
             "backdrop_path": "\/xHbBMjPfndMtZSBAwXk33ttkrm5.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3507,
+            "popularity": 0.317,
             "genre_ids": [
                 18,
                 35
@@ -2254,7 +2253,7 @@
             "backdrop_path": "\/dgqUfK9GncB4NuuZSEpTXEKga4e.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3481,
+            "popularity": 0.386,
             "genre_ids": [
                 18,
                 10751
@@ -2272,7 +2271,7 @@
             "backdrop_path": "\/s9V5no070zbmlfWIncgMFnpkJ33.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3446,
+            "popularity": 0.6715,
             "genre_ids": [
                 99
             ],
@@ -2289,7 +2288,7 @@
             "backdrop_path": "\/dYXakIBTzKplzOFeF6eb6tzgr3S.jpg",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.3304,
+            "popularity": 0.409,
             "genre_ids": [
                 10402
             ],
@@ -2306,7 +2305,7 @@
             "backdrop_path": "\/g5Tt3l51ehpVJejpXSk44usUEYk.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3151,
+            "popularity": 0.1394,
             "genre_ids": [
                 12,
                 35
@@ -2324,7 +2323,7 @@
             "backdrop_path": "\/rjq6oS2g5wmWyJN4OSh1ZkDuVYJ.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3097,
+            "popularity": 0.2638,
             "genre_ids": [
                 10749,
                 35,
@@ -2343,7 +2342,7 @@
             "backdrop_path": "\/gTsJUnMUCBaiN8jyrKXwB2P7QmD.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2995,
+            "popularity": 0.3301,
             "genre_ids": [
                 37
             ],
@@ -2360,7 +2359,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2775,
+            "popularity": 0.3822,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -2375,7 +2374,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2665,
+            "popularity": 0.1128,
             "genre_ids": [
                 27,
                 35
@@ -2393,7 +2392,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.246,
+            "popularity": 0.2142,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -2408,7 +2407,7 @@
             "backdrop_path": "\/70YFFa0CIb3tY7AlcWXQA3U05eb.jpg",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.2349,
+            "popularity": 0.2032,
             "genre_ids": [
                 27
             ],
@@ -2440,7 +2439,7 @@
             "backdrop_path": "\/dtwBjGuaaNxJCSQVBZQCOpwzg3l.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2291,
+            "popularity": 0.17,
             "genre_ids": [
                 18
             ],
@@ -2457,7 +2456,7 @@
             "backdrop_path": "\/7rGDMrEIAemAkNLKR17K5jf2CJQ.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2053,
+            "popularity": 0.1576,
             "genre_ids": [
                 10402,
                 27,
@@ -2476,7 +2475,7 @@
             "backdrop_path": "\/4fBzFS8tiQNmKAGciRpWiSK7Gml.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2046,
+            "popularity": 0.2538,
             "genre_ids": [
                 27,
                 35
@@ -2494,7 +2493,7 @@
             "backdrop_path": "\/4fBzFS8tiQNmKAGciRpWiSK7Gml.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1705,
+            "popularity": 0.1739,
             "genre_ids": [
                 53,
                 27
@@ -2512,7 +2511,7 @@
             "backdrop_path": "\/e45cXlfNpZQu4wz2tRpOENt1Bep.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1703,
+            "popularity": 0.1385,
             "genre_ids": [
                 27,
                 80,
@@ -2531,7 +2530,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1538,
+            "popularity": 0.1284,
             "genre_ids": [
                 80,
                 18,
@@ -2550,7 +2549,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1467,
+            "popularity": 0.1268,
             "genre_ids": [
                 18,
                 27,
@@ -2571,7 +2570,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1431,
+            "popularity": 0.1168,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -2586,7 +2585,7 @@
             "backdrop_path": "\/fykkcoLiaSkVgSUTorZoe2swA7t.jpg",
             "vote_average": 9,
             "vote_count": 1,
-            "popularity": 0.1404,
+            "popularity": 0.3602,
             "genre_ids": [
                 27
             ],
@@ -2603,7 +2602,7 @@
             "backdrop_path": "\/rWZU8evb39JZpLiS3TjS3YwqMSK.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1329,
+            "popularity": 0.1066,
             "genre_ids": [
                 99,
                 27
@@ -2621,7 +2620,7 @@
             "backdrop_path": "\/rAClsKEEyQgKxANB9B6oiGgSlSG.jpg",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.1266,
+            "popularity": 0.1556,
             "genre_ids": [
                 99
             ],
@@ -2638,7 +2637,7 @@
             "backdrop_path": "\/vJRbh1x2CL9X7rNOCUdScV6f7RS.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1254,
+            "popularity": 0.1017,
             "genre_ids": [
                 27,
                 53
@@ -2656,7 +2655,7 @@
             "backdrop_path": "\/nGeX2NcR4WgtZUXCSJpRa5Wgt7H.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.123,
+            "popularity": 0.1512,
             "genre_ids": [
                 16,
                 12,
@@ -2675,7 +2674,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.121,
+            "popularity": 0.09,
             "genre_ids": [
                 18,
                 14
@@ -2693,7 +2692,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1181,
+            "popularity": 0.1015,
             "genre_ids": [
                 878
             ],
@@ -2710,7 +2709,7 @@
             "backdrop_path": "\/6Qk38pVzENSUQx8cS9AK1T28gr7.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1162,
+            "popularity": 0.0832,
             "genre_ids": [
                 35
             ],
@@ -2727,7 +2726,7 @@
             "backdrop_path": "\/tvNqO9IMgSLebhnmybI55OzN1p3.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1139,
+            "popularity": 0.0904,
             "genre_ids": [
                 14,
                 35,
@@ -2747,7 +2746,7 @@
             "backdrop_path": "\/407Kbt1TL4cybgbavHeZeWjMb3U.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1122,
+            "popularity": 0.1032,
             "genre_ids": [
                 27,
                 35,
@@ -2767,7 +2766,7 @@
             "backdrop_path": "\/yuU7sx6NGNrgiXcuBTnhSi0nlqO.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1106,
+            "popularity": 0.0911,
             "genre_ids": [
                 35,
                 18
@@ -2785,7 +2784,7 @@
             "backdrop_path": "\/cACA5e6w8aiNePmj0IsmvZqVJAb.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.108,
+            "popularity": 0.1046,
             "genre_ids": [
                 18,
                 10749
@@ -2803,7 +2802,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.1,
+            "popularity": 0.0468,
             "genre_ids": [
                 28,
                 35
@@ -2821,7 +2820,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0998,
+            "popularity": 0.0771,
             "genre_ids": [
                 9648
             ],
@@ -2838,7 +2837,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0981,
+            "popularity": 0.0839,
             "genre_ids": [
                 99
             ],
@@ -2855,7 +2854,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0934,
+            "popularity": 0.0757,
             "genre_ids": [
                 18,
                 99
@@ -2873,7 +2872,7 @@
             "backdrop_path": "\/hBzWuzOwvkFEpy9OXKnmXqqhUUY.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.09,
+            "popularity": 0.0709,
             "genre_ids": [
                 14,
                 12,
@@ -2892,7 +2891,7 @@
             "backdrop_path": "",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.0866,
+            "popularity": 0.0761,
             "genre_ids": [
                 27
             ],
@@ -2909,7 +2908,7 @@
             "backdrop_path": "\/olr5ojIgmxYqFJONJnfGgzFUSkx.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0786,
+            "popularity": 0.0643,
             "genre_ids": [
                 18
             ],
@@ -2926,7 +2925,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0766,
+            "popularity": 0.0756,
             "genre_ids": [
                 27
             ],
@@ -2943,7 +2942,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0757,
+            "popularity": 0.0588,
             "genre_ids": [
                 27
             ],
@@ -2960,7 +2959,7 @@
             "backdrop_path": "\/isoJFib9jcrIfNnhQOkenEp2zDd.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0689,
+            "popularity": 0.2879,
             "genre_ids": [
                 99
             ],
@@ -2977,7 +2976,7 @@
             "backdrop_path": "\/20BZEwlPXQ7egxRFEEwqeW2DvlU.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0689,
+            "popularity": 0.0489,
             "genre_ids": [
                 27
             ],
@@ -2994,7 +2993,7 @@
             "backdrop_path": "\/iA4V5g9B4ma20MRQgffAzyAgj4p.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0668,
+            "popularity": 0.0456,
             "genre_ids": [
                 27,
                 14
@@ -3029,7 +3028,7 @@
             "backdrop_path": "",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.0621,
+            "popularity": 0.051,
             "genre_ids": [
                 9648
             ],
@@ -3046,7 +3045,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0602,
+            "popularity": 0.0481,
             "genre_ids": [
                 99
             ],
@@ -3095,7 +3094,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0561,
+            "popularity": 0.0412,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3110,7 +3109,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0537,
+            "popularity": 0.0293,
             "genre_ids": [
                 27,
                 35
@@ -3128,7 +3127,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.053,
+            "popularity": 0.0398,
             "genre_ids": [
                 27
             ],
@@ -3145,7 +3144,7 @@
             "backdrop_path": "\/rEP4N4DSQrCTGnxgax1hXCCLEzy.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0525,
+            "popularity": 0.0352,
             "genre_ids": [
                 18,
                 35
@@ -3163,7 +3162,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0522,
+            "popularity": 0.0495,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3178,7 +3177,7 @@
             "backdrop_path": "\/hChFbLnb8I9VwqaRVgzZByk1PcB.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0516,
+            "popularity": 0.0338,
             "genre_ids": [
                 27,
                 18
@@ -3228,7 +3227,7 @@
             "backdrop_path": "\/kFZ3nH2YD4CoewzJmM9LvIufjCr.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0509,
+            "popularity": 0.0404,
             "genre_ids": [
                 9648,
                 53,
@@ -3376,6 +3375,21 @@
             "original_language": "en"
         },
         {
+            "id": 1593798,
+            "title": "Marry Me Christmas",
+            "original_title": "Marry Me Christmas",
+            "overview": "Caught between three Christmas proposals, a businesswoman's fairy godmother whisks her through the past, present, and future, revealing that true love might be closer than she thinks.",
+            "release_date": "2025-11-26",
+            "poster_path": "\/vj4th8hXVwRLaciQunMA5HWmXAd.jpg",
+            "backdrop_path": "\/7DGthdUn5NRtZAP76XbiVQRHcOK.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0386,
+            "genre_ids": [],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
             "id": 1589800,
             "title": "Barbados",
             "original_title": "Barbados",
@@ -3502,7 +3516,7 @@
             "backdrop_path": "\/4LnJn6HUGK4wS9iy3vCXjlK9C64.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0327,
+            "popularity": 0.0311,
             "genre_ids": [
                 99,
                 10402
@@ -3520,10 +3534,29 @@
             "backdrop_path": "\/9O2oMATXUGAk6kRCIEktYYMjbaz.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0327,
+            "popularity": 0.0239,
             "genre_ids": [
                 18,
                 36
+            ],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1591822,
+            "title": "Pandora: Fire and Ice",
+            "original_title": "Pandora: Fire and Ice",
+            "overview": "Decades after humanity's first contact with Pandora, a new expedition returns to harvest what's left of the planet's resources-only to discover that the alien species is preparing to strike back against Earth.",
+            "release_date": "2025-12-05",
+            "poster_path": "\/xiVr4V5Ilj4ZbBofrd7OWo071d2.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0923,
+            "genre_ids": [
+                878,
+                28,
+                12
             ],
             "adult": false,
             "original_language": "en"
@@ -3538,7 +3571,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0311,
+            "popularity": 0.0143,
             "genre_ids": [
                 35,
                 99,
@@ -3558,9 +3591,27 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0311,
+            "popularity": 0.0286,
             "genre_ids": [
                 10749
+            ],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1459514,
+            "title": "Row Don't Drift: An American Legacy",
+            "original_title": "Row Don't Drift: An American Legacy",
+            "overview": "When Yoshi Kubo is evicted from his California farm under the WWIl Japanese exclusion order and confined in a bleak internment camp, he takes an unconventional stand against oppression.",
+            "release_date": "2025-12-06",
+            "poster_path": "\/oGRJVa27l5SmQsLhoWlk1JRhxof.jpg",
+            "backdrop_path": "\/p2P7TRoHnFH2pITHLFuZNVrlINk.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0311,
+            "genre_ids": [
+                36,
+                99
             ],
             "adult": false,
             "original_language": "en"
@@ -3609,7 +3660,7 @@
             "backdrop_path": "\/dPyAOvFNZkxtrBLT9Vou9ltSbzY.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0286,
+            "popularity": 0.28,
             "genre_ids": [
                 35,
                 27,
@@ -3628,7 +3679,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0286,
+            "popularity": 0.0214,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3673,7 +3724,7 @@
             "backdrop_path": "\/h6BLy4SJ0dFbj2O7eMIIkKnzwKv.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0264,
+            "popularity": 0.0143,
             "genre_ids": [
                 99
             ],
@@ -3690,7 +3741,7 @@
             "backdrop_path": "",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.0264,
+            "popularity": 0.0143,
             "genre_ids": [
                 99
             ],
@@ -3707,7 +3758,7 @@
             "backdrop_path": "\/6qiOA0cQp11UcmngyvV874kthyy.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0264,
+            "popularity": 0.0214,
             "genre_ids": [
                 35,
                 18,
@@ -3726,7 +3777,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0261,
+            "popularity": 0.0143,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3741,7 +3792,7 @@
             "backdrop_path": "\/awDdyqOrKPpddkI5gQeVOKDhcVs.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0261,
+            "popularity": 0.0256,
             "genre_ids": [
                 27,
                 9648,
@@ -3779,7 +3830,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0256,
+            "popularity": 0.0168,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3794,7 +3845,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0256,
+            "popularity": 0.0168,
             "genre_ids": [
                 99
             ],
@@ -3811,7 +3862,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0256,
+            "popularity": 0.0168,
             "genre_ids": [
                 878,
                 10749,
@@ -3830,7 +3881,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0256,
+            "popularity": 0.0327,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3864,7 +3915,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0256,
+            "popularity": 0.0168,
             "genre_ids": [
                 14,
                 10749
@@ -3897,7 +3948,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0239,
+            "popularity": 0.0143,
             "genre_ids": [
                 18,
                 878
@@ -3915,7 +3966,7 @@
             "backdrop_path": "\/tjz6z78zFw0LmTnUesRaF3PxoO9.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0239,
+            "popularity": 0.0143,
             "genre_ids": [
                 53,
                 35
@@ -3948,7 +3999,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0214,
+            "popularity": 0.0143,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3963,7 +4014,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0214,
+            "popularity": 0.0143,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -3978,28 +4029,10 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0214,
+            "popularity": 0.0143,
             "genre_ids": [
                 35,
                 878
-            ],
-            "adult": false,
-            "original_language": "en"
-        },
-        {
-            "id": 1459514,
-            "title": "Row Don't Drift: An American Legacy",
-            "original_title": "Row Don't Drift: An American Legacy",
-            "overview": "When Yoshi Kubo is evicted from his California farm under the WWIl Japanese exclusion order and confined in a bleak internment camp, he takes an unconventional stand against oppression.",
-            "release_date": "2025-12-06",
-            "poster_path": "\/oGRJVa27l5SmQsLhoWlk1JRhxof.jpg",
-            "backdrop_path": "\/p2P7TRoHnFH2pITHLFuZNVrlINk.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.0214,
-            "genre_ids": [
-                36,
-                99
             ],
             "adult": false,
             "original_language": "en"
@@ -4014,7 +4047,7 @@
             "backdrop_path": "\/j1eVxrUgCWdIXtYuGljzthg72z3.jpg",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.0193,
+            "popularity": 0.0071,
             "genre_ids": [
                 99,
                 10402
@@ -4082,7 +4115,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0143,
+            "popularity": 0.0286,
             "genre_ids": [
                 18
             ],
@@ -4147,8 +4180,40 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0143,
+            "popularity": 0.0071,
             "genre_ids": [],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1577035,
+            "title": "6 PM",
+            "original_title": "6 PM",
+            "overview": "A college student on the eve of graduation relives the same day over and over in order to give themselves extra time to figure out what their plan is for the future.",
+            "release_date": "2025-11-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1571966,
+            "title": "Beautiful Day",
+            "original_title": "Beautiful Day",
+            "overview": "A phlegm-spitting, bone-cracking, mind-bending man experiences a body falling apart on a beautiful day in this mixed-media animated short and music video.",
+            "release_date": "2025-10-31",
+            "poster_path": "\/slFyTOf3ah6leZtkCEyoQqAfodg.jpg",
+            "backdrop_path": "\/fDELVlyjO28WB4KJ9TgH8k98hsn.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0071,
+            "genre_ids": [
+                16
+            ],
             "adult": false,
             "original_language": "en"
         },
@@ -4162,7 +4227,7 @@
             "backdrop_path": "\/9WT3JR0LSVUrFW4Tj4Bi8sHDzLH.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0143,
+            "popularity": 0.0404,
             "genre_ids": [
                 35
             ],
@@ -4179,7 +4244,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0143,
+            "popularity": 0.0071,
             "genre_ids": [
                 99,
                 18
@@ -4233,7 +4298,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0143,
+            "popularity": 0.0214,
             "genre_ids": [
                 99
             ],
@@ -4267,7 +4332,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0071,
+            "popularity": 0,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -4332,7 +4397,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0071,
+            "popularity": 0,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -4350,23 +4415,6 @@
             "popularity": 0.0071,
             "genre_ids": [
                 16
-            ],
-            "adult": false,
-            "original_language": "en"
-        },
-        {
-            "id": 1571793,
-            "title": "Der Tag vor dem Abend",
-            "original_title": "Der Tag vor dem Abend",
-            "overview": "A film by Max Koller",
-            "release_date": "2025-11-04",
-            "poster_path": "\/83W9GD9rXU1TzJFJnQtQSwnOFYx.jpg",
-            "backdrop_path": "",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.0071,
-            "genre_ids": [
-                99
             ],
             "adult": false,
             "original_language": "en"
@@ -4430,7 +4478,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0071,
+            "popularity": 0,
             "genre_ids": [],
             "adult": false,
             "original_language": "en"
@@ -4514,9 +4562,26 @@
             "backdrop_path": "\/7h6EJjCZ7qTuKGL4JaOLObb03KO.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.0071,
+            "popularity": 0.0261,
             "genre_ids": [
                 9648,
+                18
+            ],
+            "adult": false,
+            "original_language": "en"
+        },
+        {
+            "id": 1595229,
+            "title": "Therapy Session",
+            "original_title": "Therapy Session",
+            "overview": "When anxiety about his relationships take over, Miles attends a therapy session and faces the reality of his situations.",
+            "release_date": "2025-12-06",
+            "poster_path": "\/p4mY41QHznlwME3wmL0Ny0nWhNi.jpg",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0143,
+            "genre_ids": [
                 18
             ],
             "adult": false,
@@ -4532,7 +4597,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.0143,
             "genre_ids": [
                 878
             ],
@@ -4549,7 +4614,7 @@
             "backdrop_path": "\/9AKOHLrB6vwP9wjUV60kQklG8dH.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.0143,
             "genre_ids": [
                 99,
                 35,
@@ -4598,7 +4663,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.0071,
             "genre_ids": [
                 99
             ],
@@ -4662,7 +4727,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.0071,
             "genre_ids": [
                 27,
                 14,
@@ -4681,7 +4746,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.1429,
             "genre_ids": [
                 99
             ],
