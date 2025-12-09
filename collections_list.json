@@ -60,6 +60,10 @@
         "name": "Almighty Collection"
     },
     {
+        "id": 241729,
+        "name": "Alpha and Omega Collection"
+    },
+    {
         "id": 2806,
         "name": "American Pie Collection"
     },
@@ -112,16 +116,12 @@
         "name": "Bambi Collection"
     },
     {
-        "id": 86336,
-        "name": "Basic Instinct Collection"
-    },
-    {
         "id": 120794,
         "name": "Batman Collection"
     },
     {
-        "id": 1123192,
-        "name": "Beautiful Disaster Collection"
+        "id": 248534,
+        "name": "Batman: The Dark Knight Returns Collection"
     },
     {
         "id": 945475,
@@ -132,8 +132,8 @@
         "name": "Before... Collection"
     },
     {
-        "id": 44979,
-        "name": "Big Momma's House Collection"
+        "id": 87256,
+        "name": "Beverly Hills Chihuahua Collection"
     },
     {
         "id": 731067,
@@ -152,6 +152,10 @@
         "name": "Blade Runner Collection"
     },
     {
+        "id": 986760,
+        "name": "Book Club Collection"
+    },
+    {
         "id": 747168,
         "name": "Borat Moviefilms Collection"
     },
@@ -166,6 +170,10 @@
     {
         "id": 96472,
         "name": "Brother Bear Collection"
+    },
+    {
+        "id": 736172,
+        "name": "Bullets, Bombs, and Babes Collection"
     },
     {
         "id": 1401402,
@@ -220,18 +228,6 @@
         "name": "Class of Nuke 'Em High Collection"
     },
     {
-        "id": 182813,
-        "name": "Clerks Collection"
-    },
-    {
-        "id": 177467,
-        "name": "Cloudy with a Chance of Meatballs Collection"
-    },
-    {
-        "id": 647077,
-        "name": "Coming to America Collection"
-    },
-    {
         "id": 1025281,
         "name": "Constantine Collection"
     },
@@ -244,20 +240,12 @@
         "name": "Creepshow Collection"
     },
     {
-        "id": 10893,
-        "name": "Critters Collection"
-    },
-    {
         "id": 52789,
         "name": "Cruel Intentions Collection"
     },
     {
         "id": 837007,
         "name": "Cruella Collection"
-    },
-    {
-        "id": 432,
-        "name": "Cube Collection"
     },
     {
         "id": 178106,
@@ -296,10 +284,6 @@
         "name": "Dirty Dancing Collection"
     },
     {
-        "id": 10456,
-        "name": "Dirty Harry Collection"
-    },
-    {
         "id": 618529,
         "name": "Doctor Strange Collection"
     },
@@ -320,20 +304,8 @@
         "name": "Easy Rider Collection"
     },
     {
-        "id": 100286,
-        "name": "Elizabeth Collection"
-    },
-    {
         "id": 829314,
         "name": "Enola Holmes Collection"
-    },
-    {
-        "id": 525891,
-        "name": "Escape Plan Collection"
-    },
-    {
-        "id": 1960,
-        "name": "Evil Dead Collection"
     },
     {
         "id": 735127,
@@ -372,24 +344,12 @@
         "name": "Five Nights at Freddy's Collection"
     },
     {
-        "id": 1318195,
-        "name": "Food, Inc. Collection"
-    },
-    {
         "id": 1125292,
         "name": "Freaky Friday Collection"
     },
     {
-        "id": 43563,
-        "name": "Friday Collection"
-    },
-    {
-        "id": 9735,
-        "name": "Friday the 13th Collection"
-    },
-    {
-        "id": 10924,
-        "name": "From Dusk Till Dawn Collection"
+        "id": 476056,
+        "name": "Fritz the Cat Collection"
     },
     {
         "id": 135468,
@@ -418,10 +378,6 @@
     {
         "id": 1539140,
         "name": "Godzilla x Kong Collection"
-    },
-    {
-        "id": 135466,
-        "name": "Grave Encounters Collection"
     },
     {
         "id": 86083,
@@ -456,6 +412,14 @@
         "name": "Hard Target Collection"
     },
     {
+        "id": 30663,
+        "name": "Harold & Kumar Collection"
+    },
+    {
+        "id": 89188,
+        "name": "Harry Palmer Collection"
+    },
+    {
         "id": 1241,
         "name": "Harry Potter Collection"
     },
@@ -468,16 +432,8 @@
         "name": "Haul Out The Holly Collection"
     },
     {
-        "id": 378268,
-        "name": "Havoc Collection"
-    },
-    {
         "id": 1048282,
         "name": "Heat Collection"
-    },
-    {
-        "id": 17235,
-        "name": "Hellboy Collection"
     },
     {
         "id": 735384,
@@ -488,16 +444,8 @@
         "name": "Hercules (Disney) Collection"
     },
     {
-        "id": 8050,
-        "name": "Highlander Collection"
-    },
-    {
         "id": 737031,
         "name": "Hitman Collection"
-    },
-    {
-        "id": 751156,
-        "name": "Hocus Pocus Collection"
     },
     {
         "id": 9888,
@@ -596,10 +544,6 @@
         "name": "Jingle All the Way Collection"
     },
     {
-        "id": 353325,
-        "name": "Joe Dirt Collection"
-    },
-    {
         "id": 404609,
         "name": "John Wick Collection"
     },
@@ -624,8 +568,20 @@
         "name": "Jurassic Park Collection"
     },
     {
+        "id": 1178688,
+        "name": "Justice League (Tomorrowverse) Collection"
+    },
+    {
         "id": 179892,
         "name": "Kick-Ass Collection"
+    },
+    {
+        "id": 105322,
+        "name": "Kickboxer Collection"
+    },
+    {
+        "id": 1215164,
+        "name": "Kill 'em All Collection"
     },
     {
         "id": 2883,
@@ -640,12 +596,12 @@
         "name": "Knives Out Collection"
     },
     {
-        "id": 779062,
-        "name": "Knocked Up Collection"
-    },
-    {
         "id": 77816,
         "name": "Kung Fu Panda Collection"
+    },
+    {
+        "id": 386162,
+        "name": "LEGO DC Comics Super Heroes Collection"
     },
     {
         "id": 97460,
@@ -674,10 +630,6 @@
     {
         "id": 97461,
         "name": "Lilo & Stitch Collection"
-    },
-    {
-        "id": 1156569,
-        "name": "Love Story Collection"
     },
     {
         "id": 1071588,
@@ -712,10 +664,6 @@
         "name": "Mary Poppins Collection"
     },
     {
-        "id": 456778,
-        "name": "Max Collection"
-    },
-    {
         "id": 99606,
         "name": "Mean Girls Collection"
     },
@@ -740,8 +688,8 @@
         "name": "Mirrors Collection"
     },
     {
-        "id": 93220,
-        "name": "Miss Congeniality Collection"
+        "id": 46512,
+        "name": "Missing in Action Collection"
     },
     {
         "id": 87359,
@@ -750,10 +698,6 @@
     {
         "id": 1241984,
         "name": "Moana Collection"
-    },
-    {
-        "id": 878240,
-        "name": "Monster Family Collection"
     },
     {
         "id": 137696,
@@ -796,8 +740,16 @@
         "name": "National Lampoon's Vacation Collection"
     },
     {
+        "id": 43220,
+        "name": "National Lampoon's Van Wilder Collection"
+    },
+    {
         "id": 85943,
         "name": "Night at the Museum Collection"
+    },
+    {
+        "id": 232844,
+        "name": "Nim's Island Collection"
     },
     {
         "id": 1129084,
@@ -828,18 +780,6 @@
         "name": "One of Them Days Collection"
     },
     {
-        "id": 66761,
-        "name": "Open Season Collection"
-    },
-    {
-        "id": 86113,
-        "name": "Open Water Collection"
-    },
-    {
-        "id": 760193,
-        "name": "Orphan Collection"
-    },
-    {
         "id": 893731,
         "name": "PAW Patrol (Theatrical) Collection"
     },
@@ -850,10 +790,6 @@
     {
         "id": 179919,
         "name": "Percy Jackson Collection"
-    },
-    {
-        "id": 55422,
-        "name": "Peter Pan Collection"
     },
     {
         "id": 595693,
@@ -884,12 +820,20 @@
         "name": "Predator Collection"
     },
     {
+        "id": 93788,
+        "name": "Prep & Landing Collection"
+    },
+    {
         "id": 135416,
         "name": "Prometheus Collection"
     },
     {
         "id": 119674,
         "name": "Psycho Collection"
+    },
+    {
+        "id": 124188,
+        "name": "Pulse Collection"
     },
     {
         "id": 94602,
@@ -910,10 +854,6 @@
     {
         "id": 1288117,
         "name": "Red, White & Royal Blue Collection"
-    },
-    {
-        "id": 17255,
-        "name": "Resident Evil Collection"
     },
     {
         "id": 1290597,
@@ -956,20 +896,8 @@
         "name": "Scream Collection"
     },
     {
-        "id": 608103,
-        "name": "Shaft (Reboot) Collection"
-    },
-    {
-        "id": 727089,
-        "name": "Sharkboy and Lavagirl Collection"
-    },
-    {
         "id": 724848,
         "name": "Shazam! Collection"
-    },
-    {
-        "id": 102322,
-        "name": "Sherlock Holmes Collection"
     },
     {
         "id": 247294,
@@ -988,12 +916,12 @@
         "name": "Sidelined: The QB and Me Collection"
     },
     {
-        "id": 135179,
-        "name": "Sin City Collection"
-    },
-    {
         "id": 544670,
         "name": "Sing Collection"
+    },
+    {
+        "id": 47391,
+        "name": "Sleepaway Camp Collection"
     },
     {
         "id": 1100788,
@@ -1006,10 +934,6 @@
     {
         "id": 720879,
         "name": "Sonic the Hedgehog Collection"
-    },
-    {
-        "id": 1497153,
-        "name": "Spaceballs Collection"
     },
     {
         "id": 531241,
@@ -1036,12 +960,12 @@
         "name": "Star Wars Collection"
     },
     {
-        "id": 86092,
-        "name": "Step Up Collection"
+        "id": 10522,
+        "name": "Starship Troopers Collection"
     },
     {
-        "id": 99727,
-        "name": "Stuart Little Collection"
+        "id": 86092,
+        "name": "Step Up Collection"
     },
     {
         "id": 531242,
@@ -1054,10 +978,6 @@
     {
         "id": 1540907,
         "name": "Superman (DCU) Collection"
-    },
-    {
-        "id": 8537,
-        "name": "Superman Collection"
     },
     {
         "id": 436295,
@@ -1084,16 +1004,8 @@
         "name": "Ted Collection"
     },
     {
-        "id": 1156855,
-        "name": "Teenage Mutant Ninja Turtles (Animated) Collection"
-    },
-    {
         "id": 401562,
         "name": "Teenage Mutant Ninja Turtles (Remake) Collection"
-    },
-    {
-        "id": 1582,
-        "name": "Teenage Mutant Ninja Turtles Collection"
     },
     {
         "id": 727761,
@@ -1110,10 +1022,6 @@
     {
         "id": 125574,
         "name": "The Amazing Spider-Man Collection"
-    },
-    {
-        "id": 531315,
-        "name": "The Angry Birds Collection"
     },
     {
         "id": 86311,
@@ -1134,6 +1042,10 @@
     {
         "id": 1440784,
         "name": "The Beekeeper Collection"
+    },
+    {
+        "id": 283728,
+        "name": "The Bionic Reunion Collection"
     },
     {
         "id": 1197140,
@@ -1158,14 +1070,6 @@
     {
         "id": 420,
         "name": "The Chronicles of Narnia Collection"
-    },
-    {
-        "id": 2794,
-        "name": "The Chronicles of Riddick Collection"
-    },
-    {
-        "id": 165369,
-        "name": "The Collector Collection"
     },
     {
         "id": 313086,
@@ -1208,6 +1112,10 @@
         "name": "The Fast and the Furious Collection"
     },
     {
+        "id": 100970,
+        "name": "The Fox and the Hound Collection"
+    },
+    {
         "id": 1510620,
         "name": "The Garfield Movie Collection"
     },
@@ -1226,6 +1134,10 @@
     {
         "id": 86119,
         "name": "The Hangover Collection"
+    },
+    {
+        "id": 8918,
+        "name": "The Hills Have Eyes (Reboot) Collection"
     },
     {
         "id": 121938,
@@ -1260,12 +1172,12 @@
         "name": "The Kissing Booth Collection"
     },
     {
-        "id": 1543569,
-        "name": "The Last Witch Hunter Collection"
+        "id": 19163,
+        "name": "The Land Before Time Collection"
     },
     {
-        "id": 325470,
-        "name": "The Lego Movie Collection"
+        "id": 85890,
+        "name": "The Librarian Collection"
     },
     {
         "id": 762512,
@@ -1288,10 +1200,6 @@
         "name": "The Magnificent Seven Collection"
     },
     {
-        "id": 464270,
-        "name": "The Man from Earth Collection"
-    },
-    {
         "id": 2344,
         "name": "The Matrix Collection"
     },
@@ -1302,10 +1210,6 @@
     {
         "id": 742536,
         "name": "The Meg Collection"
-    },
-    {
-        "id": 164395,
-        "name": "The Messengers Collection"
     },
     {
         "id": 1461530,
@@ -1336,26 +1240,6 @@
         "name": "The Princess Diaries Collection"
     },
     {
-        "id": 635362,
-        "name": "The Punisher Collection"
-    },
-    {
-        "id": 797576,
-        "name": "The Reef Collection"
-    },
-    {
-        "id": 14563,
-        "name": "The Ring Collection"
-    },
-    {
-        "id": 1326816,
-        "name": "The Robot Jox Collection"
-    },
-    {
-        "id": 694606,
-        "name": "The Rocky Horror Picture Show Collection"
-    },
-    {
         "id": 87214,
         "name": "The Sandlot Collection"
     },
@@ -1368,12 +1252,20 @@
         "name": "The Secret Life of Pets Collection"
     },
     {
+        "id": 105075,
+        "name": "The Shadow Collection"
+    },
+    {
         "id": 530064,
         "name": "The Shining Collection"
     },
     {
         "id": 1554359,
         "name": "The Simpsons Movie Collection"
+    },
+    {
+        "id": 134897,
+        "name": "The Smurfs (Theatrical) Collection"
     },
     {
         "id": 1504252,
@@ -1440,8 +1332,8 @@
         "name": "Thor Collection"
     },
     {
-        "id": 1293280,
-        "name": "Three Wise Men Collection"
+        "id": 752614,
+        "name": "Those Magnificent Men in Their...Collection"
     },
     {
         "id": 315595,
@@ -1452,12 +1344,20 @@
         "name": "To All the Boys Collection"
     },
     {
+        "id": 2467,
+        "name": "Tomb Raider Collection"
+    },
+    {
         "id": 531330,
         "name": "Top Gun Collection"
     },
     {
         "id": 10194,
         "name": "Toy Story Collection"
+    },
+    {
+        "id": 101385,
+        "name": "Trailer Park Boys Collection"
     },
     {
         "id": 945477,
@@ -1468,16 +1368,8 @@
         "name": "Transformers Collection"
     },
     {
-        "id": 123218,
-        "name": "Troll Collection"
-    },
-    {
         "id": 1062948,
         "name": "Twister Collection"
-    },
-    {
-        "id": 1952,
-        "name": "USA: Land of Opportunities Collection"
     },
     {
         "id": 1216426,
@@ -1500,10 +1392,6 @@
         "name": "Violent Night Collection"
     },
     {
-        "id": 93731,
-        "name": "Waiting Collection"
-    },
-    {
         "id": 52783,
         "name": "Wall Street Collection"
     },
@@ -1522,10 +1410,6 @@
     {
         "id": 33059,
         "name": "Wild Things Collection"
-    },
-    {
-        "id": 1046516,
-        "name": "Wind River Collection"
     },
     {
         "id": 1079486,
