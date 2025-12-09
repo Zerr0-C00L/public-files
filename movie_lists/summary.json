@@ -1,11 +1,11 @@
 {
-    "updated_at": "2025-12-09 06:43:08",
+    "updated_at": "2025-12-09 07:21:25",
     "lists": {
-        "now_playing": 272,
-        "popular": 372,
-        "top_rated": 269,
-        "upcoming": 66,
+        "now_playing": 324,
+        "popular": 493,
+        "top_rated": 500,
+        "upcoming": 74,
         "latest_releases": 500
     },
-    "total_unique_movies": 1479
+    "total_unique_movies": 1891
 }

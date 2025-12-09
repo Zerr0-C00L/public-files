@@ -1,8 +1,8 @@
 {
     "list_type": "upcoming",
     "list_name": "Upcoming",
-    "total_movies": 66,
-    "updated_at": "2025-12-09 06:43:01",
+    "total_movies": 74,
+    "updated_at": "2025-12-09 07:21:18",
     "movies": [
         {
             "id": 83533,
@@ -41,6 +41,25 @@
             ],
             "adult": false,
             "original_language": "en"
+        },
+        {
+            "id": 639988,
+            "title": "No Other Choice",
+            "original_title": "어쩔수가없다",
+            "overview": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
+            "release_date": "2025-12-25",
+            "poster_path": "\/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+            "backdrop_path": "\/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
+            "vote_average": 7.753,
+            "vote_count": 83,
+            "popularity": 22.2218,
+            "genre_ids": [
+                80,
+                53,
+                35
+            ],
+            "adult": false,
+            "original_language": "ko"
         },
         {
             "id": 1317288,
@@ -246,6 +265,24 @@
             "original_language": "en"
         },
         {
+            "id": 878608,
+            "title": "Resurrection",
+            "original_title": "狂野时代",
+            "overview": "In a world where humanity has lost the ability to dream, one creature remains entranced by the fading illusions of the dreamworld. This monster, adrift in reverie, clings to visions no one else can see — until a woman appears. Gifted with the rare power to perceive these illusions for what they truly are, she chooses to enter the monster’s dreams, determined to uncover the truth that lies hidden within.",
+            "release_date": "2025-12-12",
+            "poster_path": "\/wBXvXc7CoE1TCEL96VzMkMQKYG9.jpg",
+            "backdrop_path": "\/e3kKf6FpWURM6RC5FB75zo6Rq5u.jpg",
+            "vote_average": 7.6,
+            "vote_count": 5,
+            "popularity": 6.3992,
+            "genre_ids": [
+                18,
+                878
+            ],
+            "adult": false,
+            "original_language": "zh"
+        },
+        {
             "id": 801937,
             "title": "Silent Night, Deadly Night",
             "original_title": "Silent Night, Deadly Night",
@@ -281,6 +318,23 @@
             ],
             "adult": false,
             "original_language": "en"
+        },
+        {
+            "id": 1480382,
+            "title": "The Voice of Hind Rajab",
+            "original_title": "صوت هند رجب",
+            "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A 6-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
+            "release_date": "2025-12-17",
+            "poster_path": "\/2sUA6hyjC2HVJjDTKtCcOTzv6Qn.jpg",
+            "backdrop_path": "\/mQwD7GtPTkv6WF5m8AJWGrO5XOE.jpg",
+            "vote_average": 8.211,
+            "vote_count": 97,
+            "popularity": 4.133,
+            "genre_ids": [
+                18
+            ],
+            "adult": false,
+            "original_language": "ar"
         },
         {
             "id": 1043197,
@@ -319,6 +373,44 @@
             ],
             "adult": false,
             "original_language": "en"
+        },
+        {
+            "id": 1406657,
+            "title": "Scarlet",
+            "original_title": "果てしなきスカーレット",
+            "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+            "release_date": "2025-12-12",
+            "poster_path": "\/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+            "backdrop_path": "\/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 3.5505,
+            "genre_ids": [
+                16,
+                28,
+                10749,
+                14
+            ],
+            "adult": false,
+            "original_language": "ja"
+        },
+        {
+            "id": 1019871,
+            "title": "Little Trouble Girls",
+            "original_title": "Kaj ti je deklica",
+            "overview": "16-year-old Lucia joins the Catholic school choir where she befriends senior Ana-Maria. During a choir retreat Lucia's attraction to a restoration worker creates tension with Ana-Maria and challenges her faith.",
+            "release_date": "2025-12-12",
+            "poster_path": "\/etH5TJk18eua1i4xke8E2rYEpqB.jpg",
+            "backdrop_path": "\/tWT021DCKlaCHehNEH4kUOy1bSV.jpg",
+            "vote_average": 6.5,
+            "vote_count": 10,
+            "popularity": 3.0481,
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "adult": false,
+            "original_language": "sl"
         },
         {
             "id": 1401281,
@@ -447,6 +539,23 @@
             "original_language": "en"
         },
         {
+            "id": 896096,
+            "title": "The Mysterious Gaze of the Flamingo",
+            "original_title": "La misteriosa mirada del flamenco",
+            "overview": "As an unknown and deadly disease begins to spread, legend has it that it is transmitted between two men, through a simple glance, when they fall in love. While people are accusing her family, Lidia must find out whether this myth is real or not.",
+            "release_date": "2025-12-12",
+            "poster_path": "\/8qW2gvAhs4ywQJvbT3DnqTip7Rr.jpg",
+            "backdrop_path": "\/kAwN3UWRUWauNK1l4oh7TfdOsJ7.jpg",
+            "vote_average": 7.3,
+            "vote_count": 7,
+            "popularity": 2.0727,
+            "genre_ids": [
+                18
+            ],
+            "adult": false,
+            "original_language": "es"
+        },
+        {
             "id": 511243,
             "title": "The Wizard Hunter: The Hunt for Evangelion Crowley",
             "original_title": "The Wizard Hunter: The Hunt for Evangelion Crowley",
@@ -535,6 +644,24 @@
             ],
             "adult": false,
             "original_language": "en"
+        },
+        {
+            "id": 1575712,
+            "title": "#RUNSEOKJIN_EP.TOUR THE MOVIE",
+            "original_title": "#런석진_에피소드.투어 더 무비",
+            "overview": "Spanning 10 cities and 20 performances, the most thrilling moments of Jin's first solo fan concert world tour are now ready to unfold on the big screen. With \"challenge\" as its theme, the show sees \"Worldwide Handsome\" Jin bring his signature energy to the stage, laughing, singing, and completing missions with ARMY across five energetic rounds. From his first solo album, \"Happy,\" backed by a live band, to his second mini-album, \"Echo,\" and a special medley of BTS songs, the concert unfolds as a panorama of diverse music and emotion, captivating both eyes and ears.",
+            "release_date": "2025-12-27",
+            "poster_path": "\/1GZ75yVI8KTT10IG2sEkxbY9rhr.jpg",
+            "backdrop_path": "\/n9uPzYp2rDcSLJbCwXCdT7b3si.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.9204,
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "adult": false,
+            "original_language": "ko"
         },
         {
             "id": 1580280,
@@ -754,6 +881,24 @@
             ],
             "adult": false,
             "original_language": "en"
+        },
+        {
+            "id": 1455103,
+            "title": "Rumba Royale",
+            "original_title": "Rumba Royale",
+            "overview": "Rumba Royale is an historical thriller set in the Democratic Republic of Congo.",
+            "release_date": "2025-12-12",
+            "poster_path": "\/lHWo5q8WipfW8yLSpT8yAGz2mWp.jpg",
+            "backdrop_path": "\/zWXe5HvV6Uq2TNLRTedkD5wsdEv.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2402,
+            "genre_ids": [
+                18,
+                53
+            ],
+            "adult": false,
+            "original_language": "fr"
         },
         {
             "id": 1473289,
