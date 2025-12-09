@@ -2,25 +2,23 @@ name: Run Adult Playlist Script
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # At 00:00 (midnight) UTC on Sunday
-  workflow_dispatch: # Manual trigger
+    - cron: '0 10 * * 0'  # Weekly on Sunday at 10:00 UTC (6:00 PM GMT+8)
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+      contents: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.RUN_ACTIONS }}
 
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: '7.4'
+        php-version: '8.2'
 
     - name: Run Adult Playlist PHP script
       run: php php/create_adult_playlist.php
@@ -36,12 +34,13 @@ jobs:
           echo "JSON is invalid"
           exit 1
         fi
-    - name: Commit and Push to Public Repository
+
+    - name: Commit and Push
       if: steps.validate_json.outcome == 'success'
       run: |
-        git config user.name "gogetta69"
-        git config user.email "gogetta.teams@gmail.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add adult-movies.json
-        git commit -m "Update Adult Movies Playlist" || echo "No changes to Adult Movies Playlist"
-        git pull --rebase https://x-access-token:${{ secrets.RUN_ACTIONS }}@github.com/gogetta69/public-files.git main
-        git push https://x-access-token:${{ secrets.RUN_ACTIONS }}@github.com/gogetta69/public-files.git
+        git commit -m "Update Adult Movies Playlist $(date +'%Y-%m-%d')" || echo "No changes"
+        git pull --rebase origin main || true
+        git push
