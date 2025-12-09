@@ -23,6 +23,7 @@ jobs:
     - name: Run Collections Fetch Script
       run: php php/fetch_collections.php
       env:
+        SECRET_API_KEY: ${{ secrets.SECRET_API_KEY }}
         TMDB_API_KEY: ${{ secrets.SECRET_API_KEY }}
 
     - name: Commit and Push
