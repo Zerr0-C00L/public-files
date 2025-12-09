@@ -1,8 +1,8 @@
 {
     "list_name": "airing_today",
     "description": "TV series airing today",
-    "total_count": 82,
-    "fetched_at": "2025-12-08T21:54:27+00:00",
+    "total_count": 77,
+    "fetched_at": "2025-12-09T07:22:11+00:00",
     "series": [
         {
             "id": 2224,
@@ -14,32 +14,10 @@
             "backdrop_path": "\/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
             "vote_average": 6.4,
             "vote_count": 609,
-            "popularity": 54.1123,
+            "popularity": 56.441,
             "genre_ids": [
                 10763,
                 35
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 80748,
-            "name": "FBI",
-            "original_name": "FBI",
-            "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
-            "first_air_date": "2018-09-25",
-            "poster_path": "\/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
-            "backdrop_path": "\/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
-            "vote_average": 7.911,
-            "vote_count": 869,
-            "popularity": 46.113,
-            "genre_ids": [
-                80,
-                10759,
-                18
             ],
             "origin_country": [
                 "US"
@@ -57,10 +35,32 @@
             "backdrop_path": "\/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
             "vote_average": 5.9,
             "vote_count": 360,
-            "popularity": 40.8414,
+            "popularity": 45.4033,
             "genre_ids": [
                 35,
                 10767
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 80748,
+            "name": "FBI",
+            "original_name": "FBI",
+            "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+            "first_air_date": "2018-09-25",
+            "poster_path": "\/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+            "backdrop_path": "\/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+            "vote_average": 7.911,
+            "vote_count": 869,
+            "popularity": 44.5119,
+            "genre_ids": [
+                80,
+                10759,
+                18
             ],
             "origin_country": [
                 "US"
@@ -78,30 +78,10 @@
             "backdrop_path": "\/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
             "vote_average": 7,
             "vote_count": 793,
-            "popularity": 33.56,
+            "popularity": 34.5261,
             "genre_ids": [
                 16,
                 10762
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 4656,
-            "name": "Raw",
-            "original_name": "Raw",
-            "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-            "first_air_date": "1993-01-11",
-            "poster_path": "\/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-            "backdrop_path": "\/n69QxkZ0RRc6PMNnxD9U0MZnLzl.jpg",
-            "vote_average": 6.8,
-            "vote_count": 346,
-            "popularity": 30.1298,
-            "genre_ids": [
-                10764
             ],
             "origin_country": [
                 "US"
@@ -119,7 +99,7 @@
             "backdrop_path": "\/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
             "vote_average": 6.3,
             "vote_count": 69,
-            "popularity": 28.4691,
+            "popularity": 32.1511,
             "genre_ids": [
                 10767
             ],
@@ -130,16 +110,16 @@
             "adult": false
         },
         {
-            "id": 37678,
-            "name": "The Voice",
-            "original_name": "The Voice",
-            "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-            "first_air_date": "2011-04-26",
-            "poster_path": "\/8jgjykcCuQ5rYreyqba4mazNKYd.jpg",
-            "backdrop_path": "\/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
-            "vote_average": 5.9,
-            "vote_count": 217,
-            "popularity": 22.5349,
+            "id": 4656,
+            "name": "Raw",
+            "original_name": "Raw",
+            "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+            "first_air_date": "1993-01-11",
+            "poster_path": "\/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
+            "backdrop_path": "\/n69QxkZ0RRc6PMNnxD9U0MZnLzl.jpg",
+            "vote_average": 6.8,
+            "vote_count": 346,
+            "popularity": 29.7486,
             "genre_ids": [
                 10764
             ],
@@ -159,10 +139,30 @@
             "backdrop_path": "\/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
             "vote_average": 6.2,
             "vote_count": 334,
-            "popularity": 22.4884,
+            "popularity": 23.738,
             "genre_ids": [
                 35,
                 10767
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 37678,
+            "name": "The Voice",
+            "original_name": "The Voice",
+            "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+            "first_air_date": "2011-04-26",
+            "poster_path": "\/8jgjykcCuQ5rYreyqba4mazNKYd.jpg",
+            "backdrop_path": "\/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+            "vote_average": 5.9,
+            "vote_count": 217,
+            "popularity": 22.8327,
+            "genre_ids": [
+                10764
             ],
             "origin_country": [
                 "US"
@@ -180,32 +180,12 @@
             "backdrop_path": "\/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
             "vote_average": 5.3,
             "vote_count": 115,
-            "popularity": 20.6343,
+            "popularity": 20.9949,
             "genre_ids": [
                 10766
             ],
             "origin_country": [
                 "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 990,
-            "name": "Big Brother",
-            "original_name": "Big Brother",
-            "overview": "Big Brother is an Australian reality show based on the international Big Brother format created by John de Mol. Following the premise of other versions of the format, the show features a group of contestants, known as \"housemates\" who live together in a specially constructed house that is isolated from the outside world. The housemates are continuously monitored during their stay in the house by live television cameras as well as personal audio microphones. Throughout the course of the competition, housemates are evicted from the house - eliminated from the competition. The last remaining housemate wins the competition and is awarded a cash prize.",
-            "first_air_date": "2001-04-24",
-            "poster_path": "\/obl5RDSapabogimvwVVAKw5dZhA.jpg",
-            "backdrop_path": "\/B26caJsd8TCZTE3KWv0Yg17VPl.jpg",
-            "vote_average": 3.8,
-            "vote_count": 19,
-            "popularity": 14.7858,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "AU"
             ],
             "original_language": "en",
             "adult": false
@@ -218,9 +198,9 @@
             "first_air_date": "1985-02-19",
             "poster_path": "\/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
             "backdrop_path": "\/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
-            "vote_average": 4.128,
+            "vote_average": 4.1,
             "vote_count": 218,
-            "popularity": 13.527,
+            "popularity": 14.1081,
             "genre_ids": [
                 10766,
                 18,
@@ -242,12 +222,32 @@
             "backdrop_path": "\/zHdQ6yaqDf3OQO5uhr0auAgwK6O.jpg",
             "vote_average": 7.8,
             "vote_count": 261,
-            "popularity": 11.9438,
+            "popularity": 13.9097,
             "genre_ids": [
                 18
             ],
             "origin_country": [
                 "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 990,
+            "name": "Big Brother",
+            "original_name": "Big Brother",
+            "overview": "Big Brother is an Australian reality show based on the international Big Brother format created by John de Mol. Following the premise of other versions of the format, the show features a group of contestants, known as \"housemates\" who live together in a specially constructed house that is isolated from the outside world. The housemates are continuously monitored during their stay in the house by live television cameras as well as personal audio microphones. Throughout the course of the competition, housemates are evicted from the house - eliminated from the competition. The last remaining housemate wins the competition and is awarded a cash prize.",
+            "first_air_date": "2001-04-24",
+            "poster_path": "\/obl5RDSapabogimvwVVAKw5dZhA.jpg",
+            "backdrop_path": "\/B26caJsd8TCZTE3KWv0Yg17VPl.jpg",
+            "vote_average": 3.8,
+            "vote_count": 19,
+            "popularity": 13.7559,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "AU"
             ],
             "original_language": "en",
             "adult": false
@@ -262,7 +262,7 @@
             "backdrop_path": "\/rca7DzvnlJGYtyOmtC111PCZsJ6.jpg",
             "vote_average": 7.577,
             "vote_count": 156,
-            "popularity": 10.8467,
+            "popularity": 10.7658,
             "genre_ids": [
                 35
             ],
@@ -282,7 +282,7 @@
             "backdrop_path": "\/gEs0kv3PNIWSYgqTjswTiCHiUe4.jpg",
             "vote_average": 6.769,
             "vote_count": 119,
-            "popularity": 9.4737,
+            "popularity": 10.6686,
             "genre_ids": [
                 35,
                 10767,
@@ -290,28 +290,6 @@
             ],
             "origin_country": [
                 "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 7734,
-            "name": "Police Interceptors",
-            "original_name": "Police Interceptors",
-            "overview": "Documentary series profiling the work of high-speed police units across Britain.",
-            "first_air_date": "2008-05-09",
-            "poster_path": "\/wC4SeLQyxdqAd5rz2iyA0BZdLmV.jpg",
-            "backdrop_path": "\/hMQZ6Z5q8QhwYcPxXPO1DyOQGsx.jpg",
-            "vote_average": 7.682,
-            "vote_count": 11,
-            "popularity": 8.8919,
-            "genre_ids": [
-                99,
-                80,
-                10764
-            ],
-            "origin_country": [
-                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -326,31 +304,10 @@
             "backdrop_path": "\/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
             "vote_average": 4.2,
             "vote_count": 99,
-            "popularity": 8.8885,
+            "popularity": 9.0543,
             "genre_ids": [
                 10766,
                 18
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 5266,
-            "name": "University Challenge",
-            "original_name": "University Challenge",
-            "overview": "Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.",
-            "first_air_date": "1962-09-21",
-            "poster_path": "\/yDLoEEFW3D6XSyT8UynTghc1Dyw.jpg",
-            "backdrop_path": "\/rouizkkCFwqEzrgsjAiByx6Pd1S.jpg",
-            "vote_average": 6,
-            "vote_count": 11,
-            "popularity": 7.9817,
-            "genre_ids": [
-                10767,
-                10751
             ],
             "origin_country": [
                 "GB"
@@ -368,9 +325,30 @@
             "backdrop_path": "\/hFxxFhK6ooj9FHDmB7fGqYbfKty.jpg",
             "vote_average": 5.4,
             "vote_count": 11,
-            "popularity": 7.5428,
+            "popularity": 8.6852,
             "genre_ids": [
                 10767
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 5266,
+            "name": "University Challenge",
+            "original_name": "University Challenge",
+            "overview": "Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.",
+            "first_air_date": "1962-09-21",
+            "poster_path": "\/yDLoEEFW3D6XSyT8UynTghc1Dyw.jpg",
+            "backdrop_path": "\/rouizkkCFwqEzrgsjAiByx6Pd1S.jpg",
+            "vote_average": 6,
+            "vote_count": 11,
+            "popularity": 8.0067,
+            "genre_ids": [
+                10767,
+                10751
             ],
             "origin_country": [
                 "GB"
@@ -388,30 +366,10 @@
             "backdrop_path": "\/mVA8aPYRm3Fu0a0qf9CKF659kWx.jpg",
             "vote_average": 4.959,
             "vote_count": 49,
-            "popularity": 7.4393,
+            "popularity": 7.7841,
             "genre_ids": [
                 18,
                 9648
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 251941,
-            "name": "St. Denis Medical",
-            "original_name": "St. Denis Medical",
-            "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
-            "first_air_date": "2024-11-12",
-            "poster_path": "\/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
-            "backdrop_path": "\/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
-            "vote_average": 6.9,
-            "vote_count": 31,
-            "popularity": 7.4014,
-            "genre_ids": [
-                35
             ],
             "origin_country": [
                 "US"
@@ -429,13 +387,95 @@
             "backdrop_path": "\/fBe7YuZH03raDtrp2ooHtAICOJm.jpg",
             "vote_average": 4.9,
             "vote_count": 22,
-            "popularity": 7.332,
+            "popularity": 7.4252,
             "genre_ids": [
                 10763,
                 35
             ],
             "origin_country": [
                 "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 251941,
+            "name": "St. Denis Medical",
+            "original_name": "St. Denis Medical",
+            "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
+            "first_air_date": "2024-11-12",
+            "poster_path": "\/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
+            "backdrop_path": "\/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
+            "vote_average": 6.9,
+            "vote_count": 31,
+            "popularity": 6.9845,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 61581,
+            "name": "Vanderpump Rules",
+            "original_name": "Vanderpump Rules",
+            "overview": "Follow the passionate, volatile and hot-and-bothered-staff at Lisa Vanderpump’s West Hollywood mainstay SUR. Lisa balances her motherly instincts and shrewd business sense to keep control over this wild group of employees as they pursue their dreams and each other while working at her “Sexy, Unique Restaurant.”",
+            "first_air_date": "2013-01-07",
+            "poster_path": "\/qovZ9pIWArGLTOguUFIWPccErqW.jpg",
+            "backdrop_path": "\/zvXUxv3BGYvtdhG8oCqeCxrCkti.jpg",
+            "vote_average": 6.3,
+            "vote_count": 49,
+            "popularity": 6.7898,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 157950,
+            "name": "NCIS: Sydney",
+            "original_name": "NCIS: Sydney",
+            "overview": "The brilliant and eclectic team of U.S. NCIS Agents and the Australian Federal Police (AFP) are grafted into a multi-national taskforce to keep naval crimes in check in the most contested patch of ocean on the planet.",
+            "first_air_date": "2023-11-10",
+            "poster_path": "\/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
+            "backdrop_path": "\/9HumTe8VKGfH6PSgfRxoDEPYzDK.jpg",
+            "vote_average": 6.937,
+            "vote_count": 63,
+            "popularity": 6.5956,
+            "genre_ids": [
+                80,
+                18,
+                10759
+            ],
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 966,
+            "name": "Hollyoaks",
+            "original_name": "Hollyoaks",
+            "overview": "The daily soap that follows the loves, lives and misdemeanours of a group of people living in the Chester village of Hollyoaks where anything could, and frequently does, happen...",
+            "first_air_date": "1995-10-23",
+            "poster_path": "\/5sbMgcbpzZn8aKETeanrKDANzdM.jpg",
+            "backdrop_path": "\/xkHb06dHEaAfNdAOrkaGjcJuvrt.jpg",
+            "vote_average": 5,
+            "vote_count": 66,
+            "popularity": 6.3452,
+            "genre_ids": [
+                10766
+            ],
+            "origin_country": [
+                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -450,7 +490,7 @@
             "backdrop_path": "\/fi3F610zUye8u7HaaGYUGviZTwj.jpg",
             "vote_average": 5.9,
             "vote_count": 57,
-            "popularity": 6.4637,
+            "popularity": 5.5943,
             "genre_ids": [
                 10766,
                 18,
@@ -473,75 +513,12 @@
             "backdrop_path": "\/p0umYdTa7csDT9SkZX8DD52Sy4a.jpg",
             "vote_average": 6.3,
             "vote_count": 90,
-            "popularity": 6.3299,
+            "popularity": 5.4187,
             "genre_ids": [
                 10764
             ],
             "origin_country": [
                 "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 202998,
-            "name": "Star Wars: Young Jedi Adventures",
-            "original_name": "Star Wars: Young Jedi Adventures",
-            "overview": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
-            "first_air_date": "2023-05-04",
-            "poster_path": "\/hWydZFPESXxrFYNwwIzZwMKJN0g.jpg",
-            "backdrop_path": "\/7SJctp269UEMvRGt9d3eddSpcLL.jpg",
-            "vote_average": 4.5,
-            "vote_count": 30,
-            "popularity": 6.191,
-            "genre_ids": [
-                16,
-                10762,
-                10759,
-                35
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 26870,
-            "name": "Celebrity Masterchef",
-            "original_name": "Celebrity Masterchef",
-            "overview": "Chef and restaurateur John Torode and food writer and ingredients expert Gregg Wallace search for the country's top celebrity chef.",
-            "first_air_date": "2006-09-11",
-            "poster_path": "\/nDnryvB1aus2pktUjgXFgdOxh8t.jpg",
-            "backdrop_path": "\/zfrdHBndFr6DZ8Bbr61IOUXOlrB.jpg",
-            "vote_average": 5.8,
-            "vote_count": 12,
-            "popularity": 5.8855,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 1265,
-            "name": "Bargain Hunt",
-            "original_name": "Bargain Hunt",
-            "overview": "Two teams of amateur collectors have an hour at an antiques fair in which to acquire the best bargains possible.",
-            "first_air_date": "2000-03-20",
-            "poster_path": "\/kXVsAt8gDiqOTgTAPhSwSU1LIid.jpg",
-            "backdrop_path": "\/aYKAWPQlZYStiGWl8zwmgtDhKHt.jpg",
-            "vote_average": 7.2,
-            "vote_count": 7,
-            "popularity": 5.4595,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -556,52 +533,12 @@
             "backdrop_path": "\/e4HxxfDlSmlOzXaNoSuNZLX9IA7.jpg",
             "vote_average": 5,
             "vote_count": 37,
-            "popularity": 4.5203,
+            "popularity": 5.2779,
             "genre_ids": [
                 10764
             ],
             "origin_country": [
                 "AU"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 14955,
-            "name": "POV",
-            "original_name": "POV",
-            "overview": "Since its 1988 premiere, this critically acclaimed documentary series has presented hundreds of films that put a human face on contemporary social issues by relating a compelling story in an intimate fashion. \"POV\" has won virtually every major film and broadcasting award available, including 38 Emmys, 22 Peabody Awards and three Oscars.",
-            "first_air_date": "1988-07-05",
-            "poster_path": "\/rJStW9J8LuB6alAA8t3YdRYkhkT.jpg",
-            "backdrop_path": "\/oYSwV11VTvtBJoaydKxqH9rGAwL.jpg",
-            "vote_average": 6.9,
-            "vote_count": 11,
-            "popularity": 4.423,
-            "genre_ids": [
-                99
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 289567,
-            "name": "DMV",
-            "original_name": "DMV",
-            "overview": "A single camera workplace comedy set at the place everyone dreads going most: the DMV. Our quirky and lovable characters are making minimum wage, doing a thankless job where customers are annoyed before they even walk in the door. Good thing they have each other.",
-            "first_air_date": "2025-10-13",
-            "poster_path": "\/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
-            "backdrop_path": "\/4QXGZXHZlHhGJpoGLe8rBOPmX1D.jpg",
-            "vote_average": 5.875,
-            "vote_count": 9,
-            "popularity": 4.3401,
-            "genre_ids": [
-                35
-            ],
-            "origin_country": [
-                "US"
             ],
             "original_language": "en",
             "adult": false
@@ -616,7 +553,7 @@
             "backdrop_path": "\/w7oNyGaZ8Tz9LnAr0nf6dvKC968.jpg",
             "vote_average": 5.5,
             "vote_count": 25,
-            "popularity": 4.33,
+            "popularity": 4.9158,
             "genre_ids": [
                 10764
             ],
@@ -627,18 +564,60 @@
             "adult": false
         },
         {
-            "id": 66902,
-            "name": "Below Deck Mediterranean",
-            "original_name": "Below Deck Mediterranean",
-            "overview": "Follow crew members living and working aboard a 150’ mega-yacht as it undertakes a charter season in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests.",
-            "first_air_date": "2016-05-03",
-            "poster_path": "\/u88QjNj1xyGwnZMtSZjA9jDNNro.jpg",
-            "backdrop_path": "\/44YZBY9eCyVM5nyZAmua6ovD64S.jpg",
-            "vote_average": 7.7,
-            "vote_count": 49,
-            "popularity": 4.1761,
+            "id": 138993,
+            "name": "Hard Knocks: In Season",
+            "original_name": "Hard Knocks: In Season",
+            "overview": "The Emmy-winning weekly series delivers its signature all-access coverage in the first show of any kind to document an NFL franchise in-season and in real time, following the Colts as they navigate the challenges of an NFL season and battle for a playoff berth.",
+            "first_air_date": "2021-11-17",
+            "poster_path": "\/8NGCrBJksPZ9jwHxJuxfAkcAUV8.jpg",
+            "backdrop_path": "\/v9eqHjoWc5Bb9cCsHeuhEcyKAdk.jpg",
+            "vote_average": 6.8,
+            "vote_count": 3,
+            "popularity": 4.7121,
             "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 7734,
+            "name": "Police Interceptors",
+            "original_name": "Police Interceptors",
+            "overview": "Documentary series profiling the work of high-speed police units across Britain.",
+            "first_air_date": "2008-05-09",
+            "poster_path": "\/wC4SeLQyxdqAd5rz2iyA0BZdLmV.jpg",
+            "backdrop_path": "\/hMQZ6Z5q8QhwYcPxXPO1DyOQGsx.jpg",
+            "vote_average": 7.682,
+            "vote_count": 11,
+            "popularity": 4.5449,
+            "genre_ids": [
+                99,
+                80,
                 10764
+            ],
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 987,
+            "name": "General Hospital",
+            "original_name": "General Hospital",
+            "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+            "first_air_date": "1963-04-01",
+            "poster_path": "\/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+            "backdrop_path": "\/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
+            "vote_average": 5.7,
+            "vote_count": 213,
+            "popularity": 4.42,
+            "genre_ids": [
+                10766
             ],
             "origin_country": [
                 "US"
@@ -656,7 +635,7 @@
             "backdrop_path": "\/e7MSbwYRVqd4rZQQWcNuJvOSHLC.jpg",
             "vote_average": 6,
             "vote_count": 147,
-            "popularity": 4.0434,
+            "popularity": 4.0634,
             "genre_ids": [
                 10766,
                 18
@@ -668,16 +647,59 @@
             "adult": false
         },
         {
-            "id": 94009,
-            "name": "90 Day Fiancé: Pillow Talk",
-            "original_name": "90 Day Fiancé: Pillow Talk",
-            "overview": "Previous cast members of 90 Day Fiancé and its spin-off shows react to new episodes of these shows.",
-            "first_air_date": "2019-04-29",
-            "poster_path": "\/dtBcg0qCekbSvPHCGtsDQEKOq8z.jpg",
-            "backdrop_path": "\/zv6gafacbXpU95W3JLows0qDJvR.jpg",
-            "vote_average": 6,
-            "vote_count": 8,
-            "popularity": 3.9216,
+            "id": 62543,
+            "name": "7 Little Johnstons",
+            "original_name": "7 Little Johnstons",
+            "overview": "The Johnstons, a family of little people, juggle family and health issues on top of a home renovation.",
+            "first_air_date": "2015-03-31",
+            "poster_path": "\/zmitA2Nxqs7P2GozSu50W7Ck8DC.jpg",
+            "backdrop_path": "\/zAKM6hRSA4gigcrseamge38kVCX.jpg",
+            "vote_average": 6.4,
+            "vote_count": 23,
+            "popularity": 3.9977,
+            "genre_ids": [
+                35,
+                10751,
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 6647,
+            "name": "The Bold and the Beautiful",
+            "original_name": "The Bold and the Beautiful",
+            "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+            "first_air_date": "1987-03-23",
+            "poster_path": "\/rbmLSQHmSSCBhSfRhvToAEvSsqI.jpg",
+            "backdrop_path": "\/slVKYnKNyfcPv35AG3MXlAq9IqV.jpg",
+            "vote_average": 5.489,
+            "vote_count": 142,
+            "popularity": 3.8274,
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 110381,
+            "name": "The Real Housewives of Salt Lake City",
+            "original_name": "The Real Housewives of Salt Lake City",
+            "overview": "Fueled by multi-million-dollar businesses and brands, a hidden social circle of successful women have created their own paradise in the majestic mountains of Utah.",
+            "first_air_date": "2020-11-11",
+            "poster_path": "\/1tQ2wVVKoma672CxE2kfl9oxHR8.jpg",
+            "backdrop_path": "\/52C5LxFmg4z0dSUUbYnLhJij0Jv.jpg",
+            "vote_average": 5.8,
+            "vote_count": 21,
+            "popularity": 3.6453,
             "genre_ids": [
                 10764
             ],
@@ -688,21 +710,23 @@
             "adult": false
         },
         {
-            "id": 987,
-            "name": "General Hospital",
-            "original_name": "General Hospital",
-            "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
-            "first_air_date": "1963-04-01",
-            "poster_path": "\/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
-            "backdrop_path": "\/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
-            "vote_average": 5.7,
-            "vote_count": 213,
-            "popularity": 3.6777,
+            "id": 296520,
+            "name": "Cooper & Fry",
+            "original_name": "Cooper & Fry",
+            "overview": "Set in the mystery-shrouded Peak District, the series follows two mismatched young detectives: affable local Ben Cooper and guarded newcomer Diane Fry. Thrown together to investigate a string of mysterious deaths they must learn to work together to get results. As their personal lives begin to intertwine, a unique friendship begins to form... but it won't always be easy.",
+            "first_air_date": "2025-11-18",
+            "poster_path": "\/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+            "backdrop_path": "\/m2Y5zHHsHFWb7ysSmOmlKjaE4ig.jpg",
+            "vote_average": 8.2,
+            "vote_count": 5,
+            "popularity": 3.6337,
             "genre_ids": [
-                10766
+                80,
+                18,
+                9648
             ],
             "origin_country": [
-                "US"
+                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -717,7 +741,7 @@
             "backdrop_path": "\/qkwz8uBrGgESbw8J6ujmtwSVs2w.jpg",
             "vote_average": 6.5,
             "vote_count": 13,
-            "popularity": 3.0756,
+            "popularity": 3.5161,
             "genre_ids": [
                 10766,
                 18
@@ -738,7 +762,7 @@
             "backdrop_path": "\/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
             "vote_average": 6.994,
             "vote_count": 158,
-            "popularity": 2.7287,
+            "popularity": 3.3848,
             "genre_ids": [
                 10766,
                 18
@@ -759,7 +783,7 @@
             "backdrop_path": "\/asZJPzoljmPS2FBJAO4tbKza84v.jpg",
             "vote_average": 10,
             "vote_count": 1,
-            "popularity": 2.4328,
+            "popularity": 3.067,
             "genre_ids": [
                 10763,
                 10767
@@ -780,7 +804,7 @@
             "backdrop_path": "\/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
             "vote_average": 5,
             "vote_count": 12,
-            "popularity": 2.3382,
+            "popularity": 2.6158,
             "genre_ids": [],
             "origin_country": [
                 "GB"
@@ -789,16 +813,16 @@
             "adult": false
         },
         {
-            "id": 114603,
-            "name": "Name That Tune",
-            "original_name": "Name That Tune",
-            "overview": "A revival of the American television game show that put two contestants against each other to test their knowledge of songs.",
-            "first_air_date": "2021-01-06",
-            "poster_path": "\/eB0p59u9M7ESzmh6gtVHuVFziPQ.jpg",
-            "backdrop_path": "\/7uly9uOevv0Lbm91J13Z7jK9lXw.jpg",
-            "vote_average": 7.111,
-            "vote_count": 9,
-            "popularity": 2.2769,
+            "id": 271532,
+            "name": "Super Chef Celebrities",
+            "original_name": "Super Chef Celebrities",
+            "overview": "Super Chef Celebrities presents its new participants. The hottest cuisine in Puerto Rico returns!",
+            "first_air_date": "2024-05-21",
+            "poster_path": "\/1pjwqaIh9cxKScG6ahoF9EyDEPj.jpg",
+            "backdrop_path": "\/4OYN0RyRaItIpilolZGIrTcm2Pm.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 2.4474,
             "genre_ids": [],
             "origin_country": [
                 "US"
@@ -807,43 +831,22 @@
             "adult": false
         },
         {
-            "id": 68598,
-            "name": "Holiday Baking Championship",
-            "original_name": "Holiday Baking Championship",
-            "overview": "The search to find the greatest holiday baker begins as amateur bakers enter the kitchen, where they show off their family traditions and superb baking skills. To survive the challenges from week to week, they must prove their abilities in front of our tough-love judges.",
-            "first_air_date": "2014-11-09",
-            "poster_path": "\/9fPUsxiAn8CMgd917baJZUCwlFB.jpg",
-            "backdrop_path": "\/elqlGbwpRCNTw4rhyOwMU4JWhS.jpg",
-            "vote_average": 7.9,
-            "vote_count": 15,
-            "popularity": 2.1565,
+            "id": 204031,
+            "name": "Make Some Noise",
+            "original_name": "Make Some Noise",
+            "overview": "A game show where talented contestants compete to bring to life silly prompts.",
+            "first_air_date": "2022-06-13",
+            "poster_path": "\/8bMo4TKU48d3OUaSC4824Ruewj3.jpg",
+            "backdrop_path": "\/jLaaWbHh5gjdZ6Y5mK3lcrBmhRM.jpg",
+            "vote_average": 8.6,
+            "vote_count": 10,
+            "popularity": 2.1794,
             "genre_ids": [
-                10751,
+                35,
                 10764
             ],
             "origin_country": [
                 "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 4504,
-            "name": "Shortland Street",
-            "original_name": "Shortland Street",
-            "overview": "The lives and loves of the residents of Ferndale.",
-            "first_air_date": "1992-05-25",
-            "poster_path": "\/7T7TphnK6yvz9J5sMbJ5UyquYWK.jpg",
-            "backdrop_path": "\/vozvAHeGkMGu7HKAlYnPgDzdrUw.jpg",
-            "vote_average": 5,
-            "vote_count": 16,
-            "popularity": 2.1437,
-            "genre_ids": [
-                10766,
-                18
-            ],
-            "origin_country": [
-                "NZ"
             ],
             "original_language": "en",
             "adult": false
@@ -858,7 +861,7 @@
             "backdrop_path": "\/o6rx5lTNKbt5UFestOmQ34en1do.jpg",
             "vote_average": 6.7,
             "vote_count": 7,
-            "popularity": 2.1317,
+            "popularity": 2.1769,
             "genre_ids": [
                 35
             ],
@@ -878,10 +881,28 @@
             "backdrop_path": "\/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
             "vote_average": 7.968,
             "vote_count": 31,
-            "popularity": 1.8717,
+            "popularity": 1.9884,
             "genre_ids": [
                 10764
             ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 114603,
+            "name": "Name That Tune",
+            "original_name": "Name That Tune",
+            "overview": "A revival of the American television game show that put two contestants against each other to test their knowledge of songs.",
+            "first_air_date": "2021-01-06",
+            "poster_path": "\/eB0p59u9M7ESzmh6gtVHuVFziPQ.jpg",
+            "backdrop_path": "\/7uly9uOevv0Lbm91J13Z7jK9lXw.jpg",
+            "vote_average": 7.111,
+            "vote_count": 9,
+            "popularity": 1.8639,
+            "genre_ids": [],
             "origin_country": [
                 "US"
             ],
@@ -898,7 +919,7 @@
             "backdrop_path": "\/RDFXwFdDLhOJ1Nmi0GSU7mWtOT.jpg",
             "vote_average": 5.6,
             "vote_count": 50,
-            "popularity": 1.7291,
+            "popularity": 1.6718,
             "genre_ids": [
                 10763
             ],
@@ -931,6 +952,26 @@
             "adult": false
         },
         {
+            "id": 258866,
+            "name": "Dance Moms: A New Era",
+            "original_name": "Dance Moms: A New Era",
+            "overview": "Glo Hampton, who wants to take her students and prestigious dance school Studio Bleu to the next level – competing nationally every week. But the road to glory won’t be an easy one. Coach Glo must juggle her tiny but mighty dancers, their scheming moms, and ensuing meltdowns, all while ruling with a tender but tough iron fist. Will Glo and her dance team persevere amidst the dramatics?",
+            "first_air_date": "2024-08-07",
+            "poster_path": "\/kiQozeh9nag1mhhWxd9EjJzP7QW.jpg",
+            "backdrop_path": "\/6xwaf5STd1YqrHwGiz5WRYjQFM4.jpg",
+            "vote_average": 8.679,
+            "vote_count": 28,
+            "popularity": 1.5593,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
             "id": 114439,
             "name": "Let's Make a Deal",
             "original_name": "Let's Make a Deal",
@@ -941,6 +982,26 @@
             "vote_average": 5.2,
             "vote_count": 17,
             "popularity": 1.5067,
+            "genre_ids": [
+                10764
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 279644,
+            "name": "Baylen Out Loud",
+            "original_name": "Baylen Out Loud",
+            "overview": "Follow the journey of Baylen Dupree, a young woman living with Tourette Syndrome. Despite her daily challenges, Baylen, her family, and long-term boyfriend aren't afraid to laugh and embrace the chaos that makes their everyday lives unique.",
+            "first_air_date": "2025-01-13",
+            "poster_path": "\/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+            "backdrop_path": "\/vGjgCOv9Ac2UvohcqfcqFJ8TKT3.jpg",
+            "vote_average": 8.7,
+            "vote_count": 6,
+            "popularity": 1.4325,
             "genre_ids": [
                 10764
             ],
@@ -971,61 +1032,44 @@
             "adult": false
         },
         {
-            "id": 306219,
-            "name": "Civilisations: Rise and Fall",
-            "original_name": "Civilisations: Rise and Fall",
-            "overview": "Four mighty civilisations - Rome, Egypt, Japan's Samurai and the Aztecs. Their legends remain - now priceless artefacts reveal what led them to fall into the echoes of history.",
-            "first_air_date": "2025-11-24",
-            "poster_path": "\/lrJHQZ3TYAL3kP35rmHRJKnoBl5.jpg",
-            "backdrop_path": "\/2Tcq8FQdFf7d8zfegFbNenBIzML.jpg",
-            "vote_average": 1,
+            "id": 276465,
+            "name": "TMZ Live",
+            "original_name": "TMZ Live",
+            "overview": "This hourlong show is an edited version of the previous day's live video chat on TMZ, which features site founder Harvey Levin and others discussing the day's celebrity and entertainment news. Besides news, it provides a candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place. \"TMZ Live\" allows viewers to present their opinions on the featured topics through social media, phone calls and video chat.",
+            "first_air_date": "2012-06-11",
+            "poster_path": "\/12sC6lRA7ds448jaoDUtj5qGSwh.jpg",
+            "backdrop_path": "\/lntobwOaMkACftGIULcp6n4kqOF.jpg",
+            "vote_average": 2,
             "vote_count": 1,
-            "popularity": 1.28,
+            "popularity": 1.3078,
             "genre_ids": [
-                99
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 104610,
-            "name": "The Bidding Room",
-            "original_name": "The Bidding Room",
-            "overview": "Nigel Havers welcomes people with an item they’d like to sell, introducing them to a valuation expert who gives them the specialist information they need to drive a hard bargain. Tooled up with this information, Nigel guides the sellers through to the bidding room, where the five eager dealers square up to spend their money.",
-            "first_air_date": "2020-06-08",
-            "poster_path": "\/zd3FCYzb1gHZxpf7aet3xHmkxvx.jpg",
-            "backdrop_path": "\/cpf7g9qe5KlGbte0hB1SCxTsSW4.jpg",
-            "vote_average": 1,
-            "vote_count": 1,
-            "popularity": 1.222,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 261318,
-            "name": "Finding Mr. Christmas",
-            "original_name": "Finding Mr. Christmas",
-            "overview": "10 men compete in a series of festive challenges that will showcase their acting chops and their holiday spirit. Jonathan Bennett hosts while these lovable guys vie to become the next Hallmark leading man.",
-            "first_air_date": "2024-10-31",
-            "poster_path": "\/5VeJUGBY704YjQDJ95PEmkXWKhS.jpg",
-            "backdrop_path": "\/eJpMhYWHhUwFMXvmTrJ2TxpGtSi.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 1.1743,
-            "genre_ids": [
-                10764
+                10763,
+                10767,
+                35
             ],
             "origin_country": [
                 "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 86225,
+            "name": "Rob & Romesh Vs",
+            "original_name": "Rob & Romesh Vs",
+            "overview": "After the success of their 2017 show with heavyweight boxing champion Anthony Joshua, funny men Rob Beckett and Romesh Ranganathan are back to interview more celebrities from the worlds of sport, entertainment, fashion, and more.",
+            "first_air_date": "2019-01-25",
+            "poster_path": "\/wqzyblnfmdfsHWZi1Lf9avRxV5.jpg",
+            "backdrop_path": "\/RfnVQlHhnRXVfJ23BQMibkR8eY.jpg",
+            "vote_average": 6.6,
+            "vote_count": 8,
+            "popularity": 1.2931,
+            "genre_ids": [
+                10764,
+                35
+            ],
+            "origin_country": [
+                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -1040,7 +1084,7 @@
             "backdrop_path": "\/nE8Nk0Pvqm7IBcPSvLXBBt3owTy.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.9189,
+            "popularity": 1.1473,
             "genre_ids": [
                 18
             ],
@@ -1051,40 +1095,58 @@
             "adult": false
         },
         {
-            "id": 276465,
-            "name": "TMZ Live",
-            "original_name": "TMZ Live",
-            "overview": "This hourlong show is an edited version of the previous day's live video chat on TMZ, which features site founder Harvey Levin and others discussing the day's celebrity and entertainment news. Besides news, it provides a candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place. \"TMZ Live\" allows viewers to present their opinions on the featured topics through social media, phone calls and video chat.",
-            "first_air_date": "2012-06-11",
-            "poster_path": "\/12sC6lRA7ds448jaoDUtj5qGSwh.jpg",
-            "backdrop_path": "\/lntobwOaMkACftGIULcp6n4kqOF.jpg",
-            "vote_average": 2,
+            "id": 138017,
+            "name": "Celebrity Yorkshire Auction House",
+            "original_name": "Celebrity Yorkshire Auction House",
+            "overview": "Auctioneer Angus Ashworth and his team help famous faces clear their homes of clutter, hoping to discover hidden gems to be auctioned off for serious profits.",
+            "first_air_date": "2021-11-01",
+            "poster_path": "\/60KTYHyk9KAibMSZmF0Kc0Eiqey.jpg",
+            "backdrop_path": "\/uam12gJKQppyWhBCLUIkXvc9PLW.jpg",
+            "vote_average": 8,
             "vote_count": 1,
-            "popularity": 0.8397,
+            "popularity": 0.9543,
             "genre_ids": [
-                10763,
-                10767,
-                35
+                99,
+                10764
             ],
             "origin_country": [
-                "US"
+                "GB"
             ],
             "original_language": "en",
             "adult": false
         },
         {
-            "id": 273483,
-            "name": "Ancient Aliens: Origins",
-            "original_name": "Ancient Aliens: Origins",
-            "overview": "Revisit the most compelling mysteries explored over the past 15 years of \"Ancient Aliens.\" Experts like Giorgio Tsoukalos, David Childress, William Henry, and Jason Martell engage in conversations around Ancient Astronaut Theory in each episode.",
-            "first_air_date": "2024-10-07",
-            "poster_path": "\/iFzOBvmCar6SOREysM8q4AjB1Kz.jpg",
-            "backdrop_path": "\/ov50t3mUOZ63Ja8lFbi3La48Hcf.jpg",
-            "vote_average": 4.5,
-            "vote_count": 2,
-            "popularity": 0.8392,
+            "id": 307423,
+            "name": "Doménica Montero",
+            "original_name": "Doménica Montero",
+            "overview": "A respected and renowned businesswoman and philanthropist, considered one of the most sought-after brides in the country, who is left at the altar on her wedding day. Humiliated, betrayed, and turned into a target of public scrutiny, Doménica decides to flee and take refuge in one of her parents’ old estates. There, marked by pain, she faces new challenges and meets Luis Fernando, the owner of the neighboring estate, who also carries a painful past. Between them, an explosive relationship develops, marked by pride, misunderstandings, and growing attraction, where land disputes intertwine with their shared desire to rebuild, heal, and give new meaning to their lives.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "\/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg",
+            "backdrop_path": "\/l7fRCSEaHB50thaQmpTIIYxS54q.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.9046,
+            "genre_ids": [],
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 216247,
+            "name": "CBS Mornings",
+            "original_name": "CBS Mornings",
+            "overview": "Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance.",
+            "first_air_date": "2021-09-07",
+            "poster_path": "\/9itYgSVkuvForMJmVOD45liRHmw.jpg",
+            "backdrop_path": "\/muUeNUFPESIi3g4dAgVGfhgQW2u.jpg",
+            "vote_average": 5,
+            "vote_count": 1,
+            "popularity": 0.789,
             "genre_ids": [
-                99
+                10763,
+                10767
             ],
             "origin_country": [
                 "US"
@@ -1102,7 +1164,7 @@
             "backdrop_path": "\/2LR6a1LFmg919k73L2YgQsUaRrO.jpg",
             "vote_average": 8.5,
             "vote_count": 8,
-            "popularity": 0.7265,
+            "popularity": 0.775,
             "genre_ids": [
                 10764
             ],
@@ -1113,157 +1175,16 @@
             "adult": false
         },
         {
-            "id": 304159,
-            "name": "Jimmy Carr's Am I The A**hole?",
-            "original_name": "Jimmy Carr's Am I The A**hole?",
-            "overview": "Each episode sees Jimmy Carr, Jamali Maddix and GK Barry dive into a series of jaw dropping admissions, shocking family fallouts, and moments of pure social chaos, as they ask the all important question: Is this person really an A**hole?",
-            "first_air_date": "2025-10-27",
-            "poster_path": "\/xzhevnWw1j9Tp6GMI4Q3gMpUztL.jpg",
-            "backdrop_path": "\/pXLGuHo3EifeQ1oYn8hvRMweYVF.jpg",
-            "vote_average": 0,
-            "vote_count": 1,
-            "popularity": 0.7163,
-            "genre_ids": [
-                35
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 216247,
-            "name": "CBS Mornings",
-            "original_name": "CBS Mornings",
-            "overview": "Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance.",
-            "first_air_date": "2021-09-07",
-            "poster_path": "\/9itYgSVkuvForMJmVOD45liRHmw.jpg",
-            "backdrop_path": "\/muUeNUFPESIi3g4dAgVGfhgQW2u.jpg",
-            "vote_average": 5,
-            "vote_count": 1,
-            "popularity": 0.69,
-            "genre_ids": [
-                10763,
-                10767
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 306217,
-            "name": "The Marvellous Miniature Workshop",
-            "original_name": "The Marvellous Miniature Workshop",
-            "overview": "It's the little things that mean the most. Sara Cox and a team of magnificent makers bring cherished memories back to life. The models may be tiny, but the joy they bring is huge.",
-            "first_air_date": "2025-12-01",
-            "poster_path": "\/sjgRxXLM4fTNwEABcHavghZ89Fb.jpg",
-            "backdrop_path": "\/2gf2BTaSNpeIqJOyJIkUcNfMfd7.jpg",
-            "vote_average": 5,
-            "vote_count": 1,
-            "popularity": 0.6074,
-            "genre_ids": [
-                99,
-                10767
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 258866,
-            "name": "Dance Moms: A New Era",
-            "original_name": "Dance Moms: A New Era",
-            "overview": "Glo Hampton, who wants to take her students and prestigious dance school Studio Bleu to the next level – competing nationally every week. But the road to glory won’t be an easy one. Coach Glo must juggle her tiny but mighty dancers, their scheming moms, and ensuing meltdowns, all while ruling with a tender but tough iron fist. Will Glo and her dance team persevere amidst the dramatics?",
-            "first_air_date": "2024-08-07",
-            "poster_path": "\/kiQozeh9nag1mhhWxd9EjJzP7QW.jpg",
-            "backdrop_path": "\/6xwaf5STd1YqrHwGiz5WRYjQFM4.jpg",
-            "vote_average": 8.704,
-            "vote_count": 27,
-            "popularity": 0.5857,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 138017,
-            "name": "Celebrity Yorkshire Auction House",
-            "original_name": "Celebrity Yorkshire Auction House",
-            "overview": "Auctioneer Angus Ashworth and his team help famous faces clear their homes of clutter, hoping to discover hidden gems to be auctioned off for serious profits.",
-            "first_air_date": "2021-11-01",
-            "poster_path": "\/60KTYHyk9KAibMSZmF0Kc0Eiqey.jpg",
-            "backdrop_path": "\/uam12gJKQppyWhBCLUIkXvc9PLW.jpg",
-            "vote_average": 8,
-            "vote_count": 1,
-            "popularity": 0.548,
-            "genre_ids": [
-                99,
-                10764
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 212626,
-            "name": "Acting Good",
-            "original_name": "Acting Good",
-            "overview": "After a botched attempt to move to Winnipeg, Paul retreats back to his eccentric family in the fly-in community of Grouse Lake First Nation.",
-            "first_air_date": "2022-10-17",
-            "poster_path": "\/x9X5Cq0wZDv0dh3AEkpx4P3xFzI.jpg",
-            "backdrop_path": "\/k9TYPDxYpG4aIQ5lqvHKXWJbkoP.jpg",
-            "vote_average": 5,
-            "vote_count": 1,
-            "popularity": 0.5192,
-            "genre_ids": [
-                35
-            ],
-            "origin_country": [
-                "CA"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 307423,
-            "name": "Doménica Montero",
-            "original_name": "Doménica Montero",
-            "overview": "A respected and renowned businesswoman and philanthropist, considered one of the most sought-after brides in the country, who is left at the altar on her wedding day. Humiliated, betrayed, and turned into a target of public scrutiny, Doménica decides to flee and take refuge in one of her parents’ old estates. There, marked by pain, she faces new challenges and meets Luis Fernando, the owner of the neighboring estate, who also carries a painful past. Between them, an explosive relationship develops, marked by pride, misunderstandings, and growing attraction, where land disputes intertwine with their shared desire to rebuild, heal, and give new meaning to their lives.",
-            "first_air_date": "2025-12-08",
-            "poster_path": "\/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg",
-            "backdrop_path": "\/l7fRCSEaHB50thaQmpTIIYxS54q.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.5053,
-            "genre_ids": [],
-            "origin_country": [
-                "MX"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 210688,
-            "name": "Street Outlaws: No Prep Kings: The Great Eight",
-            "original_name": "Street Outlaws: No Prep Kings: The Great Eight",
-            "overview": "Street racers battle at rough, untested tracks across the country and earn points depending on how they perform. Whoever has the most points at the end is crowned the true No Prep King!",
-            "first_air_date": "2022-09-19",
-            "poster_path": "\/xTefL3IA3fqU0DZMubcW5KnBRaD.jpg",
-            "backdrop_path": "\/7MoysqtvYwT0aO6lkAzYdjm3ohG.jpg",
-            "vote_average": 7.5,
+            "id": 273483,
+            "name": "Ancient Aliens: Origins",
+            "original_name": "Ancient Aliens: Origins",
+            "overview": "Revisit the most compelling mysteries explored over the past 15 years of \"Ancient Aliens.\" Experts like Giorgio Tsoukalos, David Childress, William Henry, and Jason Martell engage in conversations around Ancient Astronaut Theory in each episode.",
+            "first_air_date": "2024-10-07",
+            "poster_path": "\/iFzOBvmCar6SOREysM8q4AjB1Kz.jpg",
+            "backdrop_path": "\/ov50t3mUOZ63Ja8lFbi3La48Hcf.jpg",
+            "vote_average": 4.5,
             "vote_count": 2,
-            "popularity": 0.4867,
+            "popularity": 0.7405,
             "genre_ids": [
                 99
             ],
@@ -1283,7 +1204,7 @@
             "backdrop_path": "\/tQFEHpLYuGgMFXiiI46AhnhPnrs.jpg",
             "vote_average": 7.8,
             "vote_count": 6,
-            "popularity": 0.4523,
+            "popularity": 0.7255,
             "genre_ids": [
                 99
             ],
@@ -1294,21 +1215,42 @@
             "adult": false
         },
         {
-            "id": 300920,
-            "name": "Baked With Love: Holiday",
-            "original_name": "Baked With Love: Holiday",
-            "overview": "10 talented pairs of home bakers face off in a warm-hearted, family- recipe bake-off. They will infuse their heritage, personal stories, and cherished family recipes into classic bakes with a holiday twist and serve their dishes to a panel of expert judges.",
-            "first_air_date": "2025-10-27",
-            "poster_path": "\/gcO57XzFd9JkW49YKRH1ILngT1C.jpg",
-            "backdrop_path": "\/p3HBrxthZcIJKn0szHA9PXLKMiQ.jpg",
-            "vote_average": 10,
+            "id": 306217,
+            "name": "The Marvellous Miniature Workshop",
+            "original_name": "The Marvellous Miniature Workshop",
+            "overview": "It's the little things that mean the most. Sara Cox and a team of magnificent makers bring cherished memories back to life. The models may be tiny, but the joy they bring is huge.",
+            "first_air_date": "2025-12-01",
+            "poster_path": "\/sjgRxXLM4fTNwEABcHavghZ89Fb.jpg",
+            "backdrop_path": "\/2gf2BTaSNpeIqJOyJIkUcNfMfd7.jpg",
+            "vote_average": 5,
             "vote_count": 1,
-            "popularity": 0.4108,
+            "popularity": 0.6895,
             "genre_ids": [
-                10764
+                99,
+                10767
             ],
             "origin_country": [
-                "US"
+                "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 304159,
+            "name": "Jimmy Carr's Am I The A**hole?",
+            "original_name": "Jimmy Carr's Am I The A**hole?",
+            "overview": "Each episode sees Jimmy Carr, Jamali Maddix and GK Barry dive into a series of jaw dropping admissions, shocking family fallouts, and moments of pure social chaos, as they ask the all important question: Is this person really an A**hole?",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/xzhevnWw1j9Tp6GMI4Q3gMpUztL.jpg",
+            "backdrop_path": "\/pXLGuHo3EifeQ1oYn8hvRMweYVF.jpg",
+            "vote_average": 0,
+            "vote_count": 1,
+            "popularity": 0.4803,
+            "genre_ids": [
+                35
+            ],
+            "origin_country": [
+                "GB"
             ],
             "original_language": "en",
             "adult": false
@@ -1323,7 +1265,7 @@
             "backdrop_path": "\/9bEp1MCe9tEJDvEEhw1MP0QneEI.jpg",
             "vote_average": 6.5,
             "vote_count": 6,
-            "popularity": 0.4076,
+            "popularity": 0.4503,
             "genre_ids": [
                 10764
             ],
@@ -1334,18 +1276,19 @@
             "adult": false
         },
         {
-            "id": 637,
-            "name": "CBS Evening News",
-            "original_name": "CBS Evening News",
-            "overview": "The CBS Evening News is the flagship daily evening television news program of CBS News, the news division of the CBS television network in the United States. The network has broadcast the program since 1948, and has used the CBS Evening News title since 1963.",
-            "first_air_date": "1961-01-02",
-            "poster_path": "\/eN7xnbYKO6NM2AQP9OE2KsKNSuf.jpg",
-            "backdrop_path": "\/uF9KmUOm8bm8OtaheKzTf0HZGzK.jpg",
-            "vote_average": 4.9,
-            "vote_count": 8,
-            "popularity": 0.3756,
+            "id": 261625,
+            "name": "Here Come the Irish",
+            "original_name": "Here Come the Irish",
+            "overview": "Documents life on and off the field of the legendary University of Notre Dame Fighting Irish football team through exclusive behind-the-scenes footage and interviews with those closest to the program.",
+            "first_air_date": "2024-08-29",
+            "poster_path": "\/oyDMjRX1N27TQERoiAOVwLnNfXy.jpg",
+            "backdrop_path": "\/txar6rM0gNpfDwBh6ML3AWuO8lF.jpg",
+            "vote_average": 1,
+            "vote_count": 1,
+            "popularity": 0.4462,
             "genre_ids": [
-                10763
+                99,
+                10764
             ],
             "origin_country": [
                 "US"
@@ -1354,16 +1297,36 @@
             "adult": false
         },
         {
-            "id": 305407,
-            "name": "Gingerbread Land: The Biggest Little Holiday Competition",
-            "original_name": "Gingerbread Land: The Biggest Little Holiday Competition",
-            "overview": "Top bakers compete in gingerbread building challenges, creating edible miniature worlds with lights, motion, and intricate details. Teams face weekly tests of design, structure, and creativity in this festive holiday competition.",
-            "first_air_date": "2025-11-17",
-            "poster_path": "\/fOsqxsvMJlWGB5gLPdeQQjP42iU.jpg",
-            "backdrop_path": "\/cP6UEGkY8z0dkopXZS9yVmealQ9.jpg",
+            "id": 210688,
+            "name": "Street Outlaws: No Prep Kings: The Great Eight",
+            "original_name": "Street Outlaws: No Prep Kings: The Great Eight",
+            "overview": "Street racers battle at rough, untested tracks across the country and earn points depending on how they perform. Whoever has the most points at the end is crowned the true No Prep King!",
+            "first_air_date": "2022-09-19",
+            "poster_path": "\/xTefL3IA3fqU0DZMubcW5KnBRaD.jpg",
+            "backdrop_path": "\/7MoysqtvYwT0aO6lkAzYdjm3ohG.jpg",
+            "vote_average": 7.5,
+            "vote_count": 2,
+            "popularity": 0.3977,
+            "genre_ids": [
+                99
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 305656,
+            "name": "The Infinite Explorer with Hannah Fry",
+            "original_name": "The Infinite Explorer with Hannah Fry",
+            "overview": "Professor Hannah Fry sets off on a global adventure, not just to see the world but to decode it. With curiosity, wit and insight she peels back the layers in six iconic locations: Spain, Vietnam, Greece, South Korea, Ireland, and Iceland. Through stunning landscapes, vibrant cities and off the beaten track treasures, Hannah seeks out extraordinary local voices and unexpected quirks of history and geography that reveal what makes each place truly unique. Always seeking patterns and hidden connections, she uncovers how Spain’s destiny was shaped by mountains, analyses traffic etiquette in Ho Chi Minh City, reveals secrets hidden in the geometry at the Parthenon and how Irish syntax builds a world view. This is much more than a travelogue—it’s a journey into the forces that shape nations and define cultures.",
+            "first_air_date": "2025-11-10",
+            "poster_path": "\/phxPmtcRLNLsDCIp8FsO7CYi036.jpg",
+            "backdrop_path": "\/lnsUGO1ecITAIukU6scKJE88OcM.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.3275,
+            "popularity": 0.343,
             "genre_ids": [],
             "origin_country": [
                 "US"
@@ -1372,44 +1335,59 @@
             "adult": false
         },
         {
-            "id": 304148,
-            "name": "Robson Green: World's Most Amazing Walks",
-            "original_name": "Robson Green: World's Most Amazing Walks",
-            "overview": "Robson Green embarks on a series of unforgettable adventures along some of the world's most awe-inspiring trails.",
-            "first_air_date": "2025-10-27",
-            "poster_path": "\/4TSemDGKBTsI30eaMoSXPv189Pf.jpg",
-            "backdrop_path": "\/9fxIctZwH882SPqbI2e2pWdanTb.jpg",
+            "id": 257658,
+            "name": "The Korean War by Indy Neidell",
+            "original_name": "The Korean War by Indy Neidell",
+            "overview": "The Korean War by Indy Neidell followes the Korean war week by week.",
+            "first_air_date": "2024-06-25",
+            "poster_path": "\/7ORxmDIQzULzOT5VJXuFKHRjL6f.jpg",
+            "backdrop_path": "\/atQWBGbgytG7pY0722rAHRGpGBk.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2706,
+            "popularity": 0.3295,
             "genre_ids": [
-                10764,
-                99
+                99,
+                10768
             ],
             "origin_country": [
-                "GB"
+                "DE"
             ],
             "original_language": "en",
             "adult": false
         },
         {
-            "id": 293047,
-            "name": "Kirby Cafe: Jac's World",
-            "original_name": "Kirby Cafe: Jac's World",
-            "overview": "Kirby Cafe: Jac's World is an Portuguese-American youth animated series about the adventures of a autistic round object named Jac and his friends.\n\nKirby Cafe: Jac's World features the artistic style of João Baptista's original characters and is created by João Baptista and Zion Williams of Pinktastic Productions. The show is produced by Cartoon Studios Ltd., an award-winning animation studio based in Faro, Algarve and Orlando, Florida. The show is notable for its character designs and bright colors. Each eleven-minute episode conveys a message about roleplay. It has won many awards and been nominated for many more.",
-            "first_air_date": "2023-12-27",
-            "poster_path": "\/m2NkVzBr8tR2BMTKrJQu1RsTMcI.jpg",
-            "backdrop_path": "\/sMgm31BkD9q10DWsoHpcNG80DFe.jpg",
-            "vote_average": 1,
+            "id": 300920,
+            "name": "Baked With Love: Holiday",
+            "original_name": "Baked With Love: Holiday",
+            "overview": "10 talented pairs of home bakers face off in a warm-hearted, family- recipe bake-off. They will infuse their heritage, personal stories, and cherished family recipes into classic bakes with a holiday twist and serve their dishes to a panel of expert judges.",
+            "first_air_date": "2025-10-27",
+            "poster_path": "\/gcO57XzFd9JkW49YKRH1ILngT1C.jpg",
+            "backdrop_path": "\/p3HBrxthZcIJKn0szHA9PXLKMiQ.jpg",
+            "vote_average": 10,
             "vote_count": 1,
-            "popularity": 0.2667,
+            "popularity": 0.3077,
             "genre_ids": [
-                35,
-                16,
-                10762
+                10764
             ],
             "origin_country": [
-                "PT",
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 256419,
+            "name": "Energy Switch",
+            "original_name": "Energy Switch",
+            "overview": "Energy Switch brings together two renowned experts from government, NGOs, academia and industry, with differing perspectives on important energy and climate topics. Hosted by renowned global energy expert, Dr. Scott Tinker.",
+            "first_air_date": "2022-10-03",
+            "poster_path": "",
+            "backdrop_path": "\/A14tGXxwRg7eKtrmdD17xWwYZ0X.jpg",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2698,
+            "genre_ids": [],
+            "origin_country": [
                 "US"
             ],
             "original_language": "en",
@@ -1425,30 +1403,12 @@
             "backdrop_path": "\/teUqeZ4sskCruLQvImeBMBT6qgk.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2371,
+            "popularity": 0.2421,
             "genre_ids": [
                 99
             ],
             "origin_country": [
                 "AU"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 38198,
-            "name": "Hot Stove",
-            "original_name": "Hot Stove",
-            "overview": "Hot Stove is the signature offseason program that airs on MLB Network and is simulcast on MLB Network Radio. The show offers the coverage of offseason activities including trades, free agent signings, and rumors. It is aired live from MLB Network's Studio 3.",
-            "first_air_date": "",
-            "poster_path": "",
-            "backdrop_path": "",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.2236,
-            "genre_ids": [],
-            "origin_country": [
-                "US"
             ],
             "original_language": "en",
             "adult": false
@@ -1463,7 +1423,25 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.2212,
+            "popularity": 0.2219,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 38198,
+            "name": "Hot Stove",
+            "original_name": "Hot Stove",
+            "overview": "Hot Stove is the signature offseason program that airs on MLB Network and is simulcast on MLB Network Radio. The show offers the coverage of offseason activities including trades, free agent signings, and rumors. It is aired live from MLB Network's Studio 3.",
+            "first_air_date": "",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.2056,
             "genre_ids": [],
             "origin_country": [
                 "US"
@@ -1481,96 +1459,13 @@
             "backdrop_path": "\/kOebNNSQngFaVOsf83t5TSs0FuI.jpg",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0.132,
+            "popularity": 0.1185,
             "genre_ids": [
                 99,
                 10763
             ],
             "origin_country": [
                 "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 261625,
-            "name": "Here Come the Irish",
-            "original_name": "Here Come the Irish",
-            "overview": "Documents life on and off the field of the legendary University of Notre Dame Fighting Irish football team through exclusive behind-the-scenes footage and interviews with those closest to the program.",
-            "first_air_date": "2024-08-29",
-            "poster_path": "\/oyDMjRX1N27TQERoiAOVwLnNfXy.jpg",
-            "backdrop_path": "\/txar6rM0gNpfDwBh6ML3AWuO8lF.jpg",
-            "vote_average": 1,
-            "vote_count": 1,
-            "popularity": 0.1306,
-            "genre_ids": [
-                99,
-                10764
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 281662,
-            "name": "CBS Mornings Plus",
-            "original_name": "CBS Mornings Plus",
-            "overview": "Third hour of CBS's morning show.",
-            "first_air_date": "2024-09-30",
-            "poster_path": "\/wcdE07qbg5C679849fNAUeXwpQk.jpg",
-            "backdrop_path": "\/CHuGNlCKkcxxJgbId4KMzbxqUs.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.1272,
-            "genre_ids": [
-                10763,
-                10767
-            ],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 306570,
-            "name": "Angus Ashworth: Yorkshire Heritage Hero",
-            "original_name": "Angus Ashworth: Yorkshire Heritage Hero",
-            "overview": "Auctioneer Angus Ashworth embarks on a mission to help save Yorkshire's stately homes. Using his skills as a valuer and house clearance specialist, he unearths forgotten relics that can be sold at auction to help fund repairs and restoration work.",
-            "first_air_date": "2025-11-24",
-            "poster_path": "\/fOAPxJOJrVavHXp283Gfyta880V.jpg",
-            "backdrop_path": "\/96Hvc8qjaFxFiJFXDH1Q1P6Zdm6.jpg",
-            "vote_average": 8,
-            "vote_count": 1,
-            "popularity": 0.124,
-            "genre_ids": [
-                10764
-            ],
-            "origin_country": [
-                "GB"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 307193,
-            "name": "Sydney's Killer Cop",
-            "original_name": "Sydney's Killer Cop",
-            "overview": "On February 18th, 2024, something deep inside the psyche of Beau Lamarre-Condon – a policeman, celebrity stalker and blogger – snapped. Lamarre-Condon’s ex Jessie Baird, a TV presenter, and Luke Davies were both shot dead with a police-issue revolver that night. How did a trusted member of the police force become a cold-blooded murderer? How was Lamarre-Condon caught…and, tragically, where had he hidden the bodies of the two young men? Over two episodes a harrowing story unfolds around the famous Sydney gay scene, a policeman who flirted as a celebrity spotter, and how his delusional star-spotting would disintegrate around him into a deadly horror show.",
-            "first_air_date": "2025-12-08",
-            "poster_path": "",
-            "backdrop_path": "\/8YX6cyXSkhNB3VgaOQ9Mwg5Pp9E.jpg",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0.1227,
-            "genre_ids": [
-                80,
-                99
-            ],
-            "origin_country": [
-                "AU"
             ],
             "original_language": "en",
             "adult": false
@@ -1591,6 +1486,24 @@
             ],
             "origin_country": [
                 "GB"
+            ],
+            "original_language": "en",
+            "adult": false
+        },
+        {
+            "id": 307742,
+            "name": "Sunday Night Football: Reality Hot Seat",
+            "original_name": "Sunday Night Football: Reality Hot Seat",
+            "overview": "Sunday Night Football like you've never seen it before!; join your reality faves as they celebrate the drama that makes the NFL obsession-worthy.",
+            "first_air_date": "2025-12-08",
+            "poster_path": "",
+            "backdrop_path": "",
+            "vote_average": 0,
+            "vote_count": 0,
+            "popularity": 0.0643,
+            "genre_ids": [],
+            "origin_country": [
+                "US"
             ],
             "original_language": "en",
             "adult": false
@@ -1645,25 +1558,7 @@
             "backdrop_path": "",
             "vote_average": 0,
             "vote_count": 0,
-            "popularity": 0,
-            "genre_ids": [],
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "adult": false
-        },
-        {
-            "id": 307742,
-            "name": "Sunday Night Football: Reality Hot Seat",
-            "original_name": "Sunday Night Football: Reality Hot Seat",
-            "overview": "Sunday Night Football like you've never seen it before!; join your reality faves as they celebrate the drama that makes the NFL obsession-worthy.",
-            "first_air_date": "2025-12-08",
-            "poster_path": "",
-            "backdrop_path": "",
-            "vote_average": 0,
-            "vote_count": 0,
-            "popularity": 0,
+            "popularity": 0.0214,
             "genre_ids": [],
             "origin_country": [
                 "US"
