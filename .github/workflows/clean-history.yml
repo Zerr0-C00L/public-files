@@ -7,8 +7,62 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  clean_history:
+  clean_workflow_runs:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    
+    steps:
+    - name: Delete old workflow runs
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const owner = context.repo.owner;
+          const repo = context.repo.repo;
+          
+          // Get all workflows
+          const workflows = await github.rest.actions.listRepoWorkflows({
+            owner,
+            repo,
+          });
+          
+          const cutoffDate = new Date();
+          cutoffDate.setDate(cutoffDate.getDate() - 30); // Keep last 30 days
+          
+          let deletedCount = 0;
+          
+          for (const workflow of workflows.data.workflows) {
+            // Get runs for this workflow
+            const runs = await github.rest.actions.listWorkflowRuns({
+              owner,
+              repo,
+              workflow_id: workflow.id,
+              per_page: 100,
+            });
+            
+            for (const run of runs.data.workflow_runs) {
+              const runDate = new Date(run.created_at);
+              if (runDate < cutoffDate) {
+                try {
+                  await github.rest.actions.deleteWorkflowRun({
+                    owner,
+                    repo,
+                    run_id: run.id,
+                  });
+                  deletedCount++;
+                  console.log(`Deleted run ${run.id} from ${workflow.name} (${run.created_at})`);
+                } catch (error) {
+                  console.log(`Failed to delete run ${run.id}: ${error.message}`);
+                }
+              }
+            }
+          }
+          
+          console.log(`Total deleted: ${deletedCount} workflow runs`);
+
+  clean_git_history:
+    runs-on: ubuntu-latest
+    needs: clean_workflow_runs
     permissions:
       contents: write
 
