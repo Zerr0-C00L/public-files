@@ -1,0 +1,175 @@
+name: Update IPTV-org EPG
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout public-files repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Clone IPTV-org EPG tool
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git iptv-org-epg
+          cd iptv-org-epg
+          npm install
+      
+      - name: Create output directory
+        run: mkdir -p iptv-org-epg-files
+      
+      - name: Generate EPG for Balkan countries
+        run: |
+          cd iptv-org-epg
+          
+          # Array of countries to process
+          countries=("ba" "hr" "rs" "si" "me" "mk" "al" "xk")
+          
+          for country in "${countries[@]}"; do
+            echo "Processing $country..."
+            
+            # Create channels file
+            cat > "../iptv-org-epg-files/channels-${country}.xml" << 'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+          EOF
+            
+            # Download playlist and extract channels with EPG IDs
+            curl -s "https://iptv-org.github.io/iptv/countries/${country}.m3u" | \
+            grep -E '^#EXTINF|^http' | \
+            paste -d '\n' - - | \
+            while IFS= read -r extinf && IFS= read -r url; do
+              if [[ $extinf =~ tvg-id=\"([^\"]+)\" ]]; then
+                tvg_id="${BASH_REMATCH[1]}"
+                channel_name=$(echo "$extinf" | sed 's/.*,//')
+                if [ -n "$tvg_id" ]; then
+                  echo "  <channel xmltv_id=\"${tvg_id}\">${channel_name}</channel>" >> "../iptv-org-epg-files/channels-${country}.xml"
+                fi
+              fi
+            done
+            
+            echo '</channels>' >> "../iptv-org-epg-files/channels-${country}.xml"
+            
+            # Generate EPG (continue even if some fail)
+            npm run grab -- \
+              --channels="../iptv-org-epg-files/channels-${country}.xml" \
+              --output="../iptv-org-epg-files/guide-${country}.xml" \
+              --days=7 \
+              --timeout=10000 || echo "Note: EPG generation for $country had issues"
+            
+            # Compress if file was created
+            if [ -f "../iptv-org-epg-files/guide-${country}.xml" ]; then
+              gzip -f "../iptv-org-epg-files/guide-${country}.xml"
+              echo "✓ Generated EPG for $country"
+            fi
+            
+            # Cleanup
+            rm -f "../iptv-org-epg-files/channels-${country}.xml"
+          done
+      
+      - name: Generate EPG for major European countries
+        run: |
+          cd iptv-org-epg
+          
+          countries=("de" "fr" "it" "es" "pt" "uk" "nl" "be" "at" "ch" "pl" "cz" "sk" "hu" "ro" "bg" "gr")
+          
+          for country in "${countries[@]}"; do
+            echo "Processing $country..."
+            
+            cat > "../iptv-org-epg-files/channels-${country}.xml" << 'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+          EOF
+            
+            curl -s "https://iptv-org.github.io/iptv/countries/${country}.m3u" | \
+            grep -E '^#EXTINF|^http' | \
+            paste -d '\n' - - | \
+            while IFS= read -r extinf && IFS= read -r url; do
+              if [[ $extinf =~ tvg-id=\"([^\"]+)\" ]]; then
+                tvg_id="${BASH_REMATCH[1]}"
+                channel_name=$(echo "$extinf" | sed 's/.*,//')
+                if [ -n "$tvg_id" ]; then
+                  echo "  <channel xmltv_id=\"${tvg_id}\">${channel_name}</channel>" >> "../iptv-org-epg-files/channels-${country}.xml"
+                fi
+              fi
+            done
+            
+            echo '</channels>' >> "../iptv-org-epg-files/channels-${country}.xml"
+            
+            npm run grab -- \
+              --channels="../iptv-org-epg-files/channels-${country}.xml" \
+              --output="../iptv-org-epg-files/guide-${country}.xml" \
+              --days=7 \
+              --timeout=10000 || echo "Note: EPG generation for $country had issues"
+            
+            if [ -f "../iptv-org-epg-files/guide-${country}.xml" ]; then
+              gzip -f "../iptv-org-epg-files/guide-${country}.xml"
+              echo "✓ Generated EPG for $country"
+            fi
+            
+            rm -f "../iptv-org-epg-files/channels-${country}.xml"
+          done
+      
+      - name: Move EPG files to repository
+        run: |
+          mkdir -p iptv-org-epg
+          mv iptv-org-epg-files/*.xml.gz iptv-org-epg/ 2>/dev/null || echo "No EPG files to move"
+          
+          # Create index file
+          cat > iptv-org-epg/README.md << 'EOF'
+          # IPTV-org EPG Files
+          
+          Automatically generated EPG (Electronic Program Guide) files for IPTV-org channels.
+          
+          ## Available Countries
+          
+          EOF
+          
+          for file in iptv-org-epg/*.xml.gz; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              country=$(echo "$filename" | sed 's/guide-//;s/.xml.gz//')
+              size=$(du -h "$file" | cut -f1)
+              echo "- **$country** - \`$filename\` ($size)" >> iptv-org-epg/README.md
+            fi
+          done
+          
+          cat >> iptv-org-epg/README.md << 'EOF'
+          
+          ## Usage
+          
+          These files are automatically loaded by StreamArr Pro based on your IPTV-org country configuration.
+          
+          **Last Updated:** $(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          EOF
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add iptv-org-epg/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update IPTV-org EPG files $(date -u +%Y-%m-%d)"
+            git push
+          fi
+      
+      - name: Cleanup
+        run: |
+          rm -rf iptv-org-epg
+          rm -rf iptv-org-epg-files
