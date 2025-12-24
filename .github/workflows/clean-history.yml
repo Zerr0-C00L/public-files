@@ -85,7 +85,6 @@ jobs:
         cp playlist.json /tmp/backup/playlist.json.bak || true
         cp playlist.m3u8 /tmp/backup/playlist.m3u8.bak || true
         cp tv_playlist.json /tmp/backup/tv_playlist.json.bak || true
-        cp collections_playlist.json /tmp/backup/collections_playlist.json.bak || true
         cp Pluto-TV/us.m3u8 /tmp/backup/us.m3u8.bak || true
         cp Pluto-TV/us.xml /tmp/backup/us.xml.bak || true
 
@@ -104,7 +103,6 @@ jobs:
                         --path playlist.json \
                         --path playlist.m3u8 \
                         --path tv_playlist.json \
-                        --path collections_playlist.json \
                         --path Pluto-TV/us.m3u8 \
                         --path Pluto-TV/us.xml \
                         --invert-paths
@@ -117,10 +115,9 @@ jobs:
         cp /tmp/backup/playlist.json.bak playlist.json || echo "File not found: playlist.json"
         cp /tmp/backup/playlist.m3u8.bak playlist.m3u8 || echo "File not found: playlist.m3u8"
         cp /tmp/backup/tv_playlist.json.bak tv_playlist.json || echo "File not found: tv_playlist.json"
-        cp /tmp/backup/collections_playlist.json.bak collections_playlist.json || echo "File not found: collections_playlist.json"
         cp /tmp/backup/us.m3u8.bak Pluto-TV/us.m3u8 || echo "File not found: us.m3u8"
         cp /tmp/backup/us.xml.bak Pluto-TV/us.xml || echo "File not found: us.xml"
-        git add adult-movies.json epg.xml playlist.json playlist.m3u8 tv_playlist.json collections_playlist.json Pluto-TV/us.m3u8 Pluto-TV/us.xml
+        git add adult-movies.json epg.xml playlist.json playlist.m3u8 tv_playlist.json Pluto-TV/us.m3u8 Pluto-TV/us.xml
         git commit -m "Re-add current versions of files after history clean" || echo "No changes to commit"
 
     - name: Re-add Remote and Force Push
